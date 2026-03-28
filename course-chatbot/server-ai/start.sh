@@ -4,7 +4,7 @@ echo "🔍 Checking vector DB..."
 
 if [ ! -d "chroma_db2" ]; then
   echo "⚡ chroma_db2 not found, building..."
-  python ingest.py
+  python rag/ingest_all_departments.py
 else
   echo "✅ chroma_db2 already exists, skip build"
 fi

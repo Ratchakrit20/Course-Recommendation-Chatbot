@@ -10,4 +10,4 @@ langchain-chroma
 # langchain-huggingface
 langchain-ollama
 chromadb
-# sentence-transformers
+sentence-transformers
