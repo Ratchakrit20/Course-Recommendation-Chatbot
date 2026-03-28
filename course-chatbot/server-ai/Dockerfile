@@ -16,8 +16,8 @@ RUN pip install --upgrade pip && pip install -r /app/requirements.txt
 
 COPY . /app
 
-COPY start.sh /app/start.sh
-RUN chmod +x /app/start.sh
+# COPY start.sh /app/start.sh
+# RUN chmod +x /app/start.sh
 
-CMD ["/app/start.sh"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 
