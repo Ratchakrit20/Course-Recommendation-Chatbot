@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  server-ai:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    container_name: course-chatbot-server-ai
+    ports:
+      - "8000:8000"
+    environment:
+      DEFAULT_PROVIDER: ollama
+      OLLAMA_BASE_URL: http://host.docker.internal:11434
+      OLLAMA_MODEL: qwen2.5:7b
+      OLLAMA_EMBED_MODEL: nomic-embed-text-v2-moe
+      CHROMA_ROOT: /app/chroma_db2
+      DEFAULT_TOP_K: 5
+      CORS_ORIGINS: http://localhost:5173,http://127.0.0.1:5173
+    restart: unless-stopped

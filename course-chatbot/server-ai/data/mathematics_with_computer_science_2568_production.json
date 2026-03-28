@@ -1,0 +1,4480 @@
+{
+  "faculty": "Applied Science",
+  "major": "Mathematics with Computer Science",
+  "year": 2568,
+  "courses": [
+    {
+      "course_code": "010013821",
+      "course_name_th": "จริยธรรมในการทํางานและความเป็นมืออาชีพ",
+      "course_name_en": "Work Ethics and Professionalism",
+      "category": "general",
+      "credits": 2,
+      "description": "Morals and ethics; concept of professions; importance of ethics in profession; role of codes of ethics; professional responsibilities; concept of morality; importance of core values; Moral/ethical dilemmas; factors affecting moral responsibility; degrees of responsibility; overview of ethical theories and applications; ethical analyses and deciding-making; truth and concept of whistleblowing; ethical leadership; conflicts of interests; ethics in the workplace; fairness; resources allocations; ethics in digital age; privacies and confidentialities; ethic in intellectual properties and innovation; sustainable engineering; case studies.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "work",
+        "ethics",
+        "professionalism",
+        "morals",
+        "concept",
+        "professions",
+        "importance",
+        "profession",
+        "role",
+        "codes"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "general",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040203101",
+      "course_name_th": "คณิตศาสตร์ 1",
+      "course_name_en": "Mathematics I",
+      "category": "core",
+      "credits": 3,
+      "description": "Limit and continuity of functions; slope and tangent line; derivative of function; velocity and rate of change; differentiation rules; higher- order derivative; derivative of elementary functions; parametric equation; applications of derivative; related rate; maxima and minima; indeterminate forms; definite and indefinite integrals; area between curves; integration techniques; numerical integration.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "mathematics",
+        "limit",
+        "continuity",
+        "functions",
+        "slope",
+        "tangent",
+        "line",
+        "derivative",
+        "function",
+        "velocity"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040203102",
+        "040223204"
+      ],
+      "recommended_next": [
+        "Mathematics II",
+        "Mathematics for Computation"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040203102",
+      "course_name_th": "คณิตศาสตร์ 2",
+      "course_name_en": "Mathematics II",
+      "category": "core",
+      "credits": 3,
+      "description": "Improper integral; applications of definite integral; arc length; area of surface of revolution; volume of revolution; function of several variables; limit and continuity; partial derivative and applications; double and triple integrals; applications of multiple integral; sequence and series; tests for convergence; power series; Taylor and Maclaurin series.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "mathematics",
+        "improper",
+        "integral",
+        "applications",
+        "definite",
+        "arc",
+        "length",
+        "area",
+        "surface",
+        "revolution"
+      ],
+      "prerequisites": [
+        "040203101"
+      ],
+      "related_courses": [
+        "040203101",
+        "040213429"
+      ],
+      "recommended_next": [
+        "Optimization Techniques"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040203103",
+      "course_name_th": "วิทยาการข้อมูลสําหรับชีวิตประจําวัน",
+      "course_name_en": "Data Science for Daily Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Principles of data science; basic mathematics for data analytics; importance and development of data science; roles of data science in daily life and current situation; data and knowledge integration; process in data science applications; big data management; data visualization and presentation; applications of mathematics for data prediction and decision making; efficiency of data science in organization improvement.",
+      "skills": [
+        "Data Analysis",
+        "Communication"
+      ],
+      "keywords": [
+        "data",
+        "science",
+        "daily",
+        "life",
+        "principles",
+        "basic",
+        "mathematics",
+        "analytics",
+        "importance",
+        "development"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "data_analysis",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213101",
+      "course_name_th": "คณิตศาสตร์ดิสครีตและการประยุกต์",
+      "course_name_en": "Discrete Mathematics and Applications",
+      "category": "core",
+      "credits": 3,
+      "description": "Set and logic; relation and function; recurrence relation; principles of number theory; counting problem; graph theory; finite automata; applications of discrete mathematics in computer sciences.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "discrete",
+        "mathematics",
+        "applications",
+        "set",
+        "logic",
+        "relation",
+        "function",
+        "recurrence",
+        "principles",
+        "number"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040213212",
+        "040213324",
+        "040223252"
+      ],
+      "recommended_next": [
+        "Graph Theory and Applications",
+        "Combinatorial Mathematics and Applications",
+        "Theory of Computation"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213102",
+      "course_name_th": "หลักคณิตศาสตร์",
+      "course_name_en": "Principles of Mathematics",
+      "category": "core",
+      "credits": 3,
+      "description": "Mathematical structure; inductive and deductive arguments; logic and proof; methods of proof; proofs of theorems related to sets; relations and functions; countable and uncountable sets.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "principles",
+        "mathematics",
+        "mathematical",
+        "structure",
+        "inductive",
+        "deductive",
+        "arguments",
+        "logic",
+        "proof",
+        "methods"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040213211",
+        "040213423"
+      ],
+      "recommended_next": [
+        "Number Theory",
+        "Fuzzy Logic"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213211",
+      "course_name_th": "ทฤษฎีจํานวน",
+      "course_name_en": "Number Theory",
+      "category": "elective",
+      "credits": 3,
+      "description": "Propertiesy of integer; divisibility; prime number; Diophantine equation; arithmetic function; congruence; Chinese remainder theorem; Euler’s theorem; Fermat’s little theorem.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "number",
+        "theory",
+        "propertiesy",
+        "integer",
+        "divisibility",
+        "prime",
+        "diophantine",
+        "equation",
+        "arithmetic",
+        "function"
+      ],
+      "prerequisites": [
+        "040213102"
+      ],
+      "related_courses": [
+        "040213102",
+        "040223304"
+      ],
+      "recommended_next": [
+        "Mathematics for Cryptography"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213212",
+      "course_name_th": "ทฤษฎีกราฟและการประยุกต์",
+      "course_name_en": "Graph Theory and Applications",
+      "category": "elective",
+      "credits": 3,
+      "description": "Graph; digraph; path; cycle; tree; bipartite graph; Eulerian graph; Hamiltonian graph; connectedness; matching; graph coloring; planar graph; network and applications.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "graph",
+        "theory",
+        "applications",
+        "digraph",
+        "path",
+        "cycle",
+        "tree",
+        "bipartite",
+        "eulerian",
+        "hamiltonian"
+      ],
+      "prerequisites": [
+        "040213101"
+      ],
+      "related_courses": [
+        "040213101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213232",
+      "course_name_th": "คณิตศาสตร์การเงิน",
+      "course_name_en": "Mathematics of Finance",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of financial problem analysis; calculation of interest; commulative and present values; compound interest; annuity; yield rates; amortization schedule and sinking fund; bond and other securities; applied mathematics in financial problem analysis.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "mathematics",
+        "finance",
+        "principles",
+        "financial",
+        "problem",
+        "analysis",
+        "calculation",
+        "interest",
+        "commulative",
+        "present"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213234",
+      "course_name_th": "คณิตศาสตร์ประกันชีวิต 1",
+      "course_name_en": "Mathematics of Life Insurance I",
+      "category": "elective",
+      "credits": 3,
+      "description": "Calculation of interest and discount; annuity; internal rate of return; survival function; mortality table; life annuity and insurance; calculation of net premium; life insurance reserves and policy holder value.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "mathematics",
+        "life",
+        "insurance",
+        "calculation",
+        "interest",
+        "discount",
+        "annuity",
+        "internal",
+        "rate",
+        "return"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213324",
+      "course_name_th": "คณิตศาสตร์เชิงการจัดและการประยุกต์",
+      "course_name_en": "Combinatorial Mathematics and Applications",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of counting; permutation and combination; binomial coefficient; inclusion and exclusion principles; pigeonhole principles; generating function; recurrence relation and applications.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "combinatorial",
+        "mathematics",
+        "applications",
+        "principles",
+        "counting",
+        "permutation",
+        "combination",
+        "binomial",
+        "coefficient",
+        "inclusion"
+      ],
+      "prerequisites": [
+        "040213101"
+      ],
+      "related_courses": [
+        "040213101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213331",
+      "course_name_th": "การวิเคราะห์อนุกรมเวลา",
+      "course_name_en": "Time Series Analysis",
+      "category": "elective",
+      "credits": 3,
+      "description": "Quantitative forecasting; smoothing techniques; adaptive filtering; classical time series analysis; regression analysis; Box-Jenkins time series; error measurement in forecasting.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "time",
+        "series",
+        "analysis",
+        "quantitative",
+        "forecasting",
+        "smoothing",
+        "techniques",
+        "adaptive",
+        "filtering",
+        "classical"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213334",
+      "course_name_th": "การวิจัยดําเนินงานแบบกําหนด",
+      "course_name_en": "Deterministic Operations Research",
+      "category": "elective",
+      "credits": 3,
+      "description": "Linear programming modeling; simplex method; sensitivity analysis; dual problem; transportation and assignment problems; network optimization algorithms; integer programming and applications.",
+      "skills": [
+        "Programming",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "deterministic",
+        "operations",
+        "research",
+        "linear",
+        "programming",
+        "modeling",
+        "simplex",
+        "method",
+        "sensitivity",
+        "analysis"
+      ],
+      "prerequisites": [
+        "040223204"
+      ],
+      "related_courses": [
+        "040223204"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213335",
+      "course_name_th": "การวิจัยดําเนินงานแบบสโตแคสติก",
+      "course_name_en": "Stochastic Operations Research",
+      "category": "elective",
+      "credits": 3,
+      "description": "Game theory; Markov chain; queueing theory; inventory theory; decision making analysis; Markov decision processes; problem simulation.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "stochastic",
+        "operations",
+        "research",
+        "game",
+        "theory",
+        "markov",
+        "chain",
+        "queueing",
+        "inventory",
+        "decision"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213423",
+      "course_name_th": "ตรรกศาสตร์ฟัซซิ",
+      "course_name_en": "Fuzzy Logic",
+      "category": "elective",
+      "credits": 3,
+      "description": "Classical and fuzzy set; definition of fuzzy set; operations on fuzzy sets; classical and fuzzy relations; fuzzy functions; calculus of fuzzy functions; integral of fuzzy functions; fuzzy numbers and fuzzy arithmetic; fuzzy random variables and fuzzy probability theory; fuzzy logic and approximate reasoning; applications of fuzzy set and logic theory; fuzzy logic control systems.",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "fuzzy",
+        "logic",
+        "classical",
+        "set",
+        "definition",
+        "operations",
+        "sets",
+        "relations",
+        "functions",
+        "calculus"
+      ],
+      "prerequisites": [
+        "040213102"
+      ],
+      "related_courses": [
+        "040213102"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213429",
+      "course_name_th": "เทคนิคการหาค่าเหมาะที่สุด",
+      "course_name_en": "Optimization Techniques",
+      "category": "elective",
+      "credits": 3,
+      "description": "One-variable unconstrained optimization; multi-variable constrained optimization; searching method; gradient method; Newton method; constrained optimization; Karush-Kuhn-Tucker condition; inequality constrained optimization methods.",
+      "skills": [
+        "Mathematical Modeling",
+        "Quality Control"
+      ],
+      "keywords": [
+        "optimization",
+        "techniques",
+        "one-variable",
+        "unconstrained",
+        "multi-variable",
+        "constrained",
+        "searching",
+        "method",
+        "gradient",
+        "newton"
+      ],
+      "prerequisites": [
+        "040203102"
+      ],
+      "related_courses": [
+        "040203102"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040213446",
+      "course_name_th": "ทฤษฎีรหัส",
+      "course_name_en": "Coding Theory",
+      "category": "elective",
+      "credits": 3,
+      "description": "Theory of error-correcting codes using concepts from algebra; number theory and probability; concepts of coding theory; encoding and decoding; finite fields and linear codes; Hamming codes; parity checks; preliminary algebra on vector spaces and finite fields.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "coding",
+        "theory",
+        "error-correcting",
+        "codes",
+        "concepts",
+        "algebra",
+        "number",
+        "probability",
+        "encoding",
+        "decoding"
+      ],
+      "prerequisites": [
+        "040223204"
+      ],
+      "related_courses": [
+        "040223204"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223100",
+      "course_name_th": "ความรู้พื้นฐานเกี่ยวกับวิทยาการคอมพิวเตอร์และเทคโนโลยีสารสนเทศ",
+      "course_name_en": "",
+      "category": "elective",
+      "credits": 3,
+      "description": "Fundamental knowledge of computer science; computer components; hardware and devices; software and operating system; computer language; network and internet system; data and data management; information technology; system analysis and development; e-commerce; ethics and online security.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "fundamental",
+        "knowledge",
+        "computer",
+        "science",
+        "components",
+        "hardware",
+        "devices",
+        "software",
+        "operating",
+        "system"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cybersecurity Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223101",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์สําหรับคณิตศาสตร์ 1",
+      "course_name_en": "Computer Programming for Mathematics I",
+      "category": "core",
+      "credits": 3,
+      "description": "Problem solving process; simulation of ideas; problem solving skills; basic programming; program procedure; data type; comparison operator; logical operators; programming pinciples and techniques for solving mathematical problems.",
+      "skills": [
+        "Programming",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "computer",
+        "programming",
+        "mathematics",
+        "problem",
+        "solving",
+        "process",
+        "simulation",
+        "ideas",
+        "skills",
+        "basic"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040223102",
+        "040223241",
+        "040223302",
+        "040223303",
+        "040223360",
+        "040223361",
+        "040223458"
+      ],
+      "recommended_next": [
+        "Computer Programming for Mathematics II",
+        "Data Structures and Mathematical Principles",
+        "Computer Programming for Data Science",
+        "Optimization for Data Science",
+        "Web Application Programming",
+        "Mobile Device Programming"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "mathematical_modeling",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223102",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์สําหรับคณิตศาสตร์ 2",
+      "course_name_en": "Computer Programming for Mathematics II",
+      "category": "core",
+      "credits": 3,
+      "description": "Structured programming; commands to receive and display data; simple and structured data types; recursive subprogram and parameter; data file usage; recursive program; recursive algorithms; structured programming training; computer programming training for problem solving in mathematics",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "computer",
+        "programming",
+        "mathematics",
+        "structured",
+        "commands",
+        "receive",
+        "display",
+        "data",
+        "simple",
+        "types"
+      ],
+      "prerequisites": [
+        "040223101"
+      ],
+      "related_courses": [
+        "040223101",
+        "040223201"
+      ],
+      "recommended_next": [
+        "Object Oriented Programming"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223201",
+      "course_name_th": "การเขียนโปรแกรมเชิงวัตถุ",
+      "course_name_en": "Object Oriented Programming",
+      "category": "core",
+      "credits": 3,
+      "description": "Principles of object-oriented programming; data transmission commands in each part of program; calculation and comparison commands; control commands and conditions; graphical user interface design; user experience design and accessibility; graphical user interface and event-driven programming.",
+      "skills": [
+        "Programming",
+        "Quality Control"
+      ],
+      "keywords": [
+        "object",
+        "oriented",
+        "programming",
+        "principles",
+        "object-oriented",
+        "data",
+        "transmission",
+        "commands",
+        "each",
+        "part"
+      ],
+      "prerequisites": [
+        "040223102"
+      ],
+      "related_courses": [
+        "040223102",
+        "040223203",
+        "040223353"
+      ],
+      "recommended_next": [
+        "Database Programming",
+        "Object Oriented Software Design"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "programming",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223202",
+      "course_name_th": "ระบบจัดการฐานข้อมูล",
+      "course_name_en": "Database Management Systems",
+      "category": "core",
+      "credits": 3,
+      "description": "Database and database management system; data file system; database management system architecture: data flow diagram; entity relationship diagrams; relational database diagram; table; key; integrity rules; data dictionary; normalization; structured query language; transaction management and database administration; data recovery; concurrency control; database security; database application development.",
+      "skills": [
+        "Programming",
+        "Quality Control"
+      ],
+      "keywords": [
+        "database",
+        "management",
+        "systems",
+        "system",
+        "data",
+        "file",
+        "architecture",
+        "flow",
+        "diagram",
+        "entity"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040223310",
+        "040223363"
+      ],
+      "recommended_next": [
+        "Data Warehouse",
+        "System Analysis and Design for Mathematics"
+      ],
+      "career_tracks": [
+        "Cybersecurity Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "programming",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223203",
+      "course_name_th": "การเขียนโปรแกรมฐานข้อมูล",
+      "course_name_en": "Database Programming",
+      "category": "core",
+      "credits": 3,
+      "description": "Principles and techniques for developing object-oriented program; method for developing object-oriented program; programming for solving advanced mathematical problems; database programming; program development using framework.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "database",
+        "programming",
+        "principles",
+        "techniques",
+        "developing",
+        "object-oriented",
+        "program",
+        "method",
+        "solving",
+        "advanced"
+      ],
+      "prerequisites": [
+        "040223201"
+      ],
+      "related_courses": [
+        "040223201"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "core",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223204",
+      "course_name_th": "คณิตศาสตร์สําหรับการคํานวณ",
+      "course_name_en": "Mathematics for Computation",
+      "category": "core",
+      "credits": 3,
+      "description": "Matrix; matrix operation; matrix inverse; linear equation; scalar and vector; vector algebra; Eigen value; Eigen vector; system of linear equations; introduction to differential equations with applications.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "mathematics",
+        "computation",
+        "matrix",
+        "operation",
+        "inverse",
+        "linear",
+        "equation",
+        "scalar",
+        "vector",
+        "algebra"
+      ],
+      "prerequisites": [
+        "040203101"
+      ],
+      "related_courses": [
+        "040203101",
+        "040213334",
+        "040213446",
+        "040223316",
+        "040223351",
+        "040223357"
+      ],
+      "recommended_next": [
+        "Deterministic Operations Research",
+        "Coding Theory",
+        "Numerical Computation",
+        "Mathematical Software",
+        "Mathematics for Computer Graphics"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "core",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223241",
+      "course_name_th": "โครงสร้างข้อมูลและหลักคณิตศาสตร์",
+      "course_name_en": "Data Structures and Mathematical Principles",
+      "category": "core",
+      "credits": 3,
+      "description": "Efficiency analysis of data structures and algorithms using mathematical principles; array; linked-list; stack; queue; tree; heap; hash; graph; sorting algorithm; searching algorithm.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "data",
+        "structures",
+        "mathematical",
+        "principles",
+        "efficiency",
+        "analysis",
+        "algorithms",
+        "array",
+        "linked-list",
+        "stack"
+      ],
+      "prerequisites": [
+        "040223101"
+      ],
+      "related_courses": [
+        "040223101",
+        "040223341"
+      ],
+      "recommended_next": [
+        "Mathematics for Analysis of Computer Algorithms"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "core",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223252",
+      "course_name_th": "ทฤษฎีการคํานวณ",
+      "course_name_en": "Theory of Computation",
+      "category": "elective",
+      "credits": 3,
+      "description": "Machine and formal language; finite automata; regular language; regular expression; regular grammar; pushdown automata; context- free grammar; context- free language; turing machine; recursively enumerable language; complexity of computation.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "theory",
+        "computation",
+        "machine",
+        "formal",
+        "language",
+        "finite",
+        "automata",
+        "regular",
+        "expression",
+        "grammar"
+      ],
+      "prerequisites": [
+        "040213101"
+      ],
+      "related_courses": [
+        "040213101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223301",
+      "course_name_th": "การสื่อสารข้อมูลและระบบเครือข่าย",
+      "course_name_en": "Data Communication and Networking",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of data communication and networking: network architecture; OSI model; protocol architecture; digital and analog signals; circuit switching and packet switching; transmission media; ethernet technology; local area network; virtual network; wide area network; wireless local area network; cellular; internet technology; internet protocol address (IP address); data encryption; network security and network system development.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "data",
+        "communication",
+        "networking",
+        "principles",
+        "network",
+        "architecture",
+        "osi",
+        "model",
+        "protocol",
+        "digital"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Cybersecurity Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223302",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์สําหรับวิทยาการข้อมูล",
+      "course_name_en": "Computer Programming for Data Science",
+      "category": "elective",
+      "credits": 3,
+      "description": "Computer programming for data analytics and using essential modules for data analytics; importing data from file and database; data manipulation; feature engineering; data visualization; predictive analytics; descriptive analytics.",
+      "skills": [
+        "Programming",
+        "Data Analysis"
+      ],
+      "keywords": [
+        "computer",
+        "programming",
+        "data",
+        "science",
+        "analytics",
+        "essential",
+        "modules",
+        "importing",
+        "file",
+        "database"
+      ],
+      "prerequisites": [
+        "040223101"
+      ],
+      "related_courses": [
+        "040223101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223303",
+      "course_name_th": "การหาค่าเหมาะสุดสําหรับวิทยาการข้อมูล",
+      "course_name_en": "Optimization for Data Science",
+      "category": "elective",
+      "credits": 3,
+      "description": "Fundamentals of computer programming for optimization; essential modules for optimization; single-variable optimization; multi-variable optimization without constraints; multi-variable optimization with constraints; linear programming; integer programing; mixed- integer programming; computer programming for optimization; case study of optimization for data science.",
+      "skills": [
+        "Programming",
+        "Data Analysis",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "optimization",
+        "data",
+        "science",
+        "fundamentals",
+        "computer",
+        "programming",
+        "essential",
+        "modules",
+        "single-variable",
+        "multi-variable"
+      ],
+      "prerequisites": [
+        "040223101"
+      ],
+      "related_courses": [
+        "040223101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective",
+        "mathematical_modeling",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223304",
+      "course_name_th": "คณิตศาสตร์สําหรับวิทยาการรหัสลับ",
+      "course_name_en": "Mathematics for Cryptography",
+      "category": "elective",
+      "credits": 3,
+      "description": "Cyptography system; symmetric cryptosystem; stream cipher; block cipher; Feistel Ciphers; hash functions; MAC; asymmetric cryptosystems; RSA; discrete logarithm cryptographic scheme; Diffie-Hellman; ElGamal; data integrity; authentication; digital signatures; public key management.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "mathematics",
+        "cryptography",
+        "cyptography",
+        "system",
+        "symmetric",
+        "cryptosystem",
+        "stream",
+        "cipher",
+        "block",
+        "feistel"
+      ],
+      "prerequisites": [
+        "040213211"
+      ],
+      "related_courses": [
+        "040213211"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cybersecurity Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223305",
+      "course_name_th": "การสร้างภาพนิทัศน์สําหรับวิทยาการข้อมูล",
+      "course_name_en": "Visualization for Data Science",
+      "category": "elective",
+      "credits": 3,
+      "description": "Visualization for categorical data; visualization for mathematical and statistical functions; visualization for time-series data; graphic visualization; information visualization; visualization of network data; data storytelling.",
+      "skills": [
+        "Data Analysis"
+      ],
+      "keywords": [
+        "visualization",
+        "data",
+        "science",
+        "categorical",
+        "mathematical",
+        "statistical",
+        "functions",
+        "time-series",
+        "graphic",
+        "information"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223306",
+      "course_name_th": "โครงข่ายประสาทเทียมและการเรียนรู้เชิงลึก",
+      "course_name_en": "Artificial Neural Network and Deep Learning",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of neural network; neural network learning techniques; deep learning definition; deep learning algorithms; shallow and a deep neural network building; applications of deep learning in data science; recent deep learning algorithm.",
+      "skills": [
+        "Programming",
+        "Data Analysis",
+        "Machine Learning"
+      ],
+      "keywords": [
+        "artificial",
+        "neural",
+        "network",
+        "deep",
+        "learning",
+        "principles",
+        "techniques",
+        "definition",
+        "algorithms",
+        "shallow"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective",
+        "machine_learning",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223307",
+      "course_name_th": "การคํานวณจากแรงบันดาลทางชีววิทยา",
+      "course_name_en": "Biologically Inspired Computation",
+      "category": "elective",
+      "credits": 3,
+      "description": "Classical and biologically inspired computation; evolutionary algorithm; swarm intelligence; ant colony method; particle swarm optimization; neural computation; artificial life; artificial chemistry; membrane computing; artificial immune system.",
+      "skills": [
+        "Programming",
+        "Chemistry",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "biologically",
+        "inspired",
+        "computation",
+        "classical",
+        "evolutionary",
+        "algorithm",
+        "swarm",
+        "intelligence",
+        "ant",
+        "colony"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "chemistry",
+        "elective",
+        "mathematical_modeling",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223308",
+      "course_name_th": "การประมวลผลแบบกระจายและกลุ่มเมฆ",
+      "course_name_en": "Distributed and Cloud Computing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Distributed system model; visualization; cloud networking; logical time and ordering; distributed consensus and agreement algorithm; distributed leader election algorithm; checkpointing and rollback recovery; cloud architecture design; big data platform using cloud.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "distributed",
+        "cloud",
+        "computing",
+        "system",
+        "model",
+        "visualization",
+        "networking",
+        "logical",
+        "time",
+        "ordering"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223309",
+      "course_name_th": "การวิเคราะห์ข้อมูลสําหรับธุรกิจ",
+      "course_name_en": "Data Analysis for Business",
+      "category": "elective",
+      "credits": 3,
+      "description": "Business data and information; business data collection; sampling for business data; business estimation; establishing and testing hypotheses for business; analysis of different types of information from business data sets; testing of business data characteristics ratios; measuring the relationship between business data characteristics; analysis of relationship between business data characteristics; influency analysis of business factor and variable; business group classification; forecasting techniques for business; quantitative analysis for business decision making; programming and software usage for business data analysis.",
+      "skills": [
+        "Programming",
+        "Data Analysis",
+        "Business"
+      ],
+      "keywords": [
+        "data",
+        "analysis",
+        "business",
+        "information",
+        "collection",
+        "sampling",
+        "estimation",
+        "establishing",
+        "testing",
+        "hypotheses"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "business",
+        "data_analysis",
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223310",
+      "course_name_th": "คลังข้อมูล",
+      "course_name_en": "Data Warehouse",
+      "category": "elective",
+      "credits": 3,
+      "description": "Concept; terminology; characteristic and essential techniques for data warehousing; project design and development; data warehouse planning; data warehouse implementation and administration; alternative database structures; data warehouse development and implementation; relational database structure; multi-dimensional database structure; ETL function; multi-dimensional and analytical processing.",
+      "skills": [
+        "Programming",
+        "Chemistry"
+      ],
+      "keywords": [
+        "data",
+        "warehouse",
+        "concept",
+        "terminology",
+        "characteristic",
+        "essential",
+        "techniques",
+        "warehousing",
+        "project",
+        "design"
+      ],
+      "prerequisites": [
+        "040223202"
+      ],
+      "related_courses": [
+        "040223202"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "chemistry",
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223311",
+      "course_name_th": "ความมั่นคงปลอดภัยทางเทคโนโลยีสารสนเทศและไซเบอร์",
+      "course_name_en": "Information Technology and Cyber Security",
+      "category": "elective",
+      "credits": 3,
+      "description": "Overview of network and system security; cryptography; authentication methods and protocols; access control; public key infrastructure; IP security; routing security; web security; wireless network security; firewalls; virtual private network (VPN); intrusion detection system; intrusion prevention system; cloud computing security; blockchain technology.",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "information",
+        "technology",
+        "cyber",
+        "security",
+        "overview",
+        "network",
+        "system",
+        "cryptography",
+        "authentication",
+        "methods"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cybersecurity Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223312",
+      "course_name_th": "การทดสอบซอฟต์แวร์",
+      "course_name_en": "Software Testing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Software testing technique; level of testing; software inspection; software testing management; test case design; testing tool; test planning and documentation.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "software",
+        "testing",
+        "technique",
+        "level",
+        "inspection",
+        "management",
+        "test",
+        "case",
+        "design",
+        "tool"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223313",
+      "course_name_th": "การประกันคุณภาพซอฟต์แวร์",
+      "course_name_en": "Software Quality Assurance",
+      "category": "elective",
+      "credits": 3,
+      "description": "Software process; activities; methods; and human roles; practices in development and maintaining software development; technique in quality control to assure software quality; software process model for common and international standard; case study.",
+      "skills": [
+        "Programming",
+        "Quality Control"
+      ],
+      "keywords": [
+        "software",
+        "quality",
+        "assurance",
+        "process",
+        "activities",
+        "methods",
+        "human",
+        "roles",
+        "practices",
+        "development"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223314",
+      "course_name_th": "การพัฒนาระบบพาณิชย์อิเล็กทรอนิกส์",
+      "course_name_en": "E-Commerce System Development",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of e-commerce; infrastructure; applications and supporting services of e- commerce; electronic payment system and security system; e- commerce advertising; business model and e-commerce management.",
+      "skills": [
+        "Business"
+      ],
+      "keywords": [
+        "e-commerce",
+        "system",
+        "development",
+        "principles",
+        "infrastructure",
+        "applications",
+        "supporting",
+        "services",
+        "commerce",
+        "electronic"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Cybersecurity Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "business",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223315",
+      "course_name_th": "ระบบการวางแผนทรัพยากรวิสาหกิจ",
+      "course_name_en": "Enterprise Resource Planning System",
+      "category": "elective",
+      "credits": 3,
+      "description": "Business functions and process; development of enterprise resource planning (ERP) system; marketing information system and sale order process; production and supply chain management; accounting in ERP Systems; human resources management processes; process modeling; process improvement and ERP implementation; ERP and electronic commerce.",
+      "skills": [
+        "Business"
+      ],
+      "keywords": [
+        "enterprise",
+        "resource",
+        "planning",
+        "system",
+        "business",
+        "functions",
+        "process",
+        "development",
+        "erp",
+        "marketing"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "business",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223316",
+      "course_name_th": "การคํานวณเชิงตัวเลข",
+      "course_name_en": "Numerical Computation",
+      "category": "core",
+      "credits": 3,
+      "description": "Error; numerical solution of nonlinear equation; numerical solution of linear and nonlinear systems; interpolation; numerical differentiation; numerical integration; numerical solutions of ordinary differential equation.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "numerical",
+        "computation",
+        "error",
+        "solution",
+        "nonlinear",
+        "equation",
+        "linear",
+        "systems",
+        "interpolation",
+        "differentiation"
+      ],
+      "prerequisites": [
+        "040223204"
+      ],
+      "related_courses": [
+        "040223204",
+        "040223317"
+      ],
+      "recommended_next": [
+        "Computer Programming for Numerical Computation"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "core",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223317",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์สําหรับการคํานวณเชิงตัวเลข",
+      "course_name_en": "Computer Programming for Numerical Computation",
+      "category": "elective",
+      "credits": 3,
+      "description": "Fundamentals of programming for numerical computation; data structures for scientific computing; memory management and program efficiency; algorithm analysis for numerical computation; programming for finding error; programming for solving numerical solution of nonlinear equation; programming for solving numerical solution of linear and nonlinear systems; programming for interpolation; programming for solving numerical differentiation; programming for solving numerical integration; programming for solving numerical solutions of ordinary differential equation; science and engineering applications.",
+      "skills": [
+        "Programming",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "computer",
+        "programming",
+        "numerical",
+        "computation",
+        "fundamentals",
+        "data",
+        "structures",
+        "scientific",
+        "computing",
+        "memory"
+      ],
+      "prerequisites": [
+        "040223316"
+      ],
+      "related_courses": [
+        "040223316"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223341",
+      "course_name_th": "คณิตศาสตร์สําหรับการวิเคราะห์ขั้นตอนวิธีทางคอมพิวเตอร์",
+      "course_name_en": "Mathematics for Analysis of Computer Algorithms",
+      "category": "core",
+      "credits": 3,
+      "description": "Algorithm analysis using mathematical method; calculus theory for time complexity analysis; analysis of sequential algorithm; analysis of selective algorithm; analysis of iterative algorithm; analysis of recursive algorithm; best-case; worst-case; and average-case analysis of algorithm; divide-and-conquer algorithm; dynamic programming; greedy algorithm; correctness analysis of algorithm; NP-completeness.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "mathematics",
+        "analysis",
+        "computer",
+        "algorithms",
+        "algorithm",
+        "mathematical",
+        "method",
+        "calculus",
+        "theory",
+        "time"
+      ],
+      "prerequisites": [
+        "040223241"
+      ],
+      "related_courses": [
+        "040223241"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "core",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223342",
+      "course_name_th": "การสร้างตัวแบบทางคณิตศาสตร์และการจําลองด้วยคอมพิวเตอร์",
+      "course_name_en": "Mathematical Modeling and Computer Simulation",
+      "category": "elective",
+      "credits": 3,
+      "description": "Deterministic modeling; continuous-time model for single-specie population; discrete-time model; logistic model; equilibrium point; stability; linearization; mathematical model for multiple- specie population; Lotka- Volterra model; numerical solutions and computer simulations.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "mathematical",
+        "modeling",
+        "computer",
+        "simulation",
+        "deterministic",
+        "continuous-time",
+        "model",
+        "single-specie",
+        "population",
+        "discrete-time"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223351",
+      "course_name_th": "โปรแกรมสําเร็จรูปทางคณิตศาสตร์",
+      "course_name_en": "Mathematical Software",
+      "category": "elective",
+      "credits": 3,
+      "description": "Mathematical software usage; graphic and animation; symbolic and numerical computation; coding; problems solving in calculus; linear algebra; and ordinary differential equations.",
+      "skills": [
+        "Programming",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "mathematical",
+        "software",
+        "usage",
+        "graphic",
+        "animation",
+        "symbolic",
+        "numerical",
+        "computation",
+        "coding",
+        "problems"
+      ],
+      "prerequisites": [
+        "040223204"
+      ],
+      "related_courses": [
+        "040223204"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223353",
+      "course_name_th": "การออกแบบซอฟต์แวร์เชิงวัตถุ",
+      "course_name_en": "Object Oriented Software Design",
+      "category": "elective",
+      "credits": 3,
+      "description": "Definition and characteristic of object oriented programming; abstract data type; object and class; encapsulation and data hiding; inheritance; polymorphism; reuse.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "object",
+        "oriented",
+        "software",
+        "design",
+        "definition",
+        "characteristic",
+        "programming",
+        "abstract",
+        "data",
+        "type"
+      ],
+      "prerequisites": [
+        "040223201"
+      ],
+      "related_courses": [
+        "040223201"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223355",
+      "course_name_th": "การทําเหมืองข้อมูล",
+      "course_name_en": "Data Mining",
+      "category": "elective",
+      "credits": 3,
+      "description": "Overview of data mining; characteristics of data; data preparation; data cleansing; fundamental statistics for data analysis; data visualization; data classification model and algorithm; clustering model and algorithms; linear regression model; association rules and algorithm; model evaluation; outlier detection algorithms.",
+      "skills": [
+        "Programming",
+        "Data Analysis"
+      ],
+      "keywords": [
+        "data",
+        "mining",
+        "overview",
+        "characteristics",
+        "preparation",
+        "cleansing",
+        "fundamental",
+        "statistics",
+        "analysis",
+        "visualization"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223356",
+      "course_name_th": "คณิตศาสตร์สําหรับปัญญาประดิษฐ์",
+      "course_name_en": "Mathematics for Artificial Intelligence",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of artificial intelligence; solving problem by searching; knowledge representation; logic for artificial intelligence; uncertainty; expert system; fundamental of machine learning; artificial neural network; evolutionary computation.",
+      "skills": [
+        "Machine Learning",
+        "Mathematical Modeling",
+        "Communication"
+      ],
+      "keywords": [
+        "mathematics",
+        "artificial",
+        "intelligence",
+        "principles",
+        "solving",
+        "problem",
+        "searching",
+        "knowledge",
+        "representation",
+        "logic"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective",
+        "machine_learning",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223357",
+      "course_name_th": "คณิตศาสตร์สําหรับคอมพิวเตอร์กราฟิกส์",
+      "course_name_en": "Mathematics for Computer Graphics",
+      "category": "elective",
+      "credits": 3,
+      "description": "Hardware and software principles of raster graphic system; concepts of 2-D and 3-D modeling and transformations; computer graphic pipeline; viewing transformation; parallel and perspective projection; data structures for graphics; lighting and shading; rendering technique; software for graphic systems.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "mathematics",
+        "computer",
+        "graphics",
+        "hardware",
+        "software",
+        "principles",
+        "raster",
+        "graphic",
+        "system",
+        "concepts"
+      ],
+      "prerequisites": [
+        "040223204"
+      ],
+      "related_courses": [
+        "040223204"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223360",
+      "course_name_th": "การเขียนโปรแกรมประยุกต์บนเว็บ",
+      "course_name_en": "Web Application Programming",
+      "category": "elective",
+      "credits": 3,
+      "description": "Client-side web technologies; user-centered web design process; web design principles; responsive web design; web design for mobile device; web design for single-page application; interactive front-end web development; framework and tool for web design and development; information architecture; writing for web; web development using CMS technology.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "web",
+        "application",
+        "programming",
+        "client-side",
+        "technologies",
+        "user-centered",
+        "design",
+        "process",
+        "principles",
+        "responsive"
+      ],
+      "prerequisites": [
+        "040223101"
+      ],
+      "related_courses": [
+        "040223101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223361",
+      "course_name_th": "การเขียนโปรแกรมบนอุปกรณ์เคลื่อนที่",
+      "course_name_en": "Mobile Device Programming",
+      "category": "elective",
+      "credits": 3,
+      "description": "Hardware and operating system for mobile device; development tool; programming technique; graphical user interface (GUI); event handling; important application program interfaces (APIS); map; location; communication with services and social network.",
+      "skills": [
+        "Programming",
+        "Communication"
+      ],
+      "keywords": [
+        "mobile",
+        "device",
+        "programming",
+        "hardware",
+        "operating",
+        "system",
+        "development",
+        "tool",
+        "technique",
+        "graphical"
+      ],
+      "prerequisites": [
+        "040223101"
+      ],
+      "related_courses": [
+        "040223101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223363",
+      "course_name_th": "การวิเคราะห์และออกแบบระบบสําหรับคณิตศาสตร์",
+      "course_name_en": "System Analysis and Design for Mathematics",
+      "category": "elective",
+      "credits": 3,
+      "description": "Object-oriented system development; system analysis and design; project selection and management; system requirement determination; use case analysis; process model; data model; design strategy and architecture design; user interface design; data storage design; program; class; and method designs; system implementation and installation.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "system",
+        "analysis",
+        "design",
+        "mathematics",
+        "object-oriented",
+        "development",
+        "project",
+        "selection",
+        "management",
+        "requirement"
+      ],
+      "prerequisites": [
+        "040223202"
+      ],
+      "related_courses": [
+        "040223202"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223371",
+      "course_name_th": "หัวข้อคัดเฉพาะทางด้านคณิตศาสตร์เชิงการคํานวณและการหาค่าเหมาะสุด 1",
+      "course_name_en": "Selected Topic in Computational Mathematics and Optimization I",
+      "category": "elective",
+      "credits": 3,
+      "description": "Contents vary from year to year according to interest of students and instructor in charge; typical contents include contemporary developments in computational mathematics and optimization.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "selected",
+        "topic",
+        "computational",
+        "mathematics",
+        "optimization",
+        "contents",
+        "vary",
+        "year",
+        "according",
+        "interest"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223372",
+      "course_name_th": "หัวข้อคัดเฉพาะทางด้านคณิตศาสตร์เชิงการคํานวณและการหาค่าเหมาะสุด 2",
+      "course_name_en": "Selected Topic in Computational Mathematics and Optimization II",
+      "category": "elective",
+      "credits": 3,
+      "description": "Contents vary from year to year according to interest of students and instructor in charge; typical contents include contemporary developments in computational mathematics and optimization.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "selected",
+        "topic",
+        "computational",
+        "mathematics",
+        "optimization",
+        "contents",
+        "vary",
+        "year",
+        "according",
+        "interest"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223373",
+      "course_name_th": "หัวข้อคัดเฉพาะทางด้านปัญญาเชิงคํานวณและวิทยาการข้อมูล 1",
+      "course_name_en": "Selected Topic in Computational Intelligence and Data Science I",
+      "category": "elective",
+      "credits": 3,
+      "description": "Contents vary from year to year according to interest of students and instructor in charge; typical contents include contemporary developments in computational intelligence and data science.",
+      "skills": [
+        "Data Analysis",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "selected",
+        "topic",
+        "computational",
+        "intelligence",
+        "data",
+        "science",
+        "contents",
+        "vary",
+        "year",
+        "according"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223374",
+      "course_name_th": "หัวข้อคัดเฉพาะทางด้านปัญญาเชิงคํานวณและวิทยาการข้อมูล 2",
+      "course_name_en": "Selected Topic in Computational Intelligence and Data Science II",
+      "category": "elective",
+      "credits": 3,
+      "description": "Contents vary from year to year according to interest of students and instructor in charge; typical contents include contemporary developments in computational intelligence and data science.",
+      "skills": [
+        "Data Analysis",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "selected",
+        "topic",
+        "computational",
+        "intelligence",
+        "data",
+        "science",
+        "contents",
+        "vary",
+        "year",
+        "according"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223375",
+      "course_name_th": "หัวข้อคัดเฉพาะทางด้านระบบเทคโนโลยีสารสนเทศ 1",
+      "course_name_en": "Selected Topic in Information Technology System I",
+      "category": "elective",
+      "credits": 3,
+      "description": "Contents vary from year to year according to interest of students and instructor in charge; typical contents include contemporary developments in information technology system.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "selected",
+        "topic",
+        "information",
+        "technology",
+        "system",
+        "contents",
+        "vary",
+        "year",
+        "according",
+        "interest"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223376",
+      "course_name_th": "หัวข้อคัดเฉพาะทางด้านระบบเทคโนโลยีสารสนเทศ 2",
+      "course_name_en": "Selected Topic in Information Technology System II",
+      "category": "elective",
+      "credits": 3,
+      "description": "Contents vary from year to year according to interest of students and instructor in charge; typical contents include contemporary developments in information technology system.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "selected",
+        "topic",
+        "information",
+        "technology",
+        "system",
+        "contents",
+        "vary",
+        "year",
+        "according",
+        "interest"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223401",
+      "course_name_th": "การจัดการข้อมูลขนาดใหญ่",
+      "course_name_en": "Big Data Management",
+      "category": "elective",
+      "credits": 3,
+      "description": "Meaning and characteristic of big data; fundamental platform; hadoop; spark; cloud; map-reduce architecture and hadoop; big data storage method; big data storage system; upload method; big data distribution and processing; document database; graph database; handling analytic algorithm on different platforms; visualization of big data presentation.",
+      "skills": [
+        "Programming",
+        "Communication"
+      ],
+      "keywords": [
+        "big",
+        "data",
+        "management",
+        "meaning",
+        "characteristic",
+        "fundamental",
+        "platform",
+        "hadoop",
+        "spark",
+        "cloud"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223402",
+      "course_name_th": "การวิเคราะห์ข้อมูลขนาดใหญ่",
+      "course_name_en": "Big Data Analytics",
+      "category": "elective",
+      "credits": 3,
+      "description": "Machine learning method for big data; exploratory data analysis; predictive analytics for big data; classification techniques; assessing model performance; clustering and link analysis; social network analysis; leveraging transaction data to yield recommendations and association rule; optimization method for analytics based on different hardware platforms; data graph; graphical model; spatio-temporal analysis; cognitive analytics.",
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "big",
+        "data",
+        "analytics",
+        "machine",
+        "learning",
+        "method",
+        "exploratory",
+        "analysis",
+        "predictive",
+        "classification"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "data_analysis",
+        "elective",
+        "machine_learning",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223403",
+      "course_name_th": "อินเทอร์เน็ตของสรรพสิ่ง",
+      "course_name_en": "Internet of Things",
+      "category": "elective",
+      "credits": 3,
+      "description": "Microcontroller; input/output port; serial port and serial communication; analog- to-digital convertor; digital-to-analog convertor; ethernet communication; sensor; principles of internet of things; IoT operation system; IoT protocol; IoT application development; IoT data analytics.",
+      "skills": [
+        "Data Analysis",
+        "Communication",
+        "Quality Control"
+      ],
+      "keywords": [
+        "internet",
+        "things",
+        "microcontroller",
+        "input",
+        "output",
+        "port",
+        "serial",
+        "communication",
+        "analog-",
+        "to-digital"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "data_analysis",
+        "elective",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223404",
+      "course_name_th": "วิศวกรรมและการจัดการความรู้",
+      "course_name_en": "Knowledge Engineering and Management",
+      "category": "elective",
+      "credits": 3,
+      "description": "Hierarchy of data; information and knowledge; knowledge representation; predicate logic; fuzzy logic; semantic network; frame and object; ontology and semantic web; expert systems; forward and backward chaining rules; unification and conflict resolution; case- based reasoning; constraint- based reasoning; artificial neural network; machine learning; statistical learning techniques; research topics in data and knowledge engineering.",
+      "skills": [
+        "Machine Learning",
+        "Communication"
+      ],
+      "keywords": [
+        "knowledge",
+        "engineering",
+        "management",
+        "hierarchy",
+        "data",
+        "information",
+        "representation",
+        "predicate",
+        "logic",
+        "fuzzy"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective",
+        "machine_learning"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223405",
+      "course_name_th": "การเขียนโปรแกรมเชิงบริการ",
+      "course_name_en": "Service-Oriented Programming",
+      "category": "elective",
+      "credits": 3,
+      "description": "Concept and structure of web services; web services standard; development and deployment of web service applications; concepts of service-oriented architecture (SOA); features and benefits of enterprise service bus (ESB); business process management.",
+      "skills": [
+        "Programming",
+        "Business",
+        "Quality Control"
+      ],
+      "keywords": [
+        "service-oriented",
+        "programming",
+        "concept",
+        "structure",
+        "web",
+        "services",
+        "standard",
+        "development",
+        "deployment",
+        "service"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "business",
+        "elective",
+        "programming",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223406",
+      "course_name_th": "อัจฉริยะทางธุรกิจ",
+      "course_name_en": "Business Intelligence",
+      "category": "elective",
+      "credits": 3,
+      "description": "Business information system development; advanced business intelligence concept; requirement for business intelligence; articulation of business intelligence solution; business intelligence methodology; enterprise performance management; management of business activities; data management for business intelligence; data analytics; decision support systems for business intelligence; business intelligence integration at operational; tactical; and strategic levels; business intelligence reports and dashboards.",
+      "skills": [
+        "Data Analysis",
+        "Business"
+      ],
+      "keywords": [
+        "business",
+        "intelligence",
+        "information",
+        "system",
+        "development",
+        "advanced",
+        "concept",
+        "requirement",
+        "articulation",
+        "solution"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "business",
+        "data_analysis",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223407",
+      "course_name_th": "การพัฒนาโซลูชันสําหรับองค์กร",
+      "course_name_en": "Enterprise Solution Development",
+      "category": "elective",
+      "credits": 3,
+      "description": "Concepts of enterprise software; enterprise software architectures; strength and weakness of various architecture styles; architecture patterns and design patterns; case studies of enterprise software; case study on enterprise software development technique.",
+      "skills": [
+        "Programming"
+      ],
+      "keywords": [
+        "enterprise",
+        "solution",
+        "development",
+        "concepts",
+        "software",
+        "architectures",
+        "strength",
+        "weakness",
+        "various",
+        "architecture"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223408",
+      "course_name_th": "การประมวลผลภาษาธรรมชาติ",
+      "course_name_en": "Natural Language Processing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Concept of natural language processing; linguistic background; natural language understanding; syntactic processing; word classes and part-of-speech tagging; context-free grammars for English; basic parsing techniques; semantics and logical form; semantic interpretation; knowledge representation; discourse structure; text-to-speech machine translation; natural language processing applications.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "natural",
+        "language",
+        "processing",
+        "concept",
+        "linguistic",
+        "background",
+        "understanding",
+        "syntactic",
+        "word",
+        "classes"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223451",
+      "course_name_th": "การประมวลภาพดิจิทัล",
+      "course_name_en": "Digital Image Processing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Image representation; basic operations on image pixels; imaging geometry and geometric transformation; image transforms; image enhancement both in spatial domain and in frequency domain; image smoothing and sharpening; image restoration; image segmentation; object feature extraction; applications of image processing in everyday life.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "digital",
+        "image",
+        "processing",
+        "representation",
+        "basic",
+        "operations",
+        "pixels",
+        "imaging",
+        "geometry",
+        "geometric"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223453",
+      "course_name_th": "ระบบสนับสนุนการตัดสินใจ",
+      "course_name_en": "Decision Support Systems",
+      "category": "elective",
+      "credits": 3,
+      "description": "Introduction to decision support systems (DSS); decision making process; characteristics and components of decision support systems; modeling and analysis; business intelligence; business analytics; group decision support systems (GDSS); enterprise decision support systems (EDSS); intelligent systems; decision support system development; integration and trend of decision support systems.",
+      "skills": [
+        "Data Analysis",
+        "Business"
+      ],
+      "keywords": [
+        "decision",
+        "support",
+        "systems",
+        "introduction",
+        "dss",
+        "making",
+        "process",
+        "characteristics",
+        "components",
+        "modeling"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "business",
+        "data_analysis",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223455",
+      "course_name_th": "คณิตศาสตร์เพื่อการเรียนรู้ของเครื่องจักร",
+      "course_name_en": "Mathematics for Machine Learning",
+      "category": "elective",
+      "credits": 3,
+      "description": "Machine learning concept; linear algebra; matrix calculus; regression analysis; decision tree learning; artificial neural network; bayesian learning; ensemble learning; clustering; model manipulation; performance evaluation.",
+      "skills": [
+        "Machine Learning"
+      ],
+      "keywords": [
+        "mathematics",
+        "machine",
+        "learning",
+        "concept",
+        "linear",
+        "algebra",
+        "matrix",
+        "calculus",
+        "regression",
+        "analysis"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "machine_learning"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223456",
+      "course_name_th": "วิศวกรรมซอฟต์แวร์",
+      "course_name_en": "Software Engineering",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of software engineering; software category and evolution; software engineering process framework; software project management; agile software development methodology; design pattern; software engineering practice; software development environment using version control; capability maturity model integration; requirement engineering; analysis and design engineering; basic software testing; unified process; process evaluation; and prescriptive and evolutionary process models.",
+      "skills": [
+        "Programming",
+        "Quality Control"
+      ],
+      "keywords": [
+        "software",
+        "engineering",
+        "principles",
+        "category",
+        "evolution",
+        "process",
+        "framework",
+        "project",
+        "management",
+        "agile"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "programming",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223457",
+      "course_name_th": "การประมวลสัญญาณเสียงดิจิทัล",
+      "course_name_en": "Digital Audio Processing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principle of acoustics; LTI system; convolution; probability theory and random process; AD/DA; dither; PCM; delta-sigma modulation; quantization; quantization error; STFT; sub-band filtering; filter bank summation; overlap addition (OLA) method; audio filter design; low/high pass filters; Wiener filter; loudness and masking; psychoacoustics; critical bands masking; audio feature extraction; MFCC; audio segmentation and classification; audio compression and coding standard.",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "digital",
+        "audio",
+        "processing",
+        "principle",
+        "acoustics",
+        "lti",
+        "system",
+        "convolution",
+        "probability",
+        "theory"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223458",
+      "course_name_th": "การเขียนโปรแกรมคอมพิวเตอร์สําหรับการเรียนรู้ของเครื่องจักร",
+      "course_name_en": "Computer Programming for Machine Learning",
+      "category": "elective",
+      "credits": 3,
+      "description": "Computer programming for machine learning and using essential modules for machine learning; programming for data preprocessing and feature engineering; programming for supervised learning algorithms; programming for unsupervised learning algorithms; programming for model evaluation; feature selection techniques.",
+      "skills": [
+        "Programming",
+        "Machine Learning"
+      ],
+      "keywords": [
+        "computer",
+        "programming",
+        "machine",
+        "learning",
+        "essential",
+        "modules",
+        "data",
+        "preprocessing",
+        "feature",
+        "engineering"
+      ],
+      "prerequisites": [
+        "040223101"
+      ],
+      "related_courses": [
+        "040223101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Operations Research Analyst",
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "machine_learning",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223480",
+      "course_name_th": "เตรียมสหกิจศึกษา",
+      "course_name_en": "Pre-cooperative Education",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Principles concepts and processes of cooperative education; rules and regulations of cooperative education; basic knowledge and techniques in job application; basic knowledge and techniques in working; communication and human relations; personality development; quality management system in workplace; presentation techniques and report writing.",
+      "skills": [
+        "Communication",
+        "Quality Control"
+      ],
+      "keywords": [
+        "pre-cooperative",
+        "education",
+        "principles",
+        "concepts",
+        "processes",
+        "cooperative",
+        "rules",
+        "regulations",
+        "basic",
+        "knowledge"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040223481"
+      ],
+      "recommended_next": [
+        "Co-operative Education I"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "communication",
+        "major_required",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223481",
+      "course_name_th": "สหกิจศึกษา 1",
+      "course_name_en": "Co-operative Education I",
+      "category": "major_required",
+      "credits": 2,
+      "description": "and Completion of the core courses of this curriculum or subjection to approval from the academic committee from the department. Students must be on the job training at the assigned co-operative establishment. Students must use integrated knowledge in mathematics and computer science to solve project in the assigned co-operative establishment under supervised and controlled by mentor staff and project advisor. Students will be expected to write progress report and present to project committee.",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "co-operative",
+        "education",
+        "completion",
+        "core",
+        "courses",
+        "curriculum",
+        "subjection",
+        "approval",
+        "academic",
+        "committee"
+      ],
+      "prerequisites": [
+        "040223480"
+      ],
+      "related_courses": [
+        "040223480",
+        "040223482"
+      ],
+      "recommended_next": [
+        "Co-operative Education II"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223482",
+      "course_name_th": "สหกิจศึกษา 2",
+      "course_name_en": "Co-operative Education II",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Continuing processes from 040223481 Co-operative Education I; Students develop projects according to the assigned project; write progress report; and present to the project committee.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "co-operative",
+        "education",
+        "continuing",
+        "processes",
+        "students",
+        "develop",
+        "projects",
+        "according",
+        "assigned",
+        "project"
+      ],
+      "prerequisites": [
+        "040223481"
+      ],
+      "related_courses": [
+        "040223481",
+        "040223483"
+      ],
+      "recommended_next": [
+        "Co-operative Education III"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223483",
+      "course_name_th": "สหกิจศึกษา 3",
+      "course_name_en": "Co-operative Education III",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Continuing processes from 040223482 Co-operative Education II; Students develop projects according to the assigned project; summarize the results; complete full project report; and present to the project committee.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "co-operative",
+        "education",
+        "iii",
+        "continuing",
+        "processes",
+        "students",
+        "develop",
+        "projects",
+        "according",
+        "assigned"
+      ],
+      "prerequisites": [
+        "040223482"
+      ],
+      "related_courses": [
+        "040223482"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223491",
+      "course_name_th": "สัมมนา",
+      "course_name_en": "Seminar",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Searching for interesting research topics in mathematics with computer science and presenting the results.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "seminar",
+        "searching",
+        "interesting",
+        "research",
+        "topics",
+        "mathematics",
+        "computer",
+        "science",
+        "presenting",
+        "results"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "communication",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223495",
+      "course_name_th": "โครงงานพิเศษ 1",
+      "course_name_en": "Special Project I",
+      "category": "elective",
+      "credits": 3,
+      "description": "department. Studying researches and reviewing literature of interested topics related to mathematics and computer science; analyzing objectives and scope of project with accurate principles and procedures of analysis; project proposal presentation; Students must have already completed at least 24 credits of core courses before register to this course.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "special",
+        "project",
+        "department",
+        "studying",
+        "researches",
+        "reviewing",
+        "literature",
+        "interested",
+        "topics",
+        "related"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040223496"
+      ],
+      "recommended_next": [
+        "Special Project II"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "communication",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040223496",
+      "course_name_th": "โครงงานพิเศษ 2",
+      "course_name_en": "Special Project II",
+      "category": "elective",
+      "credits": 3,
+      "description": "Developing project according to the project proposal proposed in the special project I; analyzing; summarizing and discussing results of the project; submitting complete project report and performing examination for the project.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "special",
+        "project",
+        "developing",
+        "according",
+        "proposal",
+        "proposed",
+        "analyzing",
+        "summarizing",
+        "discussing",
+        "results"
+      ],
+      "prerequisites": [
+        "040223495"
+      ],
+      "related_courses": [
+        "040223495"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040313017",
+      "course_name_th": "ทักษะการออกกําลังกายและกีฬา",
+      "course_name_en": "Exercise Skill and Sport",
+      "category": "general",
+      "credits": 3,
+      "description": "Types of exercise; physical training methods; change of body systems during exercise; injury and protection in sports; improvement of body’s performance; nutrition and performance of exercise.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "exercise",
+        "skill",
+        "sport",
+        "types",
+        "physical",
+        "training",
+        "methods",
+        "change",
+        "body",
+        "systems"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "general",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040313018",
+      "course_name_th": "ร่างกายมนุษย์และสุขภาพ",
+      "course_name_en": "Human Body and Health",
+      "category": "general",
+      "credits": 3,
+      "description": "Basic components and functions of body parts; movement system; cardiology system; excretion system; reproduction system; basic healthcare.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "human",
+        "body",
+        "health",
+        "basic",
+        "components",
+        "functions",
+        "parts",
+        "movement",
+        "system",
+        "cardiology"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "general",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040503080",
+      "course_name_th": "หลักสถิติ",
+      "course_name_en": "Fundamentals of Statistics",
+      "category": "general",
+      "credits": 3,
+      "description": "Overview statistics; descriptive statistics; counting technique and probability; probability distribution; estimation and hypothesis testing for mean; one-way analysis of variance; chi- squared test; relative risk; odds ratio; linear regression analysis.",
+      "skills": [
+        "Data Analysis"
+      ],
+      "keywords": [
+        "fundamentals",
+        "statistics",
+        "overview",
+        "descriptive",
+        "counting",
+        "technique",
+        "probability",
+        "distribution",
+        "estimation",
+        "hypothesis"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "data_analysis",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040603002",
+      "course_name_th": "ระบบคอมพิวเตอร์และโปรแกรมประยุกต์",
+      "course_name_en": "Computer System and Applications",
+      "category": "general",
+      "credits": 3,
+      "description": "Computer system; computer-based problem solving; computer applications as a problem-solving tool; computer technology in document processing and data processing; accessing to network systems; efficient electronic communications.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "computer",
+        "system",
+        "applications",
+        "computer-based",
+        "problem",
+        "solving",
+        "problem-solving",
+        "tool",
+        "technology",
+        "document"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040603005",
+      "course_name_th": "ปัญญาประดิษฐ์กับวิถีชีวิตใหม่",
+      "course_name_en": "Artificial Intelligence in Modern Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Daily life with artificial intelligence; artificial intelligence algorithm and process; artificial intelligence in problem solving; data analysis and prediction using basic artificial intelligence technique; visualization design; impact of artificial intelligence; tool and software package.",
+      "skills": [
+        "Programming",
+        "Data Analysis",
+        "Machine Learning"
+      ],
+      "keywords": [
+        "artificial",
+        "intelligence",
+        "modern",
+        "life",
+        "daily",
+        "algorithm",
+        "process",
+        "problem",
+        "solving",
+        "data"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "low",
+      "tags": [
+        "data_analysis",
+        "general",
+        "machine_learning",
+        "programming"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040713007",
+      "course_name_th": "ยาจากธรรมชาติเพื่อสุขภาพ",
+      "course_name_en": "Natural Medicine for Health",
+      "category": "general",
+      "credits": 3,
+      "description": "Natural and herb medicine; selection; preservation; conservation source of herbs according to folk medicine wisdom/Thai traditional medicine; element of health system; study of 4 principles of pharmacology in brief; principle and precautions in using herbal medicines from herbs according to national main drug account; traditional household medicine; herbs account in primary healthcare; poisonous plants.",
+      "skills": [
+        "Biology",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "natural",
+        "medicine",
+        "health",
+        "herb",
+        "selection",
+        "preservation",
+        "conservation",
+        "source",
+        "herbs",
+        "according"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "hard",
+      "importance": "low",
+      "tags": [
+        "biology",
+        "general",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "040713009",
+      "course_name_th": "ระบบนิเวศและสุขภาพ",
+      "course_name_en": "Ecosystem and Health",
+      "category": "general",
+      "credits": 3,
+      "description": "Principles of ecology; pollution and toxicology to health; analyzing and acknowledging the risks of ecological changes; relationship between ecology and health; ecological changes in emerging epidemics; prevention and maintaining health to environmental change.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "ecosystem",
+        "health",
+        "principles",
+        "ecology",
+        "pollution",
+        "toxicology",
+        "analyzing",
+        "acknowledging",
+        "risks",
+        "ecological"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "general",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "080103001",
+      "course_name_th": "ภาษาอังกฤษ 1",
+      "course_name_en": "English I",
+      "category": "general",
+      "credits": 3,
+      "description": "Listening; speaking; reading and writing skills; communicating in simple and routine tasks; reading short passages; writing sentences.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "skills",
+        "communicating",
+        "simple",
+        "routine",
+        "tasks"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080103002"
+      ],
+      "recommended_next": [
+        "English II"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "080103002",
+      "course_name_th": "ภาษาอังกฤษ 2",
+      "course_name_en": "English II",
+      "category": "general",
+      "credits": 3,
+      "description": "Listening; speaking; reading and writing skills; communicating and giving opinions on familiar topics; reading long passages; writing complex sentences and simple paragraphs.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "skills",
+        "communicating",
+        "giving",
+        "opinions",
+        "familiar"
+      ],
+      "prerequisites": [
+        "080103001"
+      ],
+      "related_courses": [
+        "080103001",
+        "080103018",
+        "080103030",
+        "080103032",
+        "080103034",
+        "080103035"
+      ],
+      "recommended_next": [
+        "English for Work",
+        "Strategic Reading",
+        "Paragraph Writing",
+        "English Conversation",
+        "Oral Presentation in English"
+      ],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "080103018",
+      "course_name_th": "ภาษาอังกฤษเพื่อการทํางาน",
+      "course_name_en": "English for Work",
+      "category": "general",
+      "credits": 3,
+      "description": "Language skills for work; job applications; job interviews; making introductions; telephoning; emailing; making appointments; running meetings; describing company products and services; negotiating; performance reviews; business travel.",
+      "skills": [
+        "Business",
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "work",
+        "language",
+        "skills",
+        "job",
+        "applications",
+        "interviews",
+        "making",
+        "introductions",
+        "telephoning"
+      ],
+      "prerequisites": [
+        "080103002"
+      ],
+      "related_courses": [
+        "080103002"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "business",
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "080103030",
+      "course_name_th": "การอ่านอย่างมีกลยุทธ์",
+      "course_name_en": "Strategic Reading",
+      "category": "general",
+      "credits": 3,
+      "description": "Reading strategies; skimming for main ideas; scanning for specific details; and identifying supporting details from academic and general passages; English vocabulary development.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "strategic",
+        "reading",
+        "strategies",
+        "skimming",
+        "main",
+        "ideas",
+        "scanning",
+        "specific",
+        "details",
+        "identifying"
+      ],
+      "prerequisites": [
+        "080103002"
+      ],
+      "related_courses": [
+        "080103002"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "080103032",
+      "course_name_th": "การเขียนย่อหน้า",
+      "course_name_en": "Paragraph Writing",
+      "category": "general",
+      "credits": 3,
+      "description": "Writing process; paragraph writing; narrative; descriptive; and reason and example paragraphs; paragraph components; peer feedback.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "paragraph",
+        "writing",
+        "process",
+        "narrative",
+        "descriptive",
+        "reason",
+        "example",
+        "paragraphs",
+        "components",
+        "peer"
+      ],
+      "prerequisites": [
+        "080103002"
+      ],
+      "related_courses": [
+        "080103002"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "general",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "080103034",
+      "course_name_th": "การสนทนาภาษาอังกฤษ",
+      "course_name_en": "English Conversation",
+      "category": "general",
+      "credits": 3,
+      "description": "English communication skills; speaking; listening; and pronunciation; functional language; vocabulary and expressions in English conversation in daily life.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "conversation",
+        "communication",
+        "skills",
+        "speaking",
+        "listening",
+        "pronunciation",
+        "functional",
+        "language",
+        "vocabulary"
+      ],
+      "prerequisites": [
+        "080103002"
+      ],
+      "related_courses": [
+        "080103002"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    },
+    {
+      "course_code": "080103035",
+      "course_name_th": "การนําเสนอปากเปล่าด้วยภาษาอังกฤษ",
+      "course_name_en": "Oral Presentation in English",
+      "category": "general",
+      "credits": 3,
+      "description": "Basic oral presentation skills; physical delivery; vocal delivery; visual aids designing; presentation structure; English expressions for basic presentation; English phrases for introduction; body; conclusion; transition.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "oral",
+        "presentation",
+        "english",
+        "basic",
+        "skills",
+        "physical",
+        "delivery",
+        "vocal",
+        "visual",
+        "aids"
+      ],
+      "prerequisites": [
+        "080103002"
+      ],
+      "related_courses": [
+        "080103002"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Scientist",
+        "Software Developer",
+        "Systems Analyst",
+        "Business Intelligence Analyst",
+        "Research Assistant"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Mathematics with Computer Science",
+        "source_file": "MC_2568.pdf"
+      }
+    }
+  ]
+}

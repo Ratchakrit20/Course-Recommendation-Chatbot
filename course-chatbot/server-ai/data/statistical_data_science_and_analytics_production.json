@@ -1,0 +1,5641 @@
+{
+  "faculty": "Applied Science",
+  "major": "Statistical Data Science and Analytics",
+  "year": 2566,
+  "courses": [
+    {
+      "course_code": "040113005",
+      "course_name_th": "เคมีในชีวิตประจ าวัน",
+      "course_name_en": "Chemistry in Everyday Life",
+      "category": "core",
+      "credits": 3,
+      "description": "Ingredients and properties of chemi cal products in everyday's life: soap, toothpaste, detergent, food additives, milk and its products, cosmetic products, paper, adhesives, cement, medicine, and agricultural chemicals; proper uses of chemical products and proper first - aid treatment due to chemical exposure.",
+      "skills": [
+        "Chemistry",
+        "Ingredients",
+        "Properties",
+        "Chemi",
+        "Cal",
+        "Products"
+      ],
+      "keywords": [
+        "chemistry",
+        "ingredients",
+        "properties",
+        "chemi",
+        "cal",
+        "products",
+        "everyday's",
+        "soap",
+        "toothpaste",
+        "detergent"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040533302",
+        "040563101",
+        "080303701"
+      ],
+      "recommended_next": [
+        "Probability and Statistics Theory"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "core",
+        "chemistry",
+        "ingredients",
+        "properties",
+        "chemi",
+        "cal"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040203101",
+      "course_name_th": "คณิตศาสตร์",
+      "course_name_en": "Mathematics I",
+      "category": "core",
+      "credits": 3,
+      "description": "Limit and continuity of functions; slope and tangent line; derivative of function; velocity and rate of change; differentiation rules; higher - higher order derivative; derivatives of elementary functions; parametric equations; applications of derivative; related rates; maxima and minima; indeterminate forms; definite and indefinite integrals; area between curves; techniques of integration; numerical integration.",
+      "skills": [
+        "Mathematics",
+        "Limit",
+        "Continuity",
+        "Functions",
+        "Slope",
+        "Tangent"
+      ],
+      "keywords": [
+        "limit",
+        "continuity",
+        "functions",
+        "slope",
+        "tangent",
+        "line",
+        "derivative",
+        "function",
+        "velocity",
+        "rate"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040203102",
+        "040563308",
+        "040563101",
+        "040533308",
+        "040203202",
+        "040203203"
+      ],
+      "recommended_next": [
+        "Mathematics II",
+        "Optimization for Machine Learning"
+      ],
+      "career_tracks": [
+        "Quantitative Analyst",
+        "Researcher",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "limit",
+        "continuity",
+        "functions",
+        "slope",
+        "tangent"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040203102",
+      "course_name_th": "คณิตศาสตร์",
+      "course_name_en": "Mathematics II",
+      "category": "core",
+      "credits": 3,
+      "description": "Improper integrals; applications of definite integrals; arc length; area of surface of revolution; volume of revolution; functions of several variables; limit and continuity; partial derivative and applications; double and triple integrals; applications of multiple integral; sequences and series; tests for conver gence; power series; Taylor and Maclaurin series.",
+      "skills": [
+        "Mathematics",
+        "Improper",
+        "Integrals",
+        "Applications",
+        "Definite",
+        "Arc"
+      ],
+      "keywords": [
+        "improper",
+        "integrals",
+        "definite",
+        "arc",
+        "length",
+        "area",
+        "surface",
+        "revolution",
+        "volume",
+        "functions"
+      ],
+      "prerequisites": [
+        "040203101"
+      ],
+      "related_courses": [
+        "040203101",
+        "040203202",
+        "040563101",
+        "040533308",
+        "040203203",
+        "040563201"
+      ],
+      "recommended_next": [
+        "Matrices and Vector Analysis",
+        "Probability and Statistics Theory"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "improper",
+        "integrals",
+        "definite",
+        "arc",
+        "length"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040203202",
+      "course_name_th": "เมทริกซ์และการวิเคราะห์เชิงเวกเตอร์",
+      "course_name_en": "Matrices and Vector Analysis",
+      "category": "core",
+      "credits": 3,
+      "description": "Matrices; matrix algebra; inverse matrix; system of linear equations; eigenvalues and eigenvectors; scalars and vectors; vector algebra; lines and planes; scalar fields and vector fields; derivatives of vector - valued function s; space curve; directional derivatives; gradient; divergence; curl; integrals of vector - valued functions; line integral; surface integral; Green's theorem; Stokes's theorem divergence theorem.",
+      "skills": [
+        "Matrices",
+        "Vector",
+        "Matrix",
+        "Algebra",
+        "Inverse",
+        "Linear"
+      ],
+      "keywords": [
+        "matrices",
+        "vector",
+        "matrix",
+        "algebra",
+        "inverse",
+        "linear",
+        "equations",
+        "eigenvalues",
+        "eigenvectors",
+        "scalars"
+      ],
+      "prerequisites": [
+        "040203102"
+      ],
+      "related_courses": [
+        "040203102",
+        "040533308",
+        "040563207",
+        "040203203",
+        "040563201",
+        "040563302"
+      ],
+      "recommended_next": [
+        "Numerical Analysis for Statisticians",
+        "Data Visualization"
+      ],
+      "career_tracks": [
+        "Quantitative Analyst",
+        "Researcher",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "matrices",
+        "vector",
+        "matrix",
+        "algebra",
+        "inverse"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040203203",
+      "course_name_th": "เมทริกซ์และเวกเตอร์เบื้องต้น",
+      "course_name_en": "Fundamentals of Matrix and Vector",
+      "category": "core",
+      "credits": 3,
+      "description": "Matrix; matrix algebra; inverse matrix; system of linear equations; rank; elementary row operation; eigenvalue and eigenvector; vector space; basis; linear combination; linear independence; vecto r algebra; equations of line and plane; application.",
+      "skills": [
+        "Matrix",
+        "Vector",
+        "Algebra",
+        "Inverse",
+        "Linear",
+        "Equations"
+      ],
+      "keywords": [
+        "fundamentals",
+        "matrix",
+        "vector",
+        "algebra",
+        "inverse",
+        "linear",
+        "equations",
+        "rank",
+        "elementary",
+        "row"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040203202",
+        "040563302",
+        "040563201",
+        "040533307",
+        "040533308",
+        "040203101"
+      ],
+      "recommended_next": [
+        "Image Processing",
+        "Program for Statistical Computing"
+      ],
+      "career_tracks": [
+        "Quantitative Analyst",
+        "Researcher",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "core",
+        "fundamentals",
+        "matrix",
+        "vector",
+        "algebra",
+        "inverse"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040313016",
+      "course_name_th": "ฟิสิกส์ในชีวิตประจ าวัน",
+      "course_name_en": "Physics in Daily Life",
+      "category": "core",
+      "credits": 3,
+      "description": "Physics discovery with impact on human society; importance of physics on global community evolution; understanding the relation between ph ysics and natural phenomena; application of physics in daily life.",
+      "skills": [
+        "Physics",
+        "Discovery",
+        "Impact",
+        "Human",
+        "Society",
+        "Importance"
+      ],
+      "keywords": [
+        "physics",
+        "discovery",
+        "impact",
+        "human",
+        "society",
+        "importance",
+        "global",
+        "community",
+        "evolution",
+        "understanding"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040413001",
+        "080303601",
+        "040513101",
+        "040563314",
+        "080203903",
+        "080203904"
+      ],
+      "recommended_next": [
+        "E - Commerce Management"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "core",
+        "physics",
+        "discovery",
+        "impact",
+        "human",
+        "society"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040413001",
+      "course_name_th": "ชีววิทยาในชีวิตประจ าวัน",
+      "course_name_en": "Biology in Daily Life",
+      "category": "core",
+      "credits": 3,
+      "description": "Definition of biology; characteristic of life; human body; genetic in daily life; man and microorganisms; importance and application of biology in daily life.",
+      "skills": [
+        "Biology",
+        "Definition",
+        "Characteristic",
+        "Human",
+        "Body",
+        "Genetic"
+      ],
+      "keywords": [
+        "biology",
+        "definition",
+        "characteristic",
+        "human",
+        "body",
+        "genetic",
+        "man",
+        "microorganisms",
+        "importance"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040313016",
+        "040513101",
+        "040513113",
+        "040713002",
+        "080203907",
+        "080303103"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "core",
+        "biology",
+        "definition",
+        "characteristic",
+        "human",
+        "body"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513101",
+      "course_name_th": "การเก็บรวบรวมและการจัดการข้อมูลทางสถิติ",
+      "course_name_en": "Statistical Data Collection and Management",
+      "category": "core",
+      "credits": 3,
+      "description": "Statistics and its essentials; data and statistical information; importance of big data on success of an organization; data from survey, experiment, simulation and database retrieve; statistical data collection; data quality assurance; electronic data processing life cycle; basic statistical techniques and analysis; conclusion and presentation.",
+      "skills": [
+        "Data Analysis",
+        "Statistical",
+        "Data",
+        "Collection",
+        "Statistics",
+        "Its"
+      ],
+      "keywords": [
+        "collection",
+        "management",
+        "its",
+        "essentials",
+        "information",
+        "importance",
+        "big",
+        "success",
+        "organization",
+        "survey"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040513113",
+        "040513406",
+        "080203907",
+        "040513401",
+        "040313016",
+        "040413001"
+      ],
+      "recommended_next": [
+        "Computer Applications in Statistics I"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "core",
+        "collection",
+        "management",
+        "its",
+        "essentials",
+        "information"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513102",
+      "course_name_th": "ความน่าจะเป็นเบื้องต้น",
+      "course_name_en": "Introduction to Probability",
+      "category": "core",
+      "credits": 3,
+      "description": "Combinatorial analysis; probability; random variables and their probability distributions, expectations, variances; special probability distributions.",
+      "skills": [
+        "Probability",
+        "Combinatorial",
+        "Random",
+        "Variables",
+        "Their",
+        "Distributions"
+      ],
+      "keywords": [
+        "probability",
+        "combinatorial",
+        "random",
+        "variables",
+        "their",
+        "distributions",
+        "expectations",
+        "variances"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563101",
+        "040563108",
+        "040513114",
+        "040533307",
+        "040513101",
+        "040513113"
+      ],
+      "recommended_next": [
+        "Probability and Statistics Theory",
+        "Statistical Analysis"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "probability",
+        "combinatorial",
+        "random",
+        "variables",
+        "their"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513113",
+      "course_name_th": "การประยุกต์คอมพิวเตอร์ทางสถิติ",
+      "course_name_en": "Computer Applications in Statistics I",
+      "category": "core",
+      "credits": 3,
+      "description": "or Department Permission Principles of program development; structured programming; algorithm design; characteristic and structure of computer langu ages appropriate for applied statistics; statistical applications with statistical computer programs; directions of computer language for statistics.",
+      "skills": [
+        "Statistics",
+        "Computer",
+        "Applications",
+        "Department",
+        "Permission",
+        "Principles"
+      ],
+      "keywords": [
+        "computer",
+        "department",
+        "permission",
+        "program",
+        "structured",
+        "programming",
+        "algorithm",
+        "characteristic",
+        "structure",
+        "langu"
+      ],
+      "prerequisites": [
+        "040513101"
+      ],
+      "related_courses": [
+        "040513101",
+        "040513401",
+        "040513406",
+        "040563201",
+        "040563306",
+        "040533308"
+      ],
+      "recommended_next": [
+        "Computer Applications in Statistics II",
+        "Statistical Management Information Systems",
+        "Program for Statistical Computing"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "computer",
+        "department",
+        "permission",
+        "program",
+        "structured"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513114",
+      "course_name_th": "สถิติเชิงค านวณ",
+      "course_name_en": "Computational Statistics",
+      "category": "core",
+      "credits": 3,
+      "description": "Permission Statistical applications using computer; data simulation; generating random number techniques; Monte Carlo integration; bootstrap and jackknife methods; Monte Carlo method in statistical inference.",
+      "skills": [
+        "Statistics",
+        "Computational",
+        "Permission",
+        "Statistical",
+        "Applications",
+        "Using"
+      ],
+      "keywords": [
+        "computational",
+        "permission",
+        "computer",
+        "simulation",
+        "generating",
+        "random",
+        "number",
+        "techniques",
+        "monte",
+        "carlo"
+      ],
+      "prerequisites": [
+        "040563101"
+      ],
+      "related_courses": [
+        "040563101",
+        "040513113",
+        "040513401",
+        "040513406",
+        "040563317",
+        "040513102"
+      ],
+      "recommended_next": [
+        "Probability and Statistics Theory",
+        "Computer Simulation and Modelling"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "computational",
+        "permission",
+        "computer",
+        "simulation",
+        "generating"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513201",
+      "course_name_th": "การวิเคราะห์ข้อมูลจ าแนกประเภท",
+      "course_name_en": "Categorical Data Analysis",
+      "category": "core",
+      "credits": 3,
+      "description": "Categorical var iable and data; one - way contingency tables; two - way contingency tables; models for matched - pair data; three - way contingency tables; Cochran - Mantel - Haenszel test; generalized linear models; logistic regression models for binary response and multinomial response variables; probit regression model; Poisson regression; model and inference checking; log - linear models.",
+      "skills": [
+        "Data Analysis",
+        "Categorical",
+        "Data",
+        "Var",
+        "Iable",
+        "One Way"
+      ],
+      "keywords": [
+        "categorical",
+        "var",
+        "iable",
+        "one",
+        "way",
+        "contingency",
+        "tables",
+        "two",
+        "models",
+        "matched"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040513203",
+        "040513101",
+        "040513102",
+        "040513113",
+        "040513114"
+      ],
+      "recommended_next": [
+        "Statistical Analysis"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "categorical",
+        "var",
+        "iable",
+        "one",
+        "way"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513203",
+      "course_name_th": "สถิติเสมือนไม่ใช้พารามิเตอร์",
+      "course_name_en": "Nonparametric Statistics",
+      "category": "core",
+      "credits": 3,
+      "description": "Principles of nonparametric statistics; hypothesis testing for one - sample case, hypothesis testing for two - independent samples case; hypothesis testing fo r two related samples case s; hypothesis testing for several independent samples case; hypothesis testing for several related samples case; hypothesis testing for sample distribution; correlation coefficient and hypothesis testing; confidence interval.",
+      "skills": [
+        "Statistics",
+        "Nonparametric",
+        "Principles",
+        "Hypothesis",
+        "Testing",
+        "One"
+      ],
+      "keywords": [
+        "nonparametric",
+        "hypothesis",
+        "testing",
+        "one",
+        "sample",
+        "case",
+        "two",
+        "independent",
+        "samples",
+        "related"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040513201",
+        "040513101",
+        "040513102",
+        "040513113",
+        "040513114"
+      ],
+      "recommended_next": [
+        "Statistical Analysis"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "nonparametric",
+        "hypothesis",
+        "testing",
+        "one",
+        "sample"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513307",
+      "course_name_th": "กราฟและข่ายงาน",
+      "course_name_en": "Graphs and Networks",
+      "category": "core",
+      "credits": 3,
+      "description": "Principles of graph theory; applications of graphs and networks; graph coloring; shortest path problem; spanning tree problem; network flow; matchi ng problem; traveling salesman problem; project management with PERT and CPM techniques; project crashing; resources allocation in project management.",
+      "skills": [
+        "Graph Theory",
+        "Graphs",
+        "Networks",
+        "Principles",
+        "Graph",
+        "Theory"
+      ],
+      "keywords": [
+        "graphs",
+        "networks",
+        "graph",
+        "coloring",
+        "shortest",
+        "path",
+        "problem",
+        "spanning",
+        "tree",
+        "network"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040513406",
+        "040563301",
+        "040513101",
+        "040513102",
+        "040513113",
+        "040513114"
+      ],
+      "recommended_next": [
+        "Quantitative Analysis for Business"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "core",
+        "graphs",
+        "networks",
+        "graph",
+        "coloring",
+        "shortest"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513309",
+      "course_name_th": "ทฤษฎีการตัดสินใจ",
+      "course_name_en": "Decision Theory",
+      "category": "core",
+      "credits": 3,
+      "description": "Principles of decision theory; applications of decision theory; statistical decision theory model; decision trees; statistical decision theory under certainty; statistical decision theory under uncertainty; statistical decision theory under risk; statistical decision theory with sampling; utility theory for decision making.",
+      "skills": [
+        "Decision",
+        "Theory",
+        "Principles",
+        "Applications",
+        "Statistical",
+        "Model"
+      ],
+      "keywords": [
+        "decision",
+        "model",
+        "trees",
+        "under",
+        "certainty",
+        "uncertainty",
+        "risk",
+        "sampling",
+        "utility",
+        "making"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040563205",
+        "040563402",
+        "040513101",
+        "040513102",
+        "040513113"
+      ],
+      "recommended_next": [
+        "Statistical Analysis",
+        "Artificial Intelligence",
+        "Special Project II"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "decision",
+        "model",
+        "trees",
+        "under",
+        "certainty"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513313",
+      "course_name_th": "กระบวนการสโตแคสติกเบื้องต้นและการประยุกต์",
+      "course_name_en": "Introduction to Stochastic Process and Applications",
+      "category": "core",
+      "credits": 3,
+      "description": "Permission Poisson process; Markov chain and Markov process; renewal process; renewal Markov process; brownian motion; applications.",
+      "skills": [
+        "Stochastic",
+        "Process",
+        "Applications",
+        "Permission",
+        "Poisson",
+        "Markov"
+      ],
+      "keywords": [
+        "stochastic",
+        "process",
+        "permission",
+        "poisson",
+        "markov",
+        "chain",
+        "renewal",
+        "brownian",
+        "motion"
+      ],
+      "prerequisites": [
+        "040563101"
+      ],
+      "related_courses": [
+        "040563101",
+        "040513113",
+        "040513114",
+        "040513401",
+        "040513406",
+        "040533307"
+      ],
+      "recommended_next": [
+        "Probability and Statistics Theory"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "stochastic",
+        "process",
+        "permission",
+        "poisson",
+        "markov"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513401",
+      "course_name_th": "การประยุกต์คอมพิวเตอร์ทางสถิติ",
+      "course_name_en": "Computer Applications in Statistics II",
+      "category": "core",
+      "credits": 3,
+      "description": "or Department Permission Roles of stati stical information technology in organizations; fundamental technologies for web application development; modern and appropriate web development tools; design principles of electronic commerce; statistical web application development.",
+      "skills": [
+        "Statistics",
+        "Computer",
+        "Applications",
+        "Department",
+        "Permission",
+        "Roles"
+      ],
+      "keywords": [
+        "computer",
+        "department",
+        "permission",
+        "roles",
+        "stati",
+        "stical",
+        "information",
+        "organizations",
+        "web",
+        "modern"
+      ],
+      "prerequisites": [
+        "040513113"
+      ],
+      "related_courses": [
+        "040513113",
+        "040513406",
+        "040513114",
+        "040563306",
+        "040533307",
+        "040533308"
+      ],
+      "recommended_next": [
+        "Network Operations for Statistical Data"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "computer",
+        "department",
+        "permission",
+        "roles",
+        "stati"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513402",
+      "course_name_th": "การประมวลผลข้อมูลทางสถิติ",
+      "course_name_en": "Statistical Data Processing",
+      "category": "core",
+      "credits": 3,
+      "description": "",
+      "skills": [
+        "Data Analysis",
+        "Statistical",
+        "Data",
+        "Processing"
+      ],
+      "keywords": [
+        "processing"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040533105",
+        "040513101",
+        "040513102",
+        "040513113",
+        "040513114"
+      ],
+      "recommended_next": [
+        "Statistical Analysis"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "processing"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040513406",
+      "course_name_th": "ระบบการจัดการสารสนเทศทางสถิติ",
+      "course_name_en": "Statistical Management Information Systems",
+      "category": "core",
+      "credits": 3,
+      "description": "or Department Permission Principles of statistical management information system; characteristics and infrastructure of statistical information system; statistical information system analysis and design; statistical information technology; data communication and computer network; office automation; expert system; decision support system; applications of statisti cal management information system in business and industry.",
+      "skills": [
+        "Statistical",
+        "Information",
+        "Systems",
+        "Department",
+        "Permission",
+        "Principles"
+      ],
+      "keywords": [
+        "management",
+        "information",
+        "department",
+        "permission",
+        "characteristics",
+        "infrastructure",
+        "communication",
+        "computer",
+        "network",
+        "office"
+      ],
+      "prerequisites": [
+        "040513113"
+      ],
+      "related_courses": [
+        "040513113",
+        "040513401",
+        "040563306",
+        "040533307",
+        "040513101",
+        "040513114"
+      ],
+      "recommended_next": [
+        "Network Operations for Statistical Data"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "management",
+        "information",
+        "department",
+        "permission",
+        "characteristics"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040533104",
+      "course_name_th": "การพยากรณ์ทางธุรกิจ",
+      "course_name_en": "Business Forecasting",
+      "category": "core",
+      "credits": 3,
+      "description": "Principles of forecasting, applications of forecasting for business, forecast error, type of forecasting methods, regression analysis, smoothing techniques, decomposition method, Box - Jenkins method, data analysis using statistical packages.",
+      "skills": [
+        "Forecasting",
+        "Business",
+        "Principles",
+        "Applications",
+        "Forecast",
+        "Error"
+      ],
+      "keywords": [
+        "forecasting",
+        "forecast",
+        "error",
+        "type",
+        "methods",
+        "regression",
+        "smoothing",
+        "techniques",
+        "decomposition",
+        "method"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040563307",
+        "040533105",
+        "040513114",
+        "040533302",
+        "040533307"
+      ],
+      "recommended_next": [
+        "Quantitative Analysis in Financial Risk"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "forecasting",
+        "forecast",
+        "error",
+        "type",
+        "methods"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040533105",
+      "course_name_th": "การวิจัยเชิงธุรกิจ",
+      "course_name_en": "Research Methods in Business",
+      "category": "core",
+      "credits": 3,
+      "description": "Characteristics and types of business research; business research approaches; research design; principles and techniques of data collection; data processing and analysis; research writing.",
+      "skills": [
+        "Research Methods",
+        "Research",
+        "Methods",
+        "Business",
+        "Characteristics",
+        "Types"
+      ],
+      "keywords": [
+        "research",
+        "methods",
+        "characteristics",
+        "types",
+        "approaches",
+        "techniques",
+        "collection",
+        "processing",
+        "writing"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040533104",
+        "040533307",
+        "040563302",
+        "040563315",
+        "080103032"
+      ],
+      "recommended_next": [
+        "Statistical Analysis",
+        "Image Processing",
+        "Multimedia Mining"
+      ],
+      "career_tracks": [
+        "Researcher",
+        "Academic",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "research",
+        "methods",
+        "characteristics",
+        "types",
+        "approaches"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040533302",
+      "course_name_th": "การประยุกต์สถิติทางการตลาด",
+      "course_name_en": "Statistical Applications in Marketing",
+      "category": "core",
+      "credits": 3,
+      "description": "Marketing concept, consumer behavior and market segmentation; marketing data management; marketing mix; products and product strategies; pricing and pricing strategies; channel of distribution and product distribution; promotion; Idea for marketing research; statistical tools for marketing.",
+      "skills": [
+        "Digital Marketing",
+        "Statistical",
+        "Applications",
+        "Marketing",
+        "Concept",
+        "Consumer"
+      ],
+      "keywords": [
+        "marketing",
+        "consumer",
+        "behavior",
+        "market",
+        "segmentation",
+        "management",
+        "mix",
+        "products",
+        "product",
+        "strategies"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040563312",
+        "080203914",
+        "080303701",
+        "040113005",
+        "040513101"
+      ],
+      "recommended_next": [
+        "Statistical Analysis",
+        "Digital Marketing"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Researcher",
+        "Academic",
+        "Data Analyst",
+        "Data Scientist"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "marketing",
+        "consumer",
+        "behavior",
+        "market",
+        "segmentation"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040533307",
+      "course_name_th": "อนุกรมเวลาการเงิน",
+      "course_name_en": "Financial Time Series",
+      "category": "core",
+      "credits": 3,
+      "description": "or Department Permission Financial time series and their characteristics; linear time series analysis and its applications; conditional heteroscedastic time series models.",
+      "skills": [
+        "Financial",
+        "Time",
+        "Series",
+        "Department",
+        "Permission",
+        "Their"
+      ],
+      "keywords": [
+        "financial",
+        "time",
+        "series",
+        "department",
+        "permission",
+        "their",
+        "characteristics",
+        "linear",
+        "its",
+        "conditional"
+      ],
+      "prerequisites": [
+        "040563101"
+      ],
+      "related_courses": [
+        "040563101",
+        "040513406",
+        "040533308",
+        "040513113",
+        "040513401",
+        "040533105"
+      ],
+      "recommended_next": [
+        "Probability and Statistics Theory"
+      ],
+      "career_tracks": [
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst",
+        "Data Analyst",
+        "Data Scientist"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "financial",
+        "time",
+        "series",
+        "department",
+        "permission"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040533308",
+      "course_name_th": "การวิเคราะห์เชิงตัวเลขส าหรับนักสถิติ",
+      "course_name_en": "Numerical Analysis for Statisticians",
+      "category": "core",
+      "credits": 3,
+      "description": "or Department Permission The solution of equations systems; approximation by spline functions; EM algorithm; bootstrap calculations.",
+      "skills": [
+        "Numerical",
+        "Statisticians",
+        "Department",
+        "Permission",
+        "Solution",
+        "Equations"
+      ],
+      "keywords": [
+        "numerical",
+        "statisticians",
+        "department",
+        "permission",
+        "solution",
+        "equations",
+        "approximation",
+        "spline",
+        "functions",
+        "algorithm"
+      ],
+      "prerequisites": [
+        "040203202"
+      ],
+      "related_courses": [
+        "040203202",
+        "040513113",
+        "040533307",
+        "040563101",
+        "040513401",
+        "040513406"
+      ],
+      "recommended_next": [
+        "Probability and Statistics Theory"
+      ],
+      "career_tracks": [
+        "Quantitative Analyst",
+        "Researcher",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "numerical",
+        "statisticians",
+        "department",
+        "permission",
+        "solution"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563101",
+      "course_name_th": "ทฤษฎีความน่าจะเป็นและสถิติ",
+      "course_name_en": "Probability and Statistics Theory",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Probability or Department Permission Probability; random variables; distributions of random variables; properties of random variables; functions of random variables; limit theorems; sampling distributions; estimations; properties of estimators; hypothesis testing.",
+      "skills": [
+        "Statistics",
+        "Probability",
+        "Theory",
+        "Department",
+        "Permission",
+        "Random"
+      ],
+      "keywords": [
+        "probability",
+        "department",
+        "permission",
+        "random",
+        "variables",
+        "distributions",
+        "properties",
+        "functions",
+        "limit",
+        "theorems"
+      ],
+      "prerequisites": [
+        "040203102",
+        "040513102"
+      ],
+      "related_courses": [
+        "040203102",
+        "040513102",
+        "040513114",
+        "040513313",
+        "040533307",
+        "040533308"
+      ],
+      "recommended_next": [
+        "Computational Statistics",
+        "Introduction to Stochastic Process and Applications",
+        "Financial Time Series"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "probability",
+        "department",
+        "permission",
+        "random",
+        "variables"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563102",
+      "course_name_th": "การวิเคราะห์ข้อมูลในการถดถอย",
+      "course_name_en": "Data Analytics in Regression",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Data collection; regression analysis for quantitative data, simple linear regression multiple linear regression; model adequacy checking; inadequacy model correction; diagnostic leverage and influence; regression analysis for qualitative data; variable selection and regression model building; multicollinearity; polynomial regression; logistic regression.",
+      "skills": [
+        "Data Analysis",
+        "Regression",
+        "Data",
+        "Analytics",
+        "Collection",
+        "Quantitative"
+      ],
+      "keywords": [
+        "analytics",
+        "regression",
+        "collection",
+        "quantitative",
+        "simple",
+        "linear",
+        "multiple",
+        "model",
+        "adequacy",
+        "checking"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040563301",
+        "040563203",
+        "040563206",
+        "040563306",
+        "040563307"
+      ],
+      "recommended_next": [
+        "Statistical Analysis",
+        "Quantitative Analysis for Business",
+        "Data Science and Analytic for Business"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Statistician",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "analytics",
+        "regression",
+        "collection",
+        "quantitative",
+        "simple"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563103",
+      "course_name_th": "การวิเคราะห์หลายตัวแปร",
+      "course_name_en": "Multivariate Analysis",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Estimation of a mean vector; hypothesis test of a mean vector; multivariate analysis of variance; cluster analysis; principal component analysis; factor analysis; path analysis; discriminant analysis; canonical correlation analysis; the use of packages for problem solving by computer program.",
+      "skills": [
+        "Multivariate",
+        "Estimation",
+        "Mean",
+        "Vector",
+        "Hypothesis",
+        "Test"
+      ],
+      "keywords": [
+        "multivariate",
+        "estimation",
+        "mean",
+        "vector",
+        "hypothesis",
+        "test",
+        "variance",
+        "cluster",
+        "principal",
+        "component"
+      ],
+      "prerequisites": [
+        "040563108"
+      ],
+      "related_courses": [
+        "040563108",
+        "040563107",
+        "040563201",
+        "040563302",
+        "040203202",
+        "040203203"
+      ],
+      "recommended_next": [
+        "Statistical Analysis",
+        "Tools for Statistical Data Science",
+        "Program for Statistical Computing"
+      ],
+      "career_tracks": [
+        "Quantitative Analyst",
+        "Researcher",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "multivariate",
+        "estimation",
+        "mean",
+        "vector",
+        "hypothesis"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563104",
+      "course_name_th": "การเรียนรู้ของเครื่องจักร",
+      "course_name_en": "Machine Learning",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Concept of supervised learning and unsupervised learning in machine learning; classification techniques; decision tree; k - nearest neighbors; Bayesian learning; artificial neural networks; support vector machine; association rules; clustering techniques; k - means clustering; fuzzy c - means clustering; hierarchical clustering; reinforcement learning; dimensionality reduction; cross - validation; and model evaluation.",
+      "skills": [
+        "Machine Learning",
+        "Machine",
+        "Learning",
+        "Concept",
+        "Supervised",
+        "Unsupervised"
+      ],
+      "keywords": [
+        "machine",
+        "learning",
+        "supervised",
+        "unsupervised",
+        "classification",
+        "techniques",
+        "decision",
+        "tree",
+        "nearest",
+        "neighbors"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563205",
+        "040563315",
+        "040563308",
+        "040563203",
+        "040563302",
+        "040563304"
+      ],
+      "recommended_next": [
+        "Artificial Intelligence",
+        "Multimedia Mining"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Quantitative Analyst",
+        "Researcher",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "machine",
+        "learning",
+        "supervised",
+        "unsupervised",
+        "classification"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563105",
+      "course_name_th": "การวิเคราะห์เชิงสถิติส าหรับข้อมูลขนาดใหญ่",
+      "course_name_en": "Statistical Analysis for Big Data",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Fundamental of big data; format or type of statistical big data; principles of statistical analysis for big data; technology and tool for working with big data; big data computation and modeling; case study of big data.",
+      "skills": [
+        "Data Analysis",
+        "Statistical",
+        "Big",
+        "Data",
+        "Fundamental",
+        "Format"
+      ],
+      "keywords": [
+        "big",
+        "format",
+        "type",
+        "tool",
+        "working",
+        "computation",
+        "modeling",
+        "case"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563109",
+        "040563201",
+        "040563203",
+        "040563302",
+        "040563317",
+        "040513101"
+      ],
+      "recommended_next": [
+        "Computer Programming",
+        "Program for Statistical Computing",
+        "Data Science and Analytic for Business"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "big",
+        "format",
+        "type",
+        "tool",
+        "working"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563107",
+      "course_name_th": "เครื่องมือส าหรับวิทยาศาสตร์ข้อมูลเชิงสถิติ",
+      "course_name_en": "Tools for Statistical Data Science",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Fundamental of statistical for data science; exploratory data analysis; dimension reduction; principal component analysis; independent component analysis; feature extraction; graph theory and n etwork analysis; smoothing and aggregation; application of high - performance computing and streaming algorithm to analysis of large data set.",
+      "skills": [
+        "Data Analysis",
+        "Tools",
+        "Statistical",
+        "Data",
+        "Science",
+        "Fundamental"
+      ],
+      "keywords": [
+        "tools",
+        "exploratory",
+        "dimension",
+        "reduction",
+        "principal",
+        "component",
+        "independent",
+        "feature",
+        "extraction",
+        "graph"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563103",
+        "040563207",
+        "040563303",
+        "040563307",
+        "040513203",
+        "040513307"
+      ],
+      "recommended_next": [
+        "Multivariate Analysis",
+        "Data Visualization",
+        "Quality Control and Management"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "tools",
+        "exploratory",
+        "dimension",
+        "reduction",
+        "principal"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563108",
+      "course_name_th": "สถิติวิเคราะห์",
+      "course_name_en": "Statistical Analysis",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Permission Sampling distributions; estimation and hypothesis testing for on e population and two populations; one - way analysis of variance; assumptions underlying analysis of variance; multiple comparisons; simple linear regression and correlation; model diagnostics; multiple linear regression with two independent variables; analysis of covariance; nonparametric statistics",
+      "skills": [
+        "Statistical",
+        "Permission",
+        "Sampling",
+        "Distributions",
+        "Estimation",
+        "Hypothesis"
+      ],
+      "keywords": [
+        "permission",
+        "sampling",
+        "distributions",
+        "estimation",
+        "hypothesis",
+        "testing",
+        "population",
+        "two",
+        "populations",
+        "one"
+      ],
+      "prerequisites": [
+        "040513102"
+      ],
+      "related_courses": [
+        "040513102",
+        "040513201",
+        "040513203",
+        "040513309",
+        "040513402",
+        "040533104"
+      ],
+      "recommended_next": [
+        "Categorical Data Analysis",
+        "Nonparametric Statistics",
+        "Decision Theory"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "permission",
+        "sampling",
+        "distributions",
+        "estimation",
+        "hypothesis"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563109",
+      "course_name_th": "การโปรแกรมคอมพิวเตอร์",
+      "course_name_en": "Computer Programming",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Basic programming; programming problem solving; data type; comparison operators; Loop; list; array; function; exception handling; file.",
+      "skills": [
+        "Programming",
+        "Computer",
+        "Problem",
+        "Solving",
+        "Data",
+        "Type"
+      ],
+      "keywords": [
+        "computer",
+        "programming",
+        "problem",
+        "solving",
+        "type",
+        "comparison",
+        "operators",
+        "loop",
+        "list",
+        "array"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563316",
+        "040563317",
+        "040563301",
+        "040563307",
+        "040513113",
+        "040563105"
+      ],
+      "recommended_next": [
+        "Storage Technology",
+        "Computer Simulation and Modelling"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "computer",
+        "programming",
+        "problem",
+        "solving",
+        "type"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563110",
+      "course_name_th": "การประมวลผลแบบกลุ่มเมฆเบื้องต้น",
+      "course_name_en": "Introduction to Cloud Computing",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Computer network fundamentals; basic concepts of cloud computing; cloud architecture; service of cloud, platform, infrastructure, software; public clouds; private clouds; hybrid clouds; security on cloud computing; cloud simulation tools.",
+      "skills": [
+        "Cloud Computing",
+        "Cloud",
+        "Computing",
+        "Computer",
+        "Network",
+        "Concepts"
+      ],
+      "keywords": [
+        "cloud",
+        "computing",
+        "computer",
+        "network",
+        "fundamentals",
+        "architecture",
+        "service",
+        "platform",
+        "infrastructure",
+        "software"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563306",
+        "040563311",
+        "040563318",
+        "040563321",
+        "040563323",
+        "040513406"
+      ],
+      "recommended_next": [
+        "Network Operations for Statistical Data",
+        "Web Technology",
+        "Penetration Testing"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "cloud",
+        "computing",
+        "computer",
+        "network",
+        "fundamentals"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563201",
+      "course_name_th": "โปรแกรมส าหรับการค านวณเชิงสถิติ",
+      "course_name_en": "Program for Statistical Computing",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Functions and data structures; loops and flow control; working with vector and matrix; import and export data; reading data from database; working with data; manipulating data; simulation; linear models; graphics programming.",
+      "skills": [
+        "Program",
+        "Statistical",
+        "Computing",
+        "Functions",
+        "Data",
+        "Structures"
+      ],
+      "keywords": [
+        "program",
+        "computing",
+        "functions",
+        "structures",
+        "loops",
+        "flow",
+        "control",
+        "working",
+        "vector",
+        "matrix"
+      ],
+      "prerequisites": [
+        "040513113"
+      ],
+      "related_courses": [
+        "040513113",
+        "040563302",
+        "040203202",
+        "040203203",
+        "040563101",
+        "040563103"
+      ],
+      "recommended_next": [
+        "Image Processing",
+        "Probability and Statistics Theory",
+        "Multivariate Analysis"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Quantitative Analyst",
+        "Researcher",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "program",
+        "computing",
+        "functions",
+        "structures",
+        "loops"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563203",
+      "course_name_th": "วิทยาศาสตร์ข้อมูลและการวิเคราะห์เชิงธุรกิจ",
+      "course_name_en": "Data Science and Analytic for Business",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Principles and methods of data science; fundamental of laws on business and information technology; data integration; data cleansing and data wrangling; concepts of business analytics; technology and tool for data analysis and decision making in business; case study in business.",
+      "skills": [
+        "Data Analysis",
+        "Data",
+        "Science",
+        "Analytic",
+        "Business",
+        "Principles"
+      ],
+      "keywords": [
+        "analytic",
+        "methods",
+        "laws",
+        "information",
+        "integration",
+        "cleansing",
+        "wrangling",
+        "analytics",
+        "tool",
+        "decision"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563102",
+        "040563104",
+        "040563105",
+        "040563205",
+        "040563309",
+        "040563313"
+      ],
+      "recommended_next": [
+        "Data Analytics in Regression",
+        "Machine Learning",
+        "Statistical Analysis for Big Data"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "analytic",
+        "methods",
+        "laws",
+        "information",
+        "integration"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563205",
+      "course_name_th": "ปัญญาประดิษฐ์",
+      "course_name_en": "Artificial Intelligence",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Introduction to artificial intelligence; problem spaces and search techniques; decision making using game theory; logic and infere nce; probability and uncertainty; deep learning; natural language processing; genetic algorithm; expert system and artificial intelligence applications.",
+      "skills": [
+        "Artificial",
+        "Intelligence",
+        "Problem",
+        "Spaces",
+        "Search",
+        "Techniques"
+      ],
+      "keywords": [
+        "artificial",
+        "intelligence",
+        "problem",
+        "spaces",
+        "search",
+        "techniques",
+        "decision",
+        "making",
+        "game",
+        "logic"
+      ],
+      "prerequisites": [
+        "040563104"
+      ],
+      "related_courses": [
+        "040563104",
+        "040513309",
+        "040563109",
+        "040563203",
+        "040563402",
+        "040563301"
+      ],
+      "recommended_next": [
+        "Machine Learning",
+        "Computer Programming",
+        "Data Science and Analytic for Business"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Statistician",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "artificial",
+        "intelligence",
+        "problem",
+        "spaces",
+        "search"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563206",
+      "course_name_th": "ระบบจัดการฐานข้อมูล",
+      "course_name_en": "Database Management Systems",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Types of data; file; data model; database management system architecture; database design; normalization; data flow diagram; entity relationship diagrams; data dictionary; concurrency control; data recovery; database security; structured query language; NoSQL database and case study with statistical data.",
+      "skills": [
+        "Database",
+        "Data Analysis",
+        "Systems",
+        "Types",
+        "Data",
+        "File"
+      ],
+      "keywords": [
+        "database",
+        "management",
+        "types",
+        "file",
+        "model",
+        "architecture",
+        "normalization",
+        "flow",
+        "diagram",
+        "entity"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563309",
+        "040563311",
+        "040563102",
+        "040563110",
+        "040563201",
+        "080203914"
+      ],
+      "recommended_next": [
+        "Database Administration"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Analyst",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "database",
+        "management",
+        "types",
+        "file",
+        "model"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563207",
+      "course_name_th": "การแสดงข้อมูลด้วยแผนภาพ",
+      "course_name_en": "Data Visualization",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Matrices and Vectors Analysis Principles of data visualization, data visualization design, data visualization tools, data preparation, appropriate chart selection, data visualization for special data.",
+      "skills": [
+        "Data Analysis",
+        "Data Visualization",
+        "Data",
+        "Visualization",
+        "Matrices",
+        "Vectors"
+      ],
+      "keywords": [
+        "visualization",
+        "matrices",
+        "vectors",
+        "tools",
+        "preparation",
+        "appropriate",
+        "chart",
+        "selection"
+      ],
+      "prerequisites": [
+        "040203202"
+      ],
+      "related_courses": [
+        "040203202",
+        "040563107",
+        "040563303",
+        "040563307",
+        "040563323",
+        "040563101"
+      ],
+      "recommended_next": [
+        "Tools for Statistical Data Science",
+        "Quality Control and Management",
+        "Quantitative Analysis in Financial Risk"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "visualization",
+        "matrices",
+        "vectors",
+        "tools",
+        "preparation"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563301",
+      "course_name_th": "การวิเคราะห์เชิงปริมาณทางธุรกิจ",
+      "course_name_en": "Quantitative Analysis for Business",
+      "category": "elective",
+      "credits": 3,
+      "description": "Quantitative analysis model; linear programming model; transportation problem; assignment problem; inventory model; network analysis; queuing model; competitive problem; software package for problem - solving.",
+      "skills": [
+        "Quantitative",
+        "Business",
+        "Model",
+        "Linear",
+        "Programming",
+        "Transportation"
+      ],
+      "keywords": [
+        "quantitative",
+        "model",
+        "linear",
+        "programming",
+        "transportation",
+        "problem",
+        "assignment",
+        "inventory",
+        "network",
+        "queuing"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563102",
+        "040563306",
+        "040563307",
+        "040563311",
+        "040563109",
+        "040513307"
+      ],
+      "recommended_next": [
+        "Data Analytics in Regression",
+        "Network Operations for Statistical Data",
+        "Quantitative Analysis in Financial Risk"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "quantitative",
+        "model",
+        "linear",
+        "programming",
+        "transportation"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563302",
+      "course_name_th": "การประมวลผลภาพ",
+      "course_name_en": "Image Processing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Fundamentals of Matrix and Vector Fundamental concepts in im age processing; techniques in digital image; file format for digital image; graphic capture; image compression and perception; visual language data manipulation; exploratory data analysis and data visualization; human visual perception; lying with visualiz ation and graph; graphic for exploratory data; correlation of continuous variable validation with graph and regression graphic.",
+      "skills": [
+        "Image",
+        "Processing",
+        "Matrix",
+        "Vector",
+        "Fundamental",
+        "Concepts"
+      ],
+      "keywords": [
+        "image",
+        "processing",
+        "fundamentals",
+        "matrix",
+        "vector",
+        "age",
+        "techniques",
+        "digital",
+        "file",
+        "format"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040203203",
+        "040563201",
+        "040203202",
+        "040533105",
+        "040563304",
+        "040563306"
+      ],
+      "recommended_next": [
+        "Program for Statistical Computing",
+        "Project Management",
+        "Network Operations for Statistical Data"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Statistician",
+        "Quantitative Analyst",
+        "Researcher"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "image",
+        "processing",
+        "fundamentals",
+        "matrix",
+        "vector"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563303",
+      "course_name_th": "การควบคุมและการจัดการคุณภาพ",
+      "course_name_en": "Quality Control and Management",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of quality control; total quality management; basic tools for process control; att ribute and variable control charts; analysis of capability process; acceptance sampling plans for attributes and vari ables; continuous sampling plans and international organization for standardization.",
+      "skills": [
+        "Quality",
+        "Control",
+        "Principles",
+        "Total",
+        "Tools",
+        "Process"
+      ],
+      "keywords": [
+        "quality",
+        "control",
+        "management",
+        "total",
+        "tools",
+        "process",
+        "att",
+        "ribute",
+        "variable",
+        "charts"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563304",
+        "040563307",
+        "040563308",
+        "040563312",
+        "040563314",
+        "040563317"
+      ],
+      "recommended_next": [
+        "Project Management",
+        "Quantitative Analysis in Financial Risk",
+        "Optimization for Machine Learning"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Business Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "quality",
+        "control",
+        "management",
+        "total",
+        "tools"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563304",
+      "course_name_th": "การบริหารโครงการ",
+      "course_name_en": "Project Management",
+      "category": "elective",
+      "credits": 3,
+      "description": "ด้วย PERT และ CPM การวิเคราะห์และการประเมินผ ลโครงการเพื่อการตัดสินใจ การตรวจสอบและการ Project planing and operating; project constraints; schedule management techniques; resource allocation methods; project cost estimation; project management techniques with PERT and CPM; project anal ysis and evaluation for decision making; project monitoring and controlling.",
+      "skills": [
+        "Pert",
+        "Cpm",
+        "Planing",
+        "Operating",
+        "Constraints",
+        "Schedule"
+      ],
+      "keywords": [
+        "management",
+        "pert",
+        "cpm",
+        "planing",
+        "operating",
+        "constraints",
+        "schedule",
+        "techniques",
+        "resource",
+        "allocation"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563302",
+        "040563303",
+        "040563308",
+        "040563312",
+        "040563314",
+        "040563320"
+      ],
+      "recommended_next": [
+        "Image Processing",
+        "Quality Control and Management",
+        "Optimization for Machine Learning"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "management",
+        "pert",
+        "cpm",
+        "planing",
+        "operating"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563306",
+      "course_name_th": "การจัดการเครือข่ายคอมพิวเตอร์ส าหรับข้อมูลเชิงสถิติ",
+      "course_name_en": "Network Operations for Statistical Data",
+      "category": "elective",
+      "credits": 3,
+      "description": "or Department Permission Computer network fundamentals; OSI model; TCP/IP model; network devices; networking technology; wireless network; network security.",
+      "skills": [
+        "Data Analysis",
+        "Network",
+        "Operations",
+        "Statistical",
+        "Data",
+        "Department"
+      ],
+      "keywords": [
+        "network",
+        "operations",
+        "department",
+        "permission",
+        "computer",
+        "fundamentals",
+        "osi",
+        "model",
+        "tcp",
+        "devices"
+      ],
+      "prerequisites": [
+        "040513113"
+      ],
+      "related_courses": [
+        "040513113",
+        "040563311",
+        "040513406",
+        "040563318",
+        "040563321",
+        "040563323"
+      ],
+      "recommended_next": [
+        "Web Technology",
+        "Penetration Testing",
+        "Information Technology Security and IT Law"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "network",
+        "operations",
+        "department",
+        "permission",
+        "computer"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563307",
+      "course_name_th": "การวิเคราะห์ความเสี่ยงทางการเงิน",
+      "course_name_en": "Quantitative Analysis in Financial Risk",
+      "category": "elective",
+      "credits": 3,
+      "description": "Analysis of financial risk; tools of financial risk; the fundamental concept of mathematical for solving financial risk problem; applied mathematics and statistics for forecasting; financial planning and decisions making.",
+      "skills": [
+        "Quantitative",
+        "Financial",
+        "Risk",
+        "Tools",
+        "Fundamental",
+        "Concept"
+      ],
+      "keywords": [
+        "quantitative",
+        "financial",
+        "risk",
+        "tools",
+        "mathematical",
+        "solving",
+        "problem",
+        "forecasting",
+        "planning",
+        "decisions"
+      ],
+      "prerequisites": [
+        "040533104"
+      ],
+      "related_courses": [
+        "040533104",
+        "040563301",
+        "040563109",
+        "040563303",
+        "040563320",
+        "080303103"
+      ],
+      "recommended_next": [
+        "Quantitative Analysis for Business",
+        "Computer Programming",
+        "Quality Control and Management"
+      ],
+      "career_tracks": [
+        "Statistician",
+        "Data Analyst",
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "quantitative",
+        "financial",
+        "risk",
+        "tools",
+        "mathematical"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563308",
+      "course_name_th": "การหาค่าเหมาะสมที่สุดส าหรับการเรียนรู้ของเครื่อง",
+      "course_name_en": "Optimization for Machine Learning",
+      "category": "elective",
+      "credits": 3,
+      "description": "Optimization; single - variable optimization; multi - variable optimization without constraints; multi - variable optimization with constraints; optimization with special algorithm; application to mac hine learning.",
+      "skills": [
+        "Machine Learning",
+        "Optimization",
+        "Machine",
+        "Learning",
+        "Single Variable",
+        "Multi Variable"
+      ],
+      "keywords": [
+        "optimization",
+        "machine",
+        "learning",
+        "single",
+        "variable",
+        "multi",
+        "without",
+        "constraints",
+        "algorithm",
+        "mac"
+      ],
+      "prerequisites": [
+        "040203101"
+      ],
+      "related_courses": [
+        "040203101",
+        "040563315",
+        "040563104",
+        "040563303",
+        "040563304",
+        "040513113"
+      ],
+      "recommended_next": [
+        "Multimedia Mining",
+        "Machine Learning",
+        "Quality Control and Management"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Quantitative Analyst",
+        "Researcher",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "optimization",
+        "machine",
+        "learning",
+        "single",
+        "variable"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563309",
+      "course_name_th": "การบริหารฐานข้อมูล",
+      "course_name_en": "Database Administration",
+      "category": "elective",
+      "credits": 3,
+      "description": "or Department Permission Data cleansing and manipulation; inserting; updating; and deleting; metadata queries; date manipulation; regular expressions; window functions; group by; advanced searching; hierarchical queries; correlated subqueries; common table expressions; connecting to an external data source; reporting; and case study.",
+      "skills": [
+        "Database",
+        "Data Analysis",
+        "Administration",
+        "Department",
+        "Permission",
+        "Data"
+      ],
+      "keywords": [
+        "database",
+        "administration",
+        "department",
+        "permission",
+        "cleansing",
+        "manipulation",
+        "inserting",
+        "updating",
+        "deleting",
+        "metadata"
+      ],
+      "prerequisites": [
+        "040563206"
+      ],
+      "related_courses": [
+        "040563206",
+        "040563306",
+        "040563101",
+        "040513113",
+        "040513401",
+        "040513406"
+      ],
+      "recommended_next": [
+        "Database Management Systems",
+        "Network Operations for Statistical Data",
+        "Probability and Statistics Theory"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "database",
+        "administration",
+        "department",
+        "permission",
+        "cleansing"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563310",
+      "course_name_th": "การศึกษาเฉพาะเรื่องทางด้านวิทยาศาสตร์ข้อมูล",
+      "course_name_en": "Selected Topics in Data Science",
+      "category": "elective",
+      "credits": 3,
+      "description": "Data Science topic that is not inclusive to the curriculum. The topic should relate to emerging data science issues",
+      "skills": [
+        "Data Analysis",
+        "Data",
+        "Science",
+        "That",
+        "Not",
+        "Inclusive"
+      ],
+      "keywords": [
+        "topic",
+        "that",
+        "not",
+        "inclusive",
+        "curriculum",
+        "should",
+        "relate",
+        "emerging",
+        "issues"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563301",
+        "040563302",
+        "040563303",
+        "040563304",
+        "040563306",
+        "040563307"
+      ],
+      "recommended_next": [
+        "Quantitative Analysis for Business",
+        "Image Processing",
+        "Quality Control and Management"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "topic",
+        "that",
+        "not",
+        "inclusive",
+        "curriculum"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563311",
+      "course_name_th": "เทคโนโลยีเว็บ",
+      "course_name_en": "Web Technology",
+      "category": "elective",
+      "credits": 3,
+      "description": "Computer network fundamentals; t echnology to build web; web database; data connection network; TCP/IP model; security and privacy; technology trends.",
+      "skills": [
+        "Web Technology",
+        "Web",
+        "Technology",
+        "Computer",
+        "Network",
+        "Echnology"
+      ],
+      "keywords": [
+        "web",
+        "computer",
+        "network",
+        "fundamentals",
+        "echnology",
+        "build",
+        "database",
+        "connection",
+        "tcp",
+        "model"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563306",
+        "040563318",
+        "040563321",
+        "040563323",
+        "040563110",
+        "040563301"
+      ],
+      "recommended_next": [
+        "Network Operations for Statistical Data",
+        "Penetration Testing",
+        "Information Technology Security and IT Law"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "web",
+        "computer",
+        "network",
+        "fundamentals",
+        "echnology"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563312",
+      "course_name_th": "การตลาดดิจิทัล",
+      "course_name_en": "Digital Marketing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Contemporary business and marketing; online and offline advertising in the digital world; digital advertising and me dia management; marketing communications campaign and evaluation planning; ethical marketing practice; brand strategy; design principles of web and mobile application for digital marketing; design thinking in marketing; social media for brand management and advertising.",
+      "skills": [
+        "Digital Marketing",
+        "Digital",
+        "Marketing",
+        "Contemporary",
+        "Business",
+        "Online"
+      ],
+      "keywords": [
+        "digital",
+        "marketing",
+        "contemporary",
+        "online",
+        "offline",
+        "advertising",
+        "world",
+        "dia",
+        "management",
+        "communications"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040533302",
+        "040563302",
+        "040563303",
+        "040563304",
+        "040563314",
+        "040563319"
+      ],
+      "recommended_next": [
+        "Image Processing",
+        "Quality Control and Management",
+        "Project Management"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "digital",
+        "marketing",
+        "contemporary",
+        "online",
+        "offline"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563313",
+      "course_name_th": "กฎหมายวิทยาศาสตร์ข้อมูลและนวัตกรรม",
+      "course_name_en": "Data Science and Innovation Laws",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of laws, acts and statutes in data science and innovation, cybercrime act; national econo mic and social development plan; master plan for information technology in Thailand.",
+      "skills": [
+        "Data Analysis",
+        "Data",
+        "Science",
+        "Innovation",
+        "Laws",
+        "Principles"
+      ],
+      "keywords": [
+        "innovation",
+        "laws",
+        "acts",
+        "statutes",
+        "cybercrime",
+        "act",
+        "national",
+        "econo",
+        "mic",
+        "social"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563322",
+        "040563203",
+        "040563301",
+        "040563302",
+        "040563303",
+        "040563304"
+      ],
+      "recommended_next": [
+        "Cybercrime",
+        "Data Science and Analytic for Business",
+        "Quantitative Analysis for Business"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "innovation",
+        "laws",
+        "acts",
+        "statutes",
+        "cybercrime"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563314",
+      "course_name_th": "การจัดการพาณิชย์อิเล็กทรอนิกส์",
+      "course_name_en": "E - Commerce Management",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles and evolution of e - commerce; infrastructure and applications of electronic transaction systems; ser vices of e - commerce; electronic payment and security systems; advertising; shipping and freight system; e - commerce management of e - commerce.",
+      "skills": [
+        "E Commerce",
+        "Principles",
+        "Evolution",
+        "Commerce",
+        "Infrastructure",
+        "Applications"
+      ],
+      "keywords": [
+        "commerce",
+        "management",
+        "evolution",
+        "infrastructure",
+        "electronic",
+        "transaction",
+        "ser",
+        "vices",
+        "payment",
+        "security"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563320",
+        "040513406",
+        "040563303",
+        "040563304",
+        "040563312",
+        "040563321"
+      ],
+      "recommended_next": [
+        "Computer System Security",
+        "Quality Control and Management",
+        "Project Management"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "commerce",
+        "management",
+        "evolution",
+        "infrastructure",
+        "electronic"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563315",
+      "course_name_th": "การท าเหมืองสื่อประสม",
+      "course_name_en": "Multimedia Mining",
+      "category": "elective",
+      "credits": 3,
+      "description": "Fundamental of multimedia data; types of multimedia data; multimedia data acquisition and production; multimedia simulation; multimedia processing; multimedia processing using machine learning basis; system design; system implement and application.",
+      "skills": [
+        "Multimedia",
+        "Mining",
+        "Fundamental",
+        "Data",
+        "Types",
+        "Acquisition"
+      ],
+      "keywords": [
+        "multimedia",
+        "mining",
+        "types",
+        "acquisition",
+        "production",
+        "simulation",
+        "processing",
+        "machine",
+        "learning",
+        "basis"
+      ],
+      "prerequisites": [
+        "040563104"
+      ],
+      "related_courses": [
+        "040563104",
+        "040563308",
+        "040533105",
+        "040563302",
+        "040563317",
+        "040563322"
+      ],
+      "recommended_next": [
+        "Machine Learning",
+        "Optimization for Machine Learning",
+        "Image Processing"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "multimedia",
+        "mining",
+        "types",
+        "acquisition",
+        "production"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563316",
+      "course_name_th": "เทคโนโลยีการจัดเก็บข้อมูล",
+      "course_name_en": "Storage Technology",
+      "category": "elective",
+      "credits": 3,
+      "description": "Information storage technologies and architecture; storage system architecture and data center; t ype of storage device; direct - attached storage; network - attached storage; storage virtualization; RAID data protection; backup, replication and recovery data; securing and managing storage infrastructure.",
+      "skills": [
+        "Storage",
+        "Technology",
+        "Information",
+        "Technologies",
+        "Architecture",
+        "Data"
+      ],
+      "keywords": [
+        "storage",
+        "information",
+        "architecture",
+        "center",
+        "ype",
+        "device",
+        "direct",
+        "attached",
+        "network",
+        "virtualization"
+      ],
+      "prerequisites": [
+        "040563109"
+      ],
+      "related_courses": [
+        "040563109",
+        "040563318",
+        "040563321",
+        "040563110",
+        "040513406",
+        "040563301"
+      ],
+      "recommended_next": [
+        "Computer Programming",
+        "Penetration Testing",
+        "Information Technology Security and IT Law"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "storage",
+        "information",
+        "architecture",
+        "center",
+        "ype"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563317",
+      "course_name_th": "การสร้างตัวแบบและการจ าลองด้วยคอมพิวเตอร์",
+      "course_name_en": "Computer Simulation and Modelling",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of simulation; analytical modeling; statistic and stoc hastic modeling; random process; birth - death process; Markov process and applications.",
+      "skills": [
+        "Simulation",
+        "Computer",
+        "Modelling",
+        "Principles",
+        "Analytical",
+        "Modeling"
+      ],
+      "keywords": [
+        "computer",
+        "simulation",
+        "modelling",
+        "analytical",
+        "modeling",
+        "statistic",
+        "stoc",
+        "hastic",
+        "random",
+        "process"
+      ],
+      "prerequisites": [
+        "040563109"
+      ],
+      "related_courses": [
+        "040563109",
+        "040513114",
+        "040563319",
+        "040563303",
+        "040563306",
+        "040563311"
+      ],
+      "recommended_next": [
+        "Computer Programming",
+        "Digital Forensics",
+        "Quality Control and Management"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "computer",
+        "simulation",
+        "modelling",
+        "analytical",
+        "modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563318",
+      "course_name_th": "การทดสอบเจาะระบบ",
+      "course_name_en": "Penetration Testing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Computer network fundamentals; introduction of penetration testing; information gathering and reconnaissance; scanning network; post - exploitation hacking and reporting; vulnerability and solution mitigate the ris k of attack; intrusion detection and exploit any vulnerability uncovered in the target network environment; avoiding and preventing hacking; protection of computer network attacking approach.",
+      "skills": [
+        "Penetration",
+        "Testing",
+        "Computer",
+        "Network",
+        "Information",
+        "Gathering"
+      ],
+      "keywords": [
+        "penetration",
+        "testing",
+        "computer",
+        "network",
+        "fundamentals",
+        "information",
+        "gathering",
+        "reconnaissance",
+        "scanning",
+        "post"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563321",
+        "040563306",
+        "040563311",
+        "040563323",
+        "040563110",
+        "040513406"
+      ],
+      "recommended_next": [
+        "Information Technology Security and IT Law",
+        "Network Operations for Statistical Data",
+        "Web Technology"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "penetration",
+        "testing",
+        "computer",
+        "network",
+        "fundamentals"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563319",
+      "course_name_th": "นิติดิจิทัล",
+      "course_name_en": "Digital Forensics",
+      "category": "elective",
+      "credits": 3,
+      "description": "Introduction of digital forensics; computer forensics investigation process; skill and knowledge to manage incident response; system breach; persistent threat and anti - forensic practice; data collection and operating system analysis skill.",
+      "skills": [
+        "Digital",
+        "Forensics",
+        "Computer",
+        "Investigation",
+        "Process",
+        "Skill"
+      ],
+      "keywords": [
+        "digital",
+        "forensics",
+        "computer",
+        "investigation",
+        "process",
+        "skill",
+        "knowledge",
+        "manage",
+        "incident",
+        "response"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563317",
+        "040563302",
+        "040563303",
+        "040563306",
+        "040563311",
+        "040563312"
+      ],
+      "recommended_next": [
+        "Computer Simulation and Modelling",
+        "Image Processing",
+        "Quality Control and Management"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "digital",
+        "forensics",
+        "computer",
+        "investigation",
+        "process"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563320",
+      "course_name_th": "ความปลอดภัยของระบบคอมพิวเตอร์",
+      "course_name_en": "Computer System Security",
+      "category": "elective",
+      "credits": 3,
+      "description": "Introduction of computer system security; computer security standard system; security hacker attack pattern; risk assessment and management; network and computer system protection; security inspection and supervision; data backup; data encryption scheme and data recovery.",
+      "skills": [
+        "Cybersecurity",
+        "Computer",
+        "Security",
+        "Standard",
+        "Hacker",
+        "Attack"
+      ],
+      "keywords": [
+        "computer",
+        "security",
+        "standard",
+        "hacker",
+        "attack",
+        "pattern",
+        "risk",
+        "assessment",
+        "management",
+        "network"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563321",
+        "040563323",
+        "040513406",
+        "040563306",
+        "040563311",
+        "040563314"
+      ],
+      "recommended_next": [
+        "Information Technology Security and IT Law",
+        "Fundamental Security for Network and Server",
+        "Network Operations for Statistical Data"
+      ],
+      "career_tracks": [
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst",
+        "Business Analyst",
+        "Data Analyst"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "computer",
+        "security",
+        "standard",
+        "hacker",
+        "attack"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563321",
+      "course_name_th": "ความมั่นคงของระบบสารสนเทศและกฏหมายไอที",
+      "course_name_en": "Information Technology Security and IT Law",
+      "category": "elective",
+      "credits": 3,
+      "description": "Computer network fundamentals; i nformation system security; threats; vulnerabilities; a pattern of information system intrusion; risk assessment and analysis; security polic ies; information system security management; encryption and decryption techniques; authentication; access control; network security; privacy and confidentiality; computer crime; security awareness; IT laws with information technology.",
+      "skills": [
+        "Cybersecurity",
+        "Information",
+        "Technology",
+        "Security",
+        "Law",
+        "Computer"
+      ],
+      "keywords": [
+        "information",
+        "security",
+        "law",
+        "computer",
+        "network",
+        "fundamentals",
+        "nformation",
+        "threats",
+        "vulnerabilities",
+        "pattern"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563318",
+        "040563320",
+        "040563323",
+        "040563306",
+        "040563311",
+        "040563322"
+      ],
+      "recommended_next": [
+        "Penetration Testing",
+        "Computer System Security",
+        "Fundamental Security for Network and Server"
+      ],
+      "career_tracks": [
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst",
+        "Business Analyst",
+        "Data Analyst"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "information",
+        "security",
+        "law",
+        "computer",
+        "network"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563322",
+      "course_name_th": "อาชญากรรมไซเบอร์",
+      "course_name_en": "Cybercrime",
+      "category": "elective",
+      "credits": 3,
+      "description": "Types of cybercrimes; Thailand cybercrime act law; cyberattacks; computer hacking; i nformation warfare; computer virus; i mpact of cybercrime; cybercrime case study.",
+      "skills": [
+        "Cybercrime",
+        "Types",
+        "Cybercrimes",
+        "Thailand",
+        "Act",
+        "Law"
+      ],
+      "keywords": [
+        "cybercrime",
+        "types",
+        "cybercrimes",
+        "thailand",
+        "act",
+        "law",
+        "cyberattacks",
+        "computer",
+        "hacking",
+        "nformation"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563321",
+        "040563313",
+        "040563306",
+        "040563311",
+        "040563315",
+        "040563317"
+      ],
+      "recommended_next": [
+        "Information Technology Security and IT Law",
+        "Data Science and Innovation Laws",
+        "Network Operations for Statistical Data"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "cybercrime",
+        "types",
+        "cybercrimes",
+        "thailand",
+        "act"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563323",
+      "course_name_th": "เทคโนโลยีความปลอดภัยพื้นฐานส าหรับเน็ตเวิร์คและเซิร์ฟเวอร์",
+      "course_name_en": "Fundamental Security for Network and Server",
+      "category": "elective",
+      "credits": 3,
+      "description": "Computer network fundamentals; fundamental of network design; computer server selection and installation; firewall installation; intrusion detection system; basic security for network and server; security tool; security standard; basic problem solving.",
+      "skills": [
+        "Cybersecurity",
+        "Fundamental",
+        "Security",
+        "Network",
+        "Server",
+        "Computer"
+      ],
+      "keywords": [
+        "security",
+        "network",
+        "server",
+        "computer",
+        "fundamentals",
+        "selection",
+        "installation",
+        "firewall",
+        "intrusion",
+        "detection"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563321",
+        "040563306",
+        "040563311",
+        "040563318",
+        "040563320",
+        "040563110"
+      ],
+      "recommended_next": [
+        "Information Technology Security and IT Law",
+        "Network Operations for Statistical Data",
+        "Web Technology"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "elective",
+        "security",
+        "network",
+        "server",
+        "computer",
+        "fundamentals"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563401",
+      "course_name_th": "โครงงานพิเศษ",
+      "course_name_en": "Special Project I",
+      "category": "major_required",
+      "credits": 1,
+      "description": "professional elective course. Studying new interesting statistical approaches; applying statistics with other fields; analyzing recent interesting statistical problems; presenting study or analytical result.",
+      "skills": [
+        "Professional",
+        "Elective",
+        "Course",
+        "Studying",
+        "New",
+        "Interesting"
+      ],
+      "keywords": [
+        "professional",
+        "elective",
+        "studying",
+        "new",
+        "interesting",
+        "approaches",
+        "applying",
+        "other",
+        "fields",
+        "analyzing"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563402",
+        "040563902",
+        "040533105",
+        "040563101",
+        "040563102",
+        "040563103"
+      ],
+      "recommended_next": [
+        "Special Project II"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "professional",
+        "elective",
+        "studying",
+        "new",
+        "interesting"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563402",
+      "course_name_th": "โครงงานพิเศษ",
+      "course_name_en": "Special Project II",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Making interesting special project by self study under advisor's monitoring; presenting results to the department committee or in conference.",
+      "skills": [
+        "Making",
+        "Interesting",
+        "Self",
+        "Under",
+        "Advisor",
+        "Monitoring"
+      ],
+      "keywords": [
+        "making",
+        "interesting",
+        "self",
+        "under",
+        "advisor's",
+        "monitoring",
+        "presenting",
+        "results",
+        "department",
+        "committee"
+      ],
+      "prerequisites": [
+        "040563401"
+      ],
+      "related_courses": [
+        "040563401",
+        "040513309",
+        "040563101",
+        "040563205",
+        "040563902",
+        "040563306"
+      ],
+      "recommended_next": [
+        "Special Project I",
+        "Probability and Statistics Theory",
+        "Artificial Intelligence"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "making",
+        "interesting",
+        "self",
+        "under",
+        "advisor's"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563901",
+      "course_name_th": "เตรียมสหกิจศึกษา",
+      "course_name_en": "Pre - cooperative Education",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Fundamental of cooperative education; regulation of cooperative education; special seminar; pre - cooperative education activities.",
+      "skills": [
+        "Pre Cooperative",
+        "Education",
+        "Fundamental",
+        "Cooperative",
+        "Regulation",
+        "Seminar"
+      ],
+      "keywords": [
+        "pre",
+        "cooperative",
+        "regulation",
+        "activities"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040563902",
+        "040563101",
+        "040563102",
+        "040563103",
+        "040563104",
+        "040563105"
+      ],
+      "recommended_next": [
+        "Co - operative Education"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "pre",
+        "cooperative",
+        "regulation",
+        "activities"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040563902",
+      "course_name_th": "สหกิจศึกษา",
+      "course_name_en": "Co - operative Education",
+      "category": "major_required",
+      "credits": 6,
+      "description": "Internship at cooperative enterprises by applying statistical knowledge under supervision and guidance of experts in the workplace and cooperative advisors; presenting the result to the committees.",
+      "skills": [
+        "Co Operative",
+        "Education",
+        "Internship",
+        "Cooperative",
+        "Enterprises",
+        "Applying"
+      ],
+      "keywords": [
+        "operative",
+        "internship",
+        "cooperative",
+        "enterprises",
+        "applying",
+        "knowledge",
+        "under",
+        "supervision",
+        "guidance",
+        "experts"
+      ],
+      "prerequisites": [
+        "040563901"
+      ],
+      "related_courses": [
+        "040563901",
+        "040563401",
+        "040563402",
+        "040563319",
+        "040513309",
+        "040563101"
+      ],
+      "recommended_next": [
+        "Pre - cooperative Education",
+        "Special Project I",
+        "Special Project II"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "operative",
+        "internship",
+        "cooperative",
+        "enterprises",
+        "applying"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "040713002",
+      "course_name_th": "วิทยาศาสตร์สุขภาพและโภชนาการ",
+      "course_name_en": "Healthy Science and Nutrition",
+      "category": "core",
+      "credits": 3,
+      "description": "Body systems and primary health care; food and nutrients that the body needs in each meal hygienic food; food safety; disease and disorders caused by the consumption of food.",
+      "skills": [
+        "Healthy",
+        "Science",
+        "Nutrition",
+        "Body",
+        "Systems",
+        "Primary"
+      ],
+      "keywords": [
+        "healthy",
+        "nutrition",
+        "body",
+        "primary",
+        "health",
+        "care",
+        "food",
+        "nutrients",
+        "that",
+        "needs"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040413001",
+        "040563310",
+        "080303601"
+      ],
+      "recommended_next": [
+        "Selected Topics in Data Science"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "core",
+        "healthy",
+        "nutrition",
+        "body",
+        "primary",
+        "health"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103001",
+      "course_name_th": "ภาษาอังกฤษ",
+      "course_name_en": "English I",
+      "category": "general",
+      "credits": 3,
+      "description": "Listening, speaking, reading; and writing skills; communicating in simple and routine tasks; reading short passages; writing sentences; and additional online practice.",
+      "skills": [
+        "English",
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing",
+        "Skills"
+      ],
+      "keywords": [
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "skills",
+        "communicating",
+        "simple",
+        "routine",
+        "tasks",
+        "short"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080103002",
+        "080103061",
+        "080103062",
+        "080103034",
+        "080103030",
+        "080103031"
+      ],
+      "recommended_next": [
+        "English II"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "skills"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103002",
+      "course_name_th": "ภาษาอังกฤษ",
+      "course_name_en": "English II",
+      "category": "general",
+      "credits": 3,
+      "description": "Listening, speaking, reading and writing skills; communicating and giving opinions on familiar topics; reading long passages; writing complex sentences and simple paragraphs; and additional online practice.",
+      "skills": [
+        "English",
+        "Listening",
+        "Speaking",
+        "Reading",
+        "Writing",
+        "Skills"
+      ],
+      "keywords": [
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "skills",
+        "communicating",
+        "giving",
+        "opinions",
+        "familiar",
+        "long"
+      ],
+      "prerequisites": [
+        "080103001"
+      ],
+      "related_courses": [
+        "080103001",
+        "080103030",
+        "080103031",
+        "080103032",
+        "080103033",
+        "080103034"
+      ],
+      "recommended_next": [
+        "Academic Reading",
+        "News and Current Issues Reading",
+        "Paragraph Writing"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "skills"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103030",
+      "course_name_th": "การอ่านเชิงวิชาการ",
+      "course_name_en": "Academic Reading",
+      "category": "general",
+      "credits": 3,
+      "description": "Reading strategies; reading ability development, focusing on academic topics.",
+      "skills": [
+        "Academic",
+        "Reading",
+        "Strategies",
+        "Ability",
+        "Development",
+        "Focusing"
+      ],
+      "keywords": [
+        "academic",
+        "reading",
+        "strategies",
+        "ability",
+        "focusing"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103062"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103062",
+        "080103031",
+        "080103001",
+        "080103035",
+        "080103061"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Researcher",
+        "Academic",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "academic",
+        "reading",
+        "strategies",
+        "ability",
+        "focusing"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103031",
+      "course_name_th": "การอ่านข่าวและเหตุการณ์ปัจจุบัน",
+      "course_name_en": "News and Current Issues Reading",
+      "category": "general",
+      "credits": 3,
+      "description": "Reading strategies; reading ability development, focusing on news and current issues.",
+      "skills": [
+        "News",
+        "Current",
+        "Issues",
+        "Reading",
+        "Strategies",
+        "Ability"
+      ],
+      "keywords": [
+        "news",
+        "current",
+        "issues",
+        "reading",
+        "strategies",
+        "ability",
+        "focusing"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103062"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103062",
+        "080103030",
+        "080103001",
+        "080103061",
+        "080303701"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "news",
+        "current",
+        "issues",
+        "reading",
+        "strategies"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103032",
+      "course_name_th": "การเขียนย่อหน้า",
+      "course_name_en": "Paragraph Writing",
+      "category": "general",
+      "credits": 3,
+      "description": "Writing different types of sentences; writing different types of paragraph s for effective communication; paragraph components; process of writing skill development.",
+      "skills": [
+        "Graph Theory",
+        "Paragraph",
+        "Writing",
+        "Different",
+        "Types",
+        "Sentences"
+      ],
+      "keywords": [
+        "paragraph",
+        "writing",
+        "different",
+        "types",
+        "sentences",
+        "effective",
+        "communication",
+        "components",
+        "process",
+        "skill"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103062"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103062",
+        "040533105",
+        "040563319",
+        "080103001",
+        "080103033"
+      ],
+      "recommended_next": [
+        "Digital Forensics"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "paragraph",
+        "writing",
+        "different",
+        "types",
+        "sentences"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103033",
+      "course_name_th": "การเขียนเชิงธุรกิจ",
+      "course_name_en": "Business Writing",
+      "category": "general",
+      "credits": 3,
+      "description": "Principles and practices of w riting for business; business correspondence; writing memos and reports; describing graphs for business presentation.",
+      "skills": [
+        "Business",
+        "Writing",
+        "Principles",
+        "Practices",
+        "Riting",
+        "Correspondence"
+      ],
+      "keywords": [
+        "writing",
+        "practices",
+        "riting",
+        "correspondence",
+        "memos",
+        "reports",
+        "describing",
+        "graphs",
+        "presentation"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103062"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103062",
+        "080103001",
+        "080103032",
+        "080103035",
+        "080103061"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "writing",
+        "practices",
+        "riting",
+        "correspondence",
+        "memos"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103034",
+      "course_name_th": "การสนทนาภาษาอังกฤษ",
+      "course_name_en": "English Conversation",
+      "category": "general",
+      "credits": 3,
+      "description": "English communication skills with an emphasis on speaking, listening, and pronunciation; functional languages in daily conversation.",
+      "skills": [
+        "English",
+        "Conversation",
+        "Communication",
+        "Skills",
+        "Emphasis",
+        "Speaking"
+      ],
+      "keywords": [
+        "conversation",
+        "communication",
+        "skills",
+        "emphasis",
+        "speaking",
+        "listening",
+        "pronunciation",
+        "functional",
+        "languages"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103062"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103062",
+        "080103001",
+        "080103061",
+        "080103032",
+        "080103035"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "conversation",
+        "communication",
+        "skills",
+        "emphasis",
+        "speaking"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103035",
+      "course_name_th": "ทักษะการน าเสนอ",
+      "course_name_en": "Oral Presentation",
+      "category": "general",
+      "credits": 3,
+      "description": "English oral presentation skills for academic and business purposes; prepared and impromptu presentations.",
+      "skills": [
+        "Oral",
+        "Presentation",
+        "English",
+        "Skills",
+        "Academic",
+        "Business"
+      ],
+      "keywords": [
+        "oral",
+        "presentation",
+        "skills",
+        "academic",
+        "purposes",
+        "prepared",
+        "impromptu",
+        "presentations"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103062"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103062",
+        "080103001",
+        "080103030",
+        "080103033",
+        "080103034"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Researcher",
+        "Academic",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "oral",
+        "presentation",
+        "skills",
+        "academic",
+        "purposes"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103061",
+      "course_name_th": "การใช้ภาษาอังกฤษ",
+      "course_name_en": "Practical English I",
+      "category": "general",
+      "credits": 3,
+      "description": "Integrated skills of listening; speaking; reading and writing with basic sentence structures; vocabulary and short of passages; basic communication skills for everyday life.",
+      "skills": [
+        "Practical",
+        "English",
+        "Integrated",
+        "Skills",
+        "Listening",
+        "Speaking"
+      ],
+      "keywords": [
+        "integrated",
+        "skills",
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "sentence",
+        "structures",
+        "vocabulary",
+        "short"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080103062",
+        "080103001",
+        "080103002",
+        "080103034",
+        "080103030",
+        "080103031"
+      ],
+      "recommended_next": [
+        "Practical English II"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "integrated",
+        "skills",
+        "listening",
+        "speaking",
+        "reading"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080103062",
+      "course_name_th": "การใช้ภาษาอังกฤษ",
+      "course_name_en": "Practical English II",
+      "category": "general",
+      "credits": 3,
+      "description": "Integrated skills of listening; speaking; writing and reading for daily life; integrating gramma; vocabulary and functions in varieties of situations; developing competence in English communication.",
+      "skills": [
+        "Practical",
+        "English",
+        "Integrated",
+        "Skills",
+        "Listening",
+        "Speaking"
+      ],
+      "keywords": [
+        "integrated",
+        "skills",
+        "listening",
+        "speaking",
+        "writing",
+        "reading",
+        "integrating",
+        "gramma",
+        "vocabulary",
+        "functions"
+      ],
+      "prerequisites": [
+        "080103061"
+      ],
+      "related_courses": [
+        "080103061",
+        "080103030",
+        "080103031",
+        "080103032",
+        "080103033",
+        "080103034"
+      ],
+      "recommended_next": [
+        "Academic Reading",
+        "News and Current Issues Reading",
+        "Paragraph Writing"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "integrated",
+        "skills",
+        "listening",
+        "speaking",
+        "writing"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080203903",
+      "course_name_th": "มิติทางสังคม เศรษฐกิจ และการเมือง",
+      "course_name_en": "Social; Economic and Political Dimension",
+      "category": "general",
+      "credits": 3,
+      "description": "Important of society; economics; and politics; development and change of society; social dimensions; ethics and living in dynamic society to sustainable development.",
+      "skills": [
+        "Social",
+        "Economic",
+        "Political",
+        "Dimension",
+        "Important",
+        "Society"
+      ],
+      "keywords": [
+        "social",
+        "economic",
+        "political",
+        "dimension",
+        "important",
+        "society",
+        "economics",
+        "politics",
+        "change",
+        "dimensions"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080203905",
+        "080203907",
+        "040313016",
+        "040563107",
+        "040563313",
+        "080203904"
+      ],
+      "recommended_next": [
+        "Tools for Statistical Data Science",
+        "Data Science and Innovation Laws"
+      ],
+      "career_tracks": [
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst",
+        "Business Analyst",
+        "Data Analyst"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "social",
+        "economic",
+        "political",
+        "dimension",
+        "important"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080203904",
+      "course_name_th": "กฎหมายในชีวิตประจ าวัน",
+      "course_name_en": "Law in Daily Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Characteristics and evolution of law; types of law; basic legal knowledge for everyone in their daily lives; awareness of individual rights and responsibilities; respecting the rights of others to fulfill good citizenship.",
+      "skills": [
+        "Law",
+        "Characteristics",
+        "Evolution",
+        "Types",
+        "Legal",
+        "Knowledge"
+      ],
+      "keywords": [
+        "law",
+        "characteristics",
+        "evolution",
+        "types",
+        "legal",
+        "knowledge",
+        "everyone",
+        "their",
+        "lives",
+        "awareness"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040533105",
+        "040533307",
+        "040563322",
+        "080103032",
+        "080303504",
+        "040313016"
+      ],
+      "recommended_next": [
+        "Cybercrime"
+      ],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "law",
+        "characteristics",
+        "evolution",
+        "types",
+        "legal"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080203905",
+      "course_name_th": "เศรษฐศาสตร์ในชีวิตประวัน",
+      "course_name_en": "Economics for Everyday Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Economic activities in society; consumption; saving, finance and banking, inflation; deflation, government finance, international trade, ASEAN economic community, philosophy of sufficiency economy, application of various economic situations to everyday life.",
+      "skills": [
+        "Economics",
+        "Economic",
+        "Activities",
+        "Society",
+        "Consumption",
+        "Saving"
+      ],
+      "keywords": [
+        "economics",
+        "economic",
+        "activities",
+        "society",
+        "consumption",
+        "saving",
+        "finance",
+        "banking",
+        "inflation",
+        "deflation"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080203903",
+        "040313016",
+        "040563901",
+        "080203904",
+        "080203907",
+        "080203914"
+      ],
+      "recommended_next": [
+        "Pre - cooperative Education"
+      ],
+      "career_tracks": [
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst",
+        "Data Analyst",
+        "Data Scientist"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "economics",
+        "economic",
+        "activities",
+        "society",
+        "consumption"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080203907",
+      "course_name_th": "ธุรกิจในชีวิตประจ าวัน",
+      "course_name_en": "Business for Everyday Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Importance of business in everyday life; business environment; forms of business; business roles; business information technology management; business ethics and social responsibility.",
+      "skills": [
+        "Business",
+        "Importance",
+        "Environment",
+        "Forms",
+        "Roles",
+        "Information"
+      ],
+      "keywords": [
+        "importance",
+        "environment",
+        "forms",
+        "roles",
+        "information",
+        "management",
+        "ethics",
+        "social",
+        "responsibility"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040513101",
+        "080303606",
+        "040513401",
+        "040513406",
+        "080203903",
+        "080203914"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "importance",
+        "environment",
+        "forms",
+        "roles",
+        "information"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080203914",
+      "course_name_th": "ผู้ประกอบการนวัตกรรม",
+      "course_name_en": "Innovative Technopreneurs",
+      "category": "general",
+      "credits": 3,
+      "description": "Concept of entrepreneurship; business initiatives; development of innovative product, and services; business model development; pitching techniques; management of intellectual property and related laws.",
+      "skills": [
+        "Innovative",
+        "Technopreneurs",
+        "Concept",
+        "Entrepreneurship",
+        "Business",
+        "Initiatives"
+      ],
+      "keywords": [
+        "technopreneurs",
+        "entrepreneurship",
+        "initiatives",
+        "product",
+        "services",
+        "model",
+        "pitching",
+        "techniques",
+        "management",
+        "intellectual"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040533302",
+        "040563206",
+        "040563304",
+        "080203907",
+        "080303501",
+        "080303502"
+      ],
+      "recommended_next": [
+        "Database Management Systems",
+        "Project Management"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "technopreneurs",
+        "entrepreneurship",
+        "initiatives",
+        "product",
+        "services"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303103",
+      "course_name_th": "จิตวิทยาเพื่อความสุขในการด ารงชีวิต",
+      "course_name_en": "Psychology for Happy Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Principles and theories of human behavior; self - assessment; development of thinking skills and problem - solving skills; personality and adj ustment; stress and life problem management; assertiveness training; emotions and emotional management; friendship building; love and mate selection; time management and financial planning for living a happy life.",
+      "skills": [
+        "Psychology",
+        "Happy",
+        "Principles",
+        "Theories",
+        "Human",
+        "Behavior"
+      ],
+      "keywords": [
+        "psychology",
+        "happy",
+        "human",
+        "behavior",
+        "self",
+        "assessment",
+        "skills",
+        "problem",
+        "solving",
+        "personality"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303601",
+        "040563109",
+        "040563307",
+        "080303104",
+        "080303501",
+        "080303502"
+      ],
+      "recommended_next": [
+        "Computer Programming",
+        "Quantitative Analysis in Financial Risk"
+      ],
+      "career_tracks": [
+        "Actuarial Analyst",
+        "Risk Analyst",
+        "Financial Analyst",
+        "Business Analyst",
+        "Data Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "psychology",
+        "happy",
+        "human",
+        "behavior",
+        "self"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303104",
+      "course_name_th": "จิตวิทยาเพื่อการท างาน",
+      "course_name_en": "Psychology for Work",
+      "category": "general",
+      "credits": 3,
+      "description": "Psychology and concepts of p sychology for work; personnel selec tion; training; performance appraisal; work motivation; attitudes towards work and organization; communication in organization; leadership; work - related stress; conflict in organization; and work environment.",
+      "skills": [
+        "Psychology",
+        "Work",
+        "Concepts",
+        "Sychology",
+        "Personnel",
+        "Selec"
+      ],
+      "keywords": [
+        "psychology",
+        "work",
+        "sychology",
+        "personnel",
+        "selec",
+        "tion",
+        "performance",
+        "appraisal",
+        "motivation",
+        "attitudes"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303103",
+        "080303504",
+        "080303501",
+        "080303502",
+        "080303503",
+        "080303505"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "psychology",
+        "work",
+        "sychology",
+        "personnel",
+        "selec"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303501",
+      "course_name_th": "บาสเกตบอล",
+      "course_name_en": "Basketball",
+      "category": "general",
+      "credits": 1,
+      "description": "History of basketball; techniques; rules; regulations; usage of proper equipment; practice in basic skills and applying the skills to play games; good sportsmanship and spectator.",
+      "skills": [
+        "Basketball",
+        "History",
+        "Techniques",
+        "Rules",
+        "Regulations",
+        "Usage"
+      ],
+      "keywords": [
+        "basketball",
+        "history",
+        "techniques",
+        "rules",
+        "regulations",
+        "usage",
+        "proper",
+        "equipment",
+        "skills",
+        "applying"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303502",
+        "080303503",
+        "080303505",
+        "080303504",
+        "080303103",
+        "080103001"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "basketball",
+        "history",
+        "techniques",
+        "rules",
+        "regulations"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303502",
+      "course_name_th": "วอลเลย์บอล",
+      "course_name_en": "Volleyball",
+      "category": "general",
+      "credits": 1,
+      "description": "History of volleyball; techniques; rules; regulations; usage of proper equipment; practice in basic skills and applying the skills to play games; good sportsmanship and spectator.",
+      "skills": [
+        "Volleyball",
+        "History",
+        "Techniques",
+        "Rules",
+        "Regulations",
+        "Usage"
+      ],
+      "keywords": [
+        "volleyball",
+        "history",
+        "techniques",
+        "rules",
+        "regulations",
+        "usage",
+        "proper",
+        "equipment",
+        "skills",
+        "applying"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303501",
+        "080303503",
+        "080303505",
+        "080303504",
+        "080303103",
+        "080103001"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "volleyball",
+        "history",
+        "techniques",
+        "rules",
+        "regulations"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303503",
+      "course_name_th": "แบดมินตัน",
+      "course_name_en": "Badminton",
+      "category": "general",
+      "credits": 1,
+      "description": "History of badminton; techniques; rules; regulations; usage of proper equipment; practice in basic skills and applying the skills to play games; good sportsmanship and spectator.",
+      "skills": [
+        "Badminton",
+        "History",
+        "Techniques",
+        "Rules",
+        "Regulations",
+        "Usage"
+      ],
+      "keywords": [
+        "badminton",
+        "history",
+        "techniques",
+        "rules",
+        "regulations",
+        "usage",
+        "proper",
+        "equipment",
+        "skills",
+        "applying"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303501",
+        "080303502",
+        "080303505",
+        "080303504",
+        "080303103",
+        "080103001"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "badminton",
+        "history",
+        "techniques",
+        "rules",
+        "regulations"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303504",
+      "course_name_th": "ลีลาศ",
+      "course_name_en": "Dancing",
+      "category": "general",
+      "credits": 1,
+      "description": "History of dancing; basic dancing skills; dancing etiquette for developing knowledge; understanding and positive attitudes; Latin dancing and ballroom dancing.",
+      "skills": [
+        "Dancing",
+        "History",
+        "Skills",
+        "Etiquette",
+        "Developing",
+        "Knowledge"
+      ],
+      "keywords": [
+        "dancing",
+        "history",
+        "skills",
+        "etiquette",
+        "developing",
+        "knowledge",
+        "understanding",
+        "positive",
+        "attitudes",
+        "latin"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303501",
+        "080303502",
+        "080303503",
+        "080303505",
+        "080303103",
+        "080303104"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "dancing",
+        "history",
+        "skills",
+        "etiquette",
+        "developing"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303505",
+      "course_name_th": "เทเบิลเทนนิส",
+      "course_name_en": "Table Tennis",
+      "category": "general",
+      "credits": 1,
+      "description": "History of table tennis; techniques; rules; regulations; usage of proper equipment; practice in basic skills and applying the skills to play games; good sportsmanship and spectator.",
+      "skills": [
+        "Table",
+        "Tennis",
+        "History",
+        "Techniques",
+        "Rules",
+        "Regulations"
+      ],
+      "keywords": [
+        "table",
+        "tennis",
+        "history",
+        "techniques",
+        "rules",
+        "regulations",
+        "usage",
+        "proper",
+        "equipment",
+        "skills"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303501",
+        "080303502",
+        "080303503",
+        "080303504",
+        "080303103",
+        "080103001"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "table",
+        "tennis",
+        "history",
+        "techniques",
+        "rules"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303601",
+      "course_name_th": "มนุษยสัมพันธ์",
+      "course_name_en": "Human Relations",
+      "category": "general",
+      "credits": 3,
+      "description": "Principles and theories of human behavior and human needs; individual differences; self and others' understanding; self - development; communication; society and culture; social etiquette; religious principles and practices; leadership; teamwork; conflict management; knowledge application to enhance human relations.",
+      "skills": [
+        "Human",
+        "Relations",
+        "Principles",
+        "Theories",
+        "Behavior",
+        "Needs"
+      ],
+      "keywords": [
+        "human",
+        "relations",
+        "behavior",
+        "needs",
+        "individual",
+        "differences",
+        "self",
+        "others",
+        "understanding",
+        "communication"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080303103",
+        "040313016",
+        "080303504",
+        "080303606",
+        "080303701",
+        "080103032"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "human",
+        "relations",
+        "behavior",
+        "needs",
+        "individual"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303606",
+      "course_name_th": "การคิดเชิงระบบและความคิดสร้างสรรค์",
+      "course_name_en": "Systematic and Creative Thinking",
+      "category": "general",
+      "credits": 3,
+      "description": "System theory; system and environment interaction; human cognition and behavioral system; system analysis; system management and control; creativity; innovation; science and technology innovation; social innovation; creat ive economy ecosystem; creative life.",
+      "skills": [
+        "Systematic",
+        "Creative",
+        "Thinking",
+        "Theory",
+        "Environment",
+        "Interaction"
+      ],
+      "keywords": [
+        "systematic",
+        "creative",
+        "environment",
+        "interaction",
+        "human",
+        "cognition",
+        "behavioral",
+        "management",
+        "control",
+        "creativity"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080203907",
+        "040563303",
+        "080303103",
+        "080303601",
+        "080303701",
+        "080203914"
+      ],
+      "recommended_next": [
+        "Quality Control and Management"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "systematic",
+        "creative",
+        "environment",
+        "interaction",
+        "human"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    },
+    {
+      "course_code": "080303701",
+      "course_name_th": "กระบวนการคิดเชิงออกแบบ",
+      "course_name_en": "Design Thinking",
+      "category": "general",
+      "credits": 3,
+      "description": "Design thinking for designers to develop products; services and strategies to innovations; Human - centered design via following processes: Empathy, Define, Ideate, Prototype, and Test; Team - working and working environment to support creativity and ideas.",
+      "skills": [
+        "Design",
+        "Thinking",
+        "Designers",
+        "Develop",
+        "Products",
+        "Services"
+      ],
+      "keywords": [
+        "designers",
+        "develop",
+        "products",
+        "services",
+        "strategies",
+        "innovations",
+        "human",
+        "centered",
+        "via",
+        "following"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040533302",
+        "080303103",
+        "080303601",
+        "080303606",
+        "080103030",
+        "080103031"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Intelligence Analyst",
+        "Analytics Engineer"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "general",
+        "designers",
+        "develop",
+        "products",
+        "services",
+        "strategies"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Statistical Data Science and Analytics",
+        "source_file": "SDA-2566.pdf"
+      }
+    }
+  ]
+}

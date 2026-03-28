@@ -1,0 +1,1481 @@
+{
+  "faculty": "Applied Science",
+  "major": "Computer Science",
+  "year": 2564,
+  "courses": [
+    {
+      "course_code": "040613100",
+      "course_name_th": "พื้นฐานวิทยาการคอมพิวเตอร์และประเด็นทางวิชาชีพ",
+      "course_name_en": "Fundamental of Computer Science and Professional Issues",
+      "category": "core",
+      "credits": 3,
+      "description": "Fundamental concepts of computer science, computing careers, privacy policy and professional issues.",
+      "skills": [
+        "Computer Fundamentals",
+        "Professional Ethics"
+      ],
+      "keywords": [
+        "computer science",
+        "professional"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613201",
+        "040613501"
+      ],
+      "recommended_next": [
+        "Computer Programming I",
+        "Computer Organization and Operating System"
+      ],
+      "career_tracks": [
+        "Software Developer",
+        "IT Professional"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "foundation"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613103",
+      "course_name_th": "คณิตศาสตร์ดิสครีตสำหรับวิทยาการคอมพิวเตอร์",
+      "course_name_en": "Discrete Mathematics for Computer Science",
+      "category": "core",
+      "credits": 3,
+      "description": "Set and proof, logic, relation, function, algorithm, recurrence relation and graph theory.",
+      "skills": [
+        "Logic",
+        "Discrete Math",
+        "Algorithms"
+      ],
+      "keywords": [
+        "set",
+        "logic",
+        "relation",
+        "graph"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613205",
+        "040613702"
+      ],
+      "recommended_next": [
+        "Data Structure"
+      ],
+      "career_tracks": [
+        "Software Engineer",
+        "Algorithm Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "math",
+        "foundation"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613104",
+      "course_name_th": "คณิตศาสตร์สำหรับการคำนวณ",
+      "course_name_en": "Mathematics for Computation",
+      "category": "core",
+      "credits": 3,
+      "description": "Matrix, determinant, linear equation, vector algebra, eigenvalue, eigenvector, sequence, series and approximation.",
+      "skills": [
+        "Linear Algebra",
+        "Mathematics"
+      ],
+      "keywords": [
+        "matrix",
+        "eigen",
+        "series"
+      ],
+      "prerequisites": [
+        "040203101"
+      ],
+      "related_courses": [
+        "040613702"
+      ],
+      "recommended_next": [
+        "Machine Learning"
+      ],
+      "career_tracks": [
+        "AI Engineer",
+        "Data Scientist"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "math"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613111",
+      "course_name_th": "พีชคณิตและระบบตรรกะ",
+      "course_name_en": "Digital and Logic System",
+      "category": "core",
+      "credits": 3,
+      "description": "Flip-flop, counter circuit, register, memory and synchronous/asynchronous sequential circuits.",
+      "skills": [
+        "Digital Logic",
+        "Circuit Analysis"
+      ],
+      "keywords": [
+        "flip-flop",
+        "register",
+        "memory"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613112",
+        "040613501"
+      ],
+      "recommended_next": [
+        "Digital Circuit Design"
+      ],
+      "career_tracks": [
+        "Embedded Developer",
+        "Hardware Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "hardware"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613112",
+      "course_name_th": "การออกแบบวงจรดิจิทัล",
+      "course_name_en": "Digital Circuit Design",
+      "category": "core",
+      "credits": 3,
+      "description": "Number system, code, logic gate, boolean algebra, combinational circuit and Karnaugh map.",
+      "skills": [
+        "Digital Design",
+        "Boolean Algebra"
+      ],
+      "keywords": [
+        "logic gate",
+        "boolean",
+        "kmap"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613111"
+      ],
+      "recommended_next": [
+        "Digital and Logic System"
+      ],
+      "career_tracks": [
+        "Embedded Developer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "hardware"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613130",
+      "course_name_th": "เตรียมสหกิจศึกษา",
+      "course_name_en": "Pre-cooperative Education",
+      "category": "general",
+      "credits": 1,
+      "description": "Fundamental of cooperative education, regulations and preparation activities before internship/co-op.",
+      "skills": [
+        "Workplace Readiness"
+      ],
+      "keywords": [
+        "co-op",
+        "preparation"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613131"
+      ],
+      "recommended_next": [
+        "Co-operative Education I"
+      ],
+      "career_tracks": [
+        "All"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "co-op"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613131",
+      "course_name_th": "สหกิจศึกษา 1",
+      "course_name_en": "Co-operative Education I",
+      "category": "general",
+      "credits": 2,
+      "description": "Field work or internship preparation with reporting and supervision.",
+      "skills": [
+        "Workplace Practice"
+      ],
+      "keywords": [
+        "co-op",
+        "internship"
+      ],
+      "prerequisites": [
+        "040613130"
+      ],
+      "related_courses": [
+        "040613132"
+      ],
+      "recommended_next": [
+        "Co-operative Education II"
+      ],
+      "career_tracks": [
+        "All"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "co-op"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613132",
+      "course_name_th": "สหกิจศึกษา 2",
+      "course_name_en": "Co-operative Education II",
+      "category": "general",
+      "credits": 6,
+      "description": "Continuous internship or cooperative education with final reporting to committee.",
+      "skills": [
+        "Workplace Practice",
+        "Reporting"
+      ],
+      "keywords": [
+        "co-op",
+        "project"
+      ],
+      "prerequisites": [
+        "040613131"
+      ],
+      "related_courses": [
+        "040613141"
+      ],
+      "recommended_next": [
+        "Special Project I"
+      ],
+      "career_tracks": [
+        "All"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "co-op"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613141",
+      "course_name_th": "โครงงานพิเศษ 1",
+      "course_name_en": "Special Project I",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Study of related theory and research, requirement gathering, problem analysis and proposal presentation.",
+      "skills": [
+        "Research",
+        "Problem Analysis"
+      ],
+      "keywords": [
+        "project",
+        "research"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613142"
+      ],
+      "recommended_next": [
+        "Special Project II"
+      ],
+      "career_tracks": [
+        "Software Engineer",
+        "Researcher"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "project"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613151",
+      "course_name_th": "การศึกษาเฉพาะเรื่องทางวิทยาการคอมพิวเตอร์ 1",
+      "course_name_en": "Selected Topics in Computer Science I",
+      "category": "elective",
+      "credits": 3,
+      "description": "Emerging computer science topic not exclusive to regular curriculum.",
+      "skills": [
+        "Emerging Tech"
+      ],
+      "keywords": [
+        "selected topics"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613152"
+      ],
+      "recommended_next": [
+        "Selected Topics in Computer Science II"
+      ],
+      "career_tracks": [
+        "Various"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613152",
+      "course_name_th": "การศึกษาเฉพาะเรื่องทางวิทยาการคอมพิวเตอร์ 2",
+      "course_name_en": "Selected Topics in Computer Science II",
+      "category": "elective",
+      "credits": 3,
+      "description": "Emerging computer science topic not exclusive to regular curriculum.",
+      "skills": [
+        "Emerging Tech"
+      ],
+      "keywords": [
+        "selected topics"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613153"
+      ],
+      "recommended_next": [
+        "Selected Topics in Computer Science III"
+      ],
+      "career_tracks": [
+        "Various"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613153",
+      "course_name_th": "การศึกษาเฉพาะเรื่องทางวิทยาการคอมพิวเตอร์ 3",
+      "course_name_en": "Selected Topics in Computer Science III",
+      "category": "elective",
+      "credits": 3,
+      "description": "Emerging computer science topic not exclusive to regular curriculum.",
+      "skills": [
+        "Emerging Tech"
+      ],
+      "keywords": [
+        "selected topics"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Various"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613201",
+      "course_name_th": "การโปรแกรมคอมพิวเตอร์ 1",
+      "course_name_en": "Computer Programming I",
+      "category": "core",
+      "credits": 3,
+      "description": "Programming fundamentals, input/output and problem solving.",
+      "skills": [
+        "Programming",
+        "Problem Solving"
+      ],
+      "keywords": [
+        "programming",
+        "coding"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613203",
+        "040613301",
+        "040613411"
+      ],
+      "recommended_next": [
+        "Structured Programming"
+      ],
+      "career_tracks": [
+        "Software Developer"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "foundation",
+        "coding"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613203",
+      "course_name_th": "การโปรแกรมเชิงโครงสร้าง",
+      "course_name_en": "Structured Programming",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Primitive and user-defined data type, structure programming, recursion, file input and output, pointer and problem solving.",
+      "skills": [
+        "C/C++",
+        "Recursion",
+        "Pointers"
+      ],
+      "keywords": [
+        "structured programming",
+        "recursion",
+        "pointer"
+      ],
+      "prerequisites": [
+        "040613201"
+      ],
+      "related_courses": [
+        "040613204",
+        "040613205",
+        "040613603"
+      ],
+      "recommended_next": [
+        "Object-oriented Programming",
+        "Data Structure"
+      ],
+      "career_tracks": [
+        "Software Developer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "coding"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613204",
+      "course_name_th": "การโปรแกรมเชิงวัตถุ",
+      "course_name_en": "Object-oriented Programming",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Object-oriented programming paradigm, abstract and generic data types, encapsulation, inheritance, polymorphism, GUI, threads.",
+      "skills": [
+        "OOP",
+        "Design"
+      ],
+      "keywords": [
+        "object",
+        "class",
+        "inheritance",
+        "polymorphism"
+      ],
+      "prerequisites": [
+        "040613203"
+      ],
+      "related_courses": [
+        "040613207"
+      ],
+      "recommended_next": [
+        "Principles of Programming Language"
+      ],
+      "career_tracks": [
+        "Software Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "coding",
+        "oop"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613205",
+      "course_name_th": "โครงสร้างข้อมูล",
+      "course_name_en": "Data Structure",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Stack, queue, circular queue, priority queue, heap, binary tree, binary search tree, hash table and graph.",
+      "skills": [
+        "Data Structures",
+        "Algorithms"
+      ],
+      "keywords": [
+        "stack",
+        "queue",
+        "tree",
+        "hash",
+        "graph"
+      ],
+      "prerequisites": [
+        "040613201"
+      ],
+      "related_courses": [
+        "040613702"
+      ],
+      "recommended_next": [
+        "Machine Learning"
+      ],
+      "career_tracks": [
+        "Software Engineer",
+        "Algorithm Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "algorithm"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613207",
+      "course_name_th": "หลักภาษาโปรแกรม",
+      "course_name_en": "Principles of Programming Language",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Programming language paradigms, syntax, semantics, type, binding, control statements, subprogram, parameter passing in imperative, logic and functional paradigms.",
+      "skills": [
+        "Programming Languages",
+        "Language Concepts"
+      ],
+      "keywords": [
+        "syntax",
+        "semantics",
+        "paradigm"
+      ],
+      "prerequisites": [
+        "040613204"
+      ],
+      "related_courses": [
+        "040613306"
+      ],
+      "recommended_next": [
+        "Software Engineering"
+      ],
+      "career_tracks": [
+        "Software Engineer",
+        "Compiler/PL Enthusiast"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "theory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613301",
+      "course_name_th": "ระบบฐานข้อมูล",
+      "course_name_en": "Database System",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Type of database, relational database system, architecture, database design, normalization, conceptual mapping, query language, concurrency control, recovery, security and NoSQL.",
+      "skills": [
+        "SQL",
+        "Database Design",
+        "NoSQL"
+      ],
+      "keywords": [
+        "database",
+        "sql",
+        "normalization",
+        "nosql"
+      ],
+      "prerequisites": [
+        "040613201"
+      ],
+      "related_courses": [
+        "040613411",
+        "040613412"
+      ],
+      "recommended_next": [
+        "Web Development"
+      ],
+      "career_tracks": [
+        "Backend Developer",
+        "Data Engineer",
+        "DBA"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "backend",
+        "data"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613302",
+      "course_name_th": "การวิเคราะห์และออกแบบระบบ",
+      "course_name_en": "System Analysis and Design",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Use case diagram, activity diagram, database, user interface, system implementation, system testing and maintenance.",
+      "skills": [
+        "System Analysis",
+        "UML",
+        "Requirements"
+      ],
+      "keywords": [
+        "use case",
+        "activity diagram",
+        "design"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613304",
+        "040613306",
+        "040613307"
+      ],
+      "recommended_next": [
+        "Project Management",
+        "Software Engineering"
+      ],
+      "career_tracks": [
+        "Business Analyst",
+        "System Analyst"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "analysis",
+        "design"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613303",
+      "course_name_th": "ปฏิสัมพันธ์ระหว่างมนุษย์และคอมพิวเตอร์",
+      "course_name_en": "Human Computer Interaction",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Human and computer interaction, interface design, evaluation of interaction and user satisfaction.",
+      "skills": [
+        "UX",
+        "Interaction Design"
+      ],
+      "keywords": [
+        "hci",
+        "user interface",
+        "usability"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613411"
+      ],
+      "recommended_next": [
+        "Web Development"
+      ],
+      "career_tracks": [
+        "UX/UI Designer",
+        "Frontend Developer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "ux"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613304",
+      "course_name_th": "การบริหารโครงการ",
+      "course_name_en": "Project Management",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Project life cycle, initiation, planning, network diagrams, scheduling with resource constraints, execution, closing and agile development process.",
+      "skills": [
+        "Project Management",
+        "Agile"
+      ],
+      "keywords": [
+        "project",
+        "agile",
+        "scheduling"
+      ],
+      "prerequisites": [
+        "040613302"
+      ],
+      "related_courses": [
+        "040613306"
+      ],
+      "recommended_next": [
+        "Software Engineering"
+      ],
+      "career_tracks": [
+        "Project Coordinator",
+        "Software Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "management"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613306",
+      "course_name_th": "วิศวกรรมซอฟต์แวร์",
+      "course_name_en": "Software Engineering",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Software process, improvement, requirement engineering, process and model, software design, project management, software quality and agile development tools.",
+      "skills": [
+        "Software Engineering",
+        "SDLC",
+        "Agile"
+      ],
+      "keywords": [
+        "sdlc",
+        "requirements",
+        "quality"
+      ],
+      "prerequisites": [
+        "040613302"
+      ],
+      "related_courses": [
+        "040613307",
+        "040613411"
+      ],
+      "recommended_next": [
+        "Software Testing",
+        "Web Development"
+      ],
+      "career_tracks": [
+        "Software Engineer",
+        "Project Manager"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "software"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613307",
+      "course_name_th": "การทดสอบซอฟต์แวร์",
+      "course_name_en": "Software Testing",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Testing technique, unit testing, integration testing, automation test, test case design, verification and validation, code quality and QA.",
+      "skills": [
+        "Testing",
+        "QA",
+        "Automation"
+      ],
+      "keywords": [
+        "testing",
+        "unit test",
+        "integration"
+      ],
+      "prerequisites": [
+        "040613302"
+      ],
+      "related_courses": [
+        "040613412"
+      ],
+      "recommended_next": [
+        "Web Framework"
+      ],
+      "career_tracks": [
+        "QA Engineer",
+        "Software Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "qa"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613411",
+      "course_name_th": "การพัฒนาเว็บ",
+      "course_name_en": "Web Development",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Web architecture, HTTP protocol, web and app server, markup and style sheet languages, front-end and back-end programming, database connection, cookies and session, web service and web security.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web Architecture",
+        "API"
+      ],
+      "keywords": [
+        "http",
+        "frontend",
+        "backend",
+        "web security"
+      ],
+      "prerequisites": [
+        "040613201"
+      ],
+      "related_courses": [
+        "040613412",
+        "040613301"
+      ],
+      "recommended_next": [
+        "Web Framework"
+      ],
+      "career_tracks": [
+        "Frontend Developer",
+        "Full Stack Developer"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "web"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613412",
+      "course_name_th": "เว็บเฟรมเวิร์ก",
+      "course_name_en": "Web Framework",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Front-end and back-end architecture, language, tool and framework for development, installation/configuration, database, RESTful architecture and API.",
+      "skills": [
+        "Frameworks",
+        "REST API",
+        "Backend"
+      ],
+      "keywords": [
+        "framework",
+        "rest",
+        "api"
+      ],
+      "prerequisites": [
+        "040613411"
+      ],
+      "related_courses": [
+        "040613703"
+      ],
+      "recommended_next": [
+        "Artificial Intelligence Software Development"
+      ],
+      "career_tracks": [
+        "Full Stack Developer",
+        "Backend Developer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "web",
+        "framework"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613501",
+      "course_name_th": "องค์ประกอบคอมพิวเตอร์และระบบปฏิบัติการ",
+      "course_name_en": "Computer Organization and Operating System",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Central processing unit, memory representation, process and memory management, scheduling, device management and file system management.",
+      "skills": [
+        "Computer Architecture",
+        "Operating Systems"
+      ],
+      "keywords": [
+        "cpu",
+        "memory",
+        "os",
+        "scheduling"
+      ],
+      "prerequisites": [
+        "040613100"
+      ],
+      "related_courses": [
+        "040613505",
+        "040613502"
+      ],
+      "recommended_next": [
+        "UNIX Tool",
+        "Computer Network"
+      ],
+      "career_tracks": [
+        "System Engineer",
+        "Embedded Developer"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "systems"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613502",
+      "course_name_th": "เครือข่ายคอมพิวเตอร์",
+      "course_name_en": "Computer Network",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Network model, TCP/IP protocol suite, LAN, WAN, network security concept, cloud architecture and wireless technologies.",
+      "skills": [
+        "Networking",
+        "TCP/IP",
+        "Cloud Basics"
+      ],
+      "keywords": [
+        "tcp/ip",
+        "lan",
+        "wan",
+        "network"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613504",
+        "040613605"
+      ],
+      "recommended_next": [
+        "Inter-networking Technology"
+      ],
+      "career_tracks": [
+        "Network Engineer",
+        "System Administrator"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "network"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613504",
+      "course_name_th": "เทคโนโลยีการเชื่อมต่อระหว่างเครือข่าย",
+      "course_name_en": "Inter-networking Technology",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Internetworking, routing protocol, basic network configuration, local area network design, network security and management protocol.",
+      "skills": [
+        "Routing",
+        "Network Configuration"
+      ],
+      "keywords": [
+        "routing",
+        "internetworking"
+      ],
+      "prerequisites": [
+        "040613502"
+      ],
+      "related_courses": [
+        "040613605"
+      ],
+      "recommended_next": [
+        "Penetration Testing and Protection"
+      ],
+      "career_tracks": [
+        "Network Engineer",
+        "Security Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "network"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613505",
+      "course_name_th": "เครื่องมือยูนิกซ์",
+      "course_name_en": "UNIX Tool",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Unix/Linux architecture, shell and process, remote connection, permission, shell script, version control and security setting.",
+      "skills": [
+        "Linux",
+        "Shell Scripting",
+        "CLI"
+      ],
+      "keywords": [
+        "unix",
+        "linux",
+        "shell"
+      ],
+      "prerequisites": [
+        "040613100"
+      ],
+      "related_courses": [
+        "040613603"
+      ],
+      "recommended_next": [
+        "Defensive Programming"
+      ],
+      "career_tracks": [
+        "System Administrator",
+        "DevOps Engineer"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "systems",
+        "linux"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613601",
+      "course_name_th": "ความมั่นคงของระบบคอมพิวเตอร์",
+      "course_name_en": "Computer System Security",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Computer system security overview, security service, cryptography, software security, operating system security, web/database security, internet/IoT/cloud security and policy.",
+      "skills": [
+        "Cybersecurity",
+        "Cryptography",
+        "Security Concepts"
+      ],
+      "keywords": [
+        "security",
+        "crypto",
+        "web security"
+      ],
+      "prerequisites": [
+        "040613100"
+      ],
+      "related_courses": [
+        "040613603",
+        "040613605"
+      ],
+      "recommended_next": [
+        "Defensive Programming",
+        "Penetration Testing and Protection"
+      ],
+      "career_tracks": [
+        "Security Engineer",
+        "Cybersecurity Analyst"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "security"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613603",
+      "course_name_th": "การโปรแกรมเชิงป้องกัน",
+      "course_name_en": "Defensive Programming",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Principles of secure programming, attack robustness, injection attack, broken authentication, validation and verification, buffer overflow, race condition.",
+      "skills": [
+        "Secure Coding",
+        "Validation"
+      ],
+      "keywords": [
+        "secure coding",
+        "injection",
+        "authentication"
+      ],
+      "prerequisites": [
+        "040613203",
+        "040613601"
+      ],
+      "related_courses": [
+        "040613605"
+      ],
+      "recommended_next": [
+        "Penetration Testing and Protection"
+      ],
+      "career_tracks": [
+        "Security Engineer",
+        "Backend Developer"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "security",
+        "coding"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613605",
+      "course_name_th": "การทดสอบเจาะระบบและการป้องกัน",
+      "course_name_en": "Penetration Testing and Protection",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Testing process, planning and design of penetration testing, exploration, information gathering, web application and incident response, vulnerability analysis and reporting.",
+      "skills": [
+        "Penetration Testing",
+        "Vulnerability Analysis"
+      ],
+      "keywords": [
+        "pentest",
+        "vulnerability",
+        "incident response"
+      ],
+      "prerequisites": [
+        "040613502",
+        "040613601"
+      ],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Security Engineer",
+        "Penetration Tester"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "security"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613701",
+      "course_name_th": "ระบบอัจฉริยะ",
+      "course_name_en": "Intelligent System",
+      "category": "elective",
+      "credits": 3,
+      "description": "Intelligent techniques such as decision tree, classification rules, predictive models and applications.",
+      "skills": [
+        "AI Fundamentals"
+      ],
+      "keywords": [
+        "intelligent system",
+        "decision tree"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040613702",
+        "040613703",
+        "040613706",
+        "040613705"
+      ],
+      "recommended_next": [
+        "Machine Learning"
+      ],
+      "career_tracks": [
+        "AI Engineer",
+        "Data Scientist"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "ai"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613702",
+      "course_name_th": "การเรียนรู้ของเครื่องคอมพิวเตอร์",
+      "course_name_en": "Machine Learning",
+      "category": "elective",
+      "credits": 3,
+      "description": "Computer learning process, data processing, supervised learning, neural network, SVM, unsupervised learning, reinforcement learning, dimensionality reduction and ensemble method.",
+      "skills": [
+        "Machine Learning",
+        "Python",
+        "Data Processing"
+      ],
+      "keywords": [
+        "ml",
+        "neural network",
+        "svm",
+        "clustering"
+      ],
+      "prerequisites": [
+        "040613701"
+      ],
+      "related_courses": [
+        "040613703",
+        "040613706",
+        "040613705"
+      ],
+      "recommended_next": [
+        "Artificial Intelligence Software Development"
+      ],
+      "career_tracks": [
+        "AI Engineer",
+        "Data Scientist"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "ai",
+        "data"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613703",
+      "course_name_th": "การพัฒนาซอฟต์แวร์สำหรับปัญญาประดิษฐ์",
+      "course_name_en": "Artificial Intelligence Software Development",
+      "category": "elective",
+      "credits": 3,
+      "description": "Process of AI software development, platform and framework, REST API, integration of AI component, deployment of AI model and data visualization.",
+      "skills": [
+        "AI Engineering",
+        "Model Deployment",
+        "REST API"
+      ],
+      "keywords": [
+        "ai deployment",
+        "framework",
+        "rest api"
+      ],
+      "prerequisites": [
+        "040613701"
+      ],
+      "related_courses": [
+        "040613705",
+        "040613706"
+      ],
+      "recommended_next": [
+        "Big Data Engineering"
+      ],
+      "career_tracks": [
+        "AI Engineer",
+        "MLOps Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "ai",
+        "deployment"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613705",
+      "course_name_th": "วิศวกรรมข้อมูลขนาดใหญ่",
+      "course_name_en": "Big Data Engineering",
+      "category": "elective",
+      "credits": 3,
+      "description": "Evolution of big data, big data system architecture, data storage technology, processing platform, analytics, integration of heterogeneous data and visualization.",
+      "skills": [
+        "Big Data",
+        "Data Engineering",
+        "Visualization"
+      ],
+      "keywords": [
+        "big data",
+        "storage",
+        "analytics"
+      ],
+      "prerequisites": [
+        "040613701"
+      ],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Data Engineer",
+        "Big Data Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "data"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    },
+    {
+      "course_code": "040613706",
+      "course_name_th": "การประมวลผลภาษาธรรมชาติ",
+      "course_name_en": "Natural Language Processing",
+      "category": "elective",
+      "credits": 3,
+      "description": "Natural language processing overview, artificial neural networks, regular expression, tokenization, word representation, language modelling, POS tagging, topic modelling, sequence processing and named entity recognition.",
+      "skills": [
+        "NLP",
+        "Text Processing",
+        "Deep Learning"
+      ],
+      "keywords": [
+        "nlp",
+        "tokenization",
+        "ner",
+        "language model"
+      ],
+      "prerequisites": [
+        "040613701"
+      ],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "NLP Engineer",
+        "AI Engineer"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "ai",
+        "nlp"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Computer Science",
+        "source_file": "Computer-Science-major-2564.pdf"
+      }
+    }
+  ]
+}

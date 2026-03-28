@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+requests
+
+# langchain
+langchain-community
+langchain-chroma
+# langchain-huggingface
+langchain-ollama
+chromadb
+# sentence-transformers

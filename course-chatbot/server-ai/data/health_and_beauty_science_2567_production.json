@@ -1,0 +1,3421 @@
+{
+  "faculty": "Applied Science",
+  "major": "Health and Beauty Science",
+  "year": 2567,
+  "courses": [
+    {
+      "course_code": "040153101",
+      "course_name_th": "เคมีพื้นฐาน 1",
+      "course_name_en": "Fundamental Chemistry I",
+      "category": "core",
+      "credits": 3,
+      "description": "Substances; classification of substances; nomenclature of ionic and covalent compounds; scientific measurement; atomic structure; quantum numbers; electron configuration; periodic table; chemical bonding; representative elements; transition elements; stoichiometry; gas; solid; liquid; solution.",
+      "skills": [
+        "Chemistry"
+      ],
+      "keywords": [
+        "fundamental",
+        "chemistry",
+        "substances",
+        "classification",
+        "nomenclature",
+        "ionic",
+        "covalent",
+        "compounds",
+        "scientific",
+        "measurement"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040153102",
+        "040153103"
+      ],
+      "recommended_next": [
+        "Fundamental Chemistry Laboratory I",
+        "Fundamental Chemistry II"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "chemistry",
+        "core"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153102",
+      "course_name_th": "ปฏิบัติการเคมีพื้นฐาน 1",
+      "course_name_en": "Fundamental Chemistry Laboratory I",
+      "category": "core",
+      "credits": 1,
+      "description": "Regulations and safety in chemicals handling and laboratory use, skill practice of using basic equipment and instrument in laboratory, writing of experimental planning, chemical laboratories related and supported to the theoretical background in Fundamental Chemistry I.",
+      "skills": [
+        "Laboratory",
+        "Chemistry",
+        "Quality Control"
+      ],
+      "keywords": [
+        "fundamental",
+        "chemistry",
+        "laboratory",
+        "regulations",
+        "safety",
+        "chemicals",
+        "handling",
+        "skill",
+        "practice",
+        "basic"
+      ],
+      "prerequisites": [
+        "040153101"
+      ],
+      "related_courses": [
+        "040153101"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "chemistry",
+        "core",
+        "laboratory",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153103",
+      "course_name_th": "เคมีพื้นฐาน 2",
+      "course_name_en": "Fundamental Chemistry II",
+      "category": "core",
+      "credits": 3,
+      "description": "Thermodynamics; chemical kinetics; chemical equilibrium; ionic equilibria; electrochemistry. OBE 2",
+      "skills": [
+        "Chemistry"
+      ],
+      "keywords": [
+        "fundamental",
+        "chemistry",
+        "thermodynamics",
+        "chemical",
+        "kinetics",
+        "equilibrium",
+        "ionic",
+        "equilibria",
+        "electrochemistry",
+        "obe"
+      ],
+      "prerequisites": [
+        "040153101"
+      ],
+      "related_courses": [
+        "040153101",
+        "040153104",
+        "040153106",
+        "040153108",
+        "040153116",
+        "040153203",
+        "040153207"
+      ],
+      "recommended_next": [
+        "Fundamental Chemistry Laboratory II",
+        "Quantitative Analytical Chemistry",
+        "Organic Chemistry for Health and Beauty Science I",
+        "Inorganic Chemistry for Health and Beauty Science",
+        "Interphase and Emulsion Science",
+        "Medical and Cosmeceutical Material"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153104",
+      "course_name_th": "ปฏิบัติการเคมีพื้นฐาน 2",
+      "course_name_en": "Fundamental Chemistry Laboratory II",
+      "category": "core",
+      "credits": 1,
+      "description": "Chemical laboratories related and supported to the theoretical background in Fundamental Chemistry II.",
+      "skills": [
+        "Laboratory",
+        "Chemistry"
+      ],
+      "keywords": [
+        "fundamental",
+        "chemistry",
+        "laboratory",
+        "chemical",
+        "laboratories",
+        "related",
+        "supported",
+        "theoretical",
+        "background"
+      ],
+      "prerequisites": [
+        "040153103"
+      ],
+      "related_courses": [
+        "040153103"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153105",
+      "course_name_th": "กฎหมาย การควบคุม และจริยธรรมในผลิตภัณฑ์เพื่อสุขภาพ",
+      "course_name_en": "Laws, Regulations and Ethics for Health and Beauty Product",
+      "category": "core",
+      "credits": 2,
+      "description": "Law, act; regulations and law of material; manufacturing and final products; patents; permission; ethics of health and beauty product business; good manufacturing practice; international law of health and beauty product.",
+      "skills": [
+        "Health Product Development",
+        "Business",
+        "Quality Control"
+      ],
+      "keywords": [
+        "laws",
+        "regulations",
+        "ethics",
+        "health",
+        "beauty",
+        "product",
+        "law",
+        "act",
+        "material",
+        "manufacturing"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "business",
+        "core",
+        "health_product_development",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153106",
+      "course_name_th": "การวิเคราะห์เชิงปริมาณทางเคมี",
+      "course_name_en": "Quantitative Analytical Chemistry",
+      "category": "core",
+      "credits": 3,
+      "description": "Introduction to basic of quantitative analytical chemistry; statistical treatment of data; error analysis; quality evaluation; standard graph; gravimetric and volumetric methods; titration analysis; chemical equilibria solution ; acid- base, complexation and redox ; chemical separation; paper chromatography; thin-layer chromatography; column chromatography; ion exchange chromatography.",
+      "skills": [
+        "Chemistry",
+        "Quality Control"
+      ],
+      "keywords": [
+        "quantitative",
+        "analytical",
+        "chemistry",
+        "introduction",
+        "basic",
+        "statistical",
+        "treatment",
+        "data",
+        "error",
+        "analysis"
+      ],
+      "prerequisites": [
+        "040153103"
+      ],
+      "related_courses": [
+        "040153103",
+        "040153107",
+        "040153113"
+      ],
+      "recommended_next": [
+        "Quantitative Analytical Chemistry Laboratory",
+        "Analytical Instrumentation for Health and Beauty Product"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153107",
+      "course_name_th": "ปฏิบัติการการวิเคราะห์เชิงปริมาณทางเคมี",
+      "course_name_en": "Quantitative Analytical Chemistry Laboratory",
+      "category": "core",
+      "credits": 1,
+      "description": "Laboratory practice to understand techniques and contents related to Quantitative Analytical Chemistry.",
+      "skills": [
+        "Laboratory",
+        "Chemistry"
+      ],
+      "keywords": [
+        "quantitative",
+        "analytical",
+        "chemistry",
+        "laboratory",
+        "practice",
+        "understand",
+        "techniques",
+        "contents",
+        "related"
+      ],
+      "prerequisites": [
+        "040153106"
+      ],
+      "related_courses": [
+        "040153106"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153108",
+      "course_name_th": "เคมีอินทรีย์สําหรับวิทยาศาสตร์สุขภาพและความงาม 1",
+      "course_name_en": "Organic Chemistry for Health and Beauty Science I",
+      "category": "core",
+      "credits": 3,
+      "description": "Structure; physical and chemical properties; functional group of organic compounds; introduction to stereochemistry for use in health and beauty sciences; preparation and reaction mechanisms of hydrocarbon compounds; alkenes; alkenes; alkynes; aromatic compounds; alkyl halides; alcohols; phenols; ethers and epoxides; application of organic substances in health and beauty science.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "organic",
+        "chemistry",
+        "health",
+        "beauty",
+        "science",
+        "structure",
+        "physical",
+        "chemical",
+        "properties",
+        "functional"
+      ],
+      "prerequisites": [
+        "040153103"
+      ],
+      "related_courses": [
+        "040153103",
+        "040153109",
+        "040153115",
+        "040153201"
+      ],
+      "recommended_next": [
+        "Organic Chemistry Laboratory for Health and Beauty Science",
+        "Organic Chemistry for Health and Beauty Science II",
+        "Formulation for Health and Beauty Product"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153109",
+      "course_name_th": "ปฏิบัติการเคมีอินทรีย์สําหรับวิทยาศาสตร์สุขภาพและความงาม",
+      "course_name_en": "Organic Chemistry Laboratory for Health and Beauty Science",
+      "category": "core",
+      "credits": 1,
+      "description": "Science I or co-requisite Organic chemistry laboratories related to their application in health and beauty product. OBE 2",
+      "skills": [
+        "Laboratory",
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "organic",
+        "chemistry",
+        "laboratory",
+        "health",
+        "beauty",
+        "science",
+        "co-requisite",
+        "laboratories",
+        "related",
+        "their"
+      ],
+      "prerequisites": [
+        "040153108"
+      ],
+      "related_courses": [
+        "040153108"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "health_product_development",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153110",
+      "course_name_th": "การควบคุมทางจุลชีววิทยาสําหรับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Microbiological Control for Health and Beauty Product",
+      "category": "core",
+      "credits": 3,
+      "description": "Introduction microbiology; structure; growth; reproduction; microorganism related to health and beauty product ; contamination; toxicity; control; protection; regulation of microorganism in product; application of microorganism in industry.",
+      "skills": [
+        "Biology",
+        "Health Product Development",
+        "Quality Control"
+      ],
+      "keywords": [
+        "microbiological",
+        "control",
+        "health",
+        "beauty",
+        "product",
+        "introduction",
+        "microbiology",
+        "structure",
+        "growth",
+        "reproduction"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040153111",
+        "040153209"
+      ],
+      "recommended_next": [
+        "Microbiological Control for Health and Beauty Product Laboratory",
+        "Biochemical Technology for Health and Beauty Product"
+      ],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "biology",
+        "core",
+        "health_product_development",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153111",
+      "course_name_th": "ปฏิบัติการทางจุลชีววิทยาสําหรับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Microbiological Control for Health and Beauty Product Laboratory",
+      "category": "core",
+      "credits": 1,
+      "description": "Product or co-requisite Laboratory practice to understand techniques and contents related to Micrological control for health and beauty product.",
+      "skills": [
+        "Laboratory",
+        "Health Product Development",
+        "Quality Control"
+      ],
+      "keywords": [
+        "microbiological",
+        "control",
+        "health",
+        "beauty",
+        "product",
+        "laboratory",
+        "co-requisite",
+        "practice",
+        "understand",
+        "techniques"
+      ],
+      "prerequisites": [
+        "040153110"
+      ],
+      "related_courses": [
+        "040153110"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "core",
+        "health_product_development",
+        "laboratory",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153112",
+      "course_name_th": "สมดุลมวลในกระบวนการสุขภาพและความงาม",
+      "course_name_en": "Mass Balance for Health and Beauty Process",
+      "category": "core",
+      "credits": 3,
+      "description": "OBE 2 Basic calculation in industrial process; unit conversion, interpolation, linear regression, graphical and mathematical methods; chemical process parameters, mass balance with and without chemical reaction; gas-liquid and liquid-liquid equilibrium; mass transfer; solving material balance problem equation.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "mass",
+        "balance",
+        "health",
+        "beauty",
+        "process",
+        "obe",
+        "basic",
+        "calculation",
+        "industrial",
+        "unit"
+      ],
+      "prerequisites": [
+        "040203102"
+      ],
+      "related_courses": [
+        "040153204",
+        "040203102"
+      ],
+      "recommended_next": [
+        "Health and Beauty Industrial Process"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153113",
+      "course_name_th": "เครื่องมือวิเคราะห์สําหรับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Analytical Instrumentation for Health and Beauty Product",
+      "category": "core",
+      "credits": 3,
+      "description": "Spectroscopy technique; UV-Visible spectroscopy; fluorescence spectroscopy; atomic absorption spectroscopy; infrared spectroscopy; nuclear magnetic resonance spectroscopy; refractometry; polarimetry; principles of chromatography; high performance liquid chromatography; gas chromatography; mass spectrometry; method selection; method validation; sample preparation; certificate of analysis.",
+      "skills": [
+        "Laboratory",
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "analytical",
+        "instrumentation",
+        "health",
+        "beauty",
+        "product",
+        "spectroscopy",
+        "technique",
+        "uv-visible",
+        "fluorescence",
+        "atomic"
+      ],
+      "prerequisites": [
+        "040153106"
+      ],
+      "related_courses": [
+        "040153106",
+        "040153114"
+      ],
+      "recommended_next": [
+        "Analytical Instrumentation Laboratory for Health and Beauty Product"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "health_product_development",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153114",
+      "course_name_th": "ปฏิบัติการเครื่องมือวิเคราะห์สําหรับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Analytical Instrumentation Laboratory for Health and Beauty Product",
+      "category": "core",
+      "credits": 1,
+      "description": "Product or co-requisite Laboratory practice to understand techniques and contents related to analytical instrumentation for health and beauty product.",
+      "skills": [
+        "Laboratory",
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "analytical",
+        "instrumentation",
+        "laboratory",
+        "health",
+        "beauty",
+        "product",
+        "co-requisite",
+        "practice",
+        "understand",
+        "techniques"
+      ],
+      "prerequisites": [
+        "040153113"
+      ],
+      "related_courses": [
+        "040153113"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "health_product_development",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153115",
+      "course_name_th": "เคมีอินทรีย์สําหรับวิทยาศาสตร์สุขภาพและความงาม 2",
+      "course_name_en": "Organic Chemistry for Health and Beauty Science II",
+      "category": "core",
+      "credits": 3,
+      "description": "Structure; physical and chemical properties of organic compounds; preparation and reaction mechanism of amine; carboxylic acids and their derivatives; aldehydes and ketones; heterocyclic compounds; introduction to photochemistry and spectroscopy; applications of organic substances in health and beauty science.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "organic",
+        "chemistry",
+        "health",
+        "beauty",
+        "science",
+        "structure",
+        "physical",
+        "chemical",
+        "properties",
+        "compounds"
+      ],
+      "prerequisites": [
+        "040153108"
+      ],
+      "related_courses": [
+        "040153108",
+        "040153208"
+      ],
+      "recommended_next": [
+        "Natural Product for Health and Beauty Science"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153116",
+      "course_name_th": "เคมีอนินทรีย์สําหรับวิทยาศาสตร์สุขภาพและความงาม",
+      "course_name_en": "Inorganic Chemistry for Health and Beauty Science",
+      "category": "core",
+      "credits": 3,
+      "description": "Overview of atomic structure and properties; periodic table trends and relationship of some properties of the elements; aspects of chemical bonding; reactivity of some inorganic molecules and material; transition metal chemistry; coordination chemistry; coloring of cosmetics, food, and drug; pigment and pigment process; applications of inorganic chemistry in health and beauty product.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "inorganic",
+        "chemistry",
+        "health",
+        "beauty",
+        "science",
+        "overview",
+        "atomic",
+        "structure",
+        "properties",
+        "periodic"
+      ],
+      "prerequisites": [
+        "040153103"
+      ],
+      "related_courses": [
+        "040153103"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "core",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153201",
+      "course_name_th": "การตั้งตํารับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Formulation for Health and Beauty Product",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Overview of various chemicals used in health and beauty products; classification of products according to forms and components such as solutions; suspensions; emulsions; ointments; gels; oils; sprays; foams; powders; pressed powders; tablets and capsules; basic techniques in formulation.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "formulation",
+        "health",
+        "beauty",
+        "product",
+        "overview",
+        "various",
+        "chemicals",
+        "used",
+        "products",
+        "classification"
+      ],
+      "prerequisites": [
+        "040153108"
+      ],
+      "related_courses": [
+        "040153108",
+        "040153202",
+        "040153213",
+        "040153301",
+        "040153303"
+      ],
+      "recommended_next": [
+        "Formulation Laboratory for Health and Beauty Product",
+        "Health and Beauty Product Development",
+        "Health and Beauty Products for Skin, Oral, and Perfume",
+        "Health and Beauty Product for Hair Nail and Color Cosmetics"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "chemistry",
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153202",
+      "course_name_th": "ปฏิบัติการการตั้งตํารับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Formulation Laboratory for Health and Beauty Product",
+      "category": "major_required",
+      "credits": 1,
+      "description": "or co-requisite Formulation laboratories related and supported to the theoretical background in Introduction to Formulation for health and beauty product.",
+      "skills": [
+        "Laboratory",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "formulation",
+        "laboratory",
+        "health",
+        "beauty",
+        "product",
+        "co-requisite",
+        "laboratories",
+        "related",
+        "supported",
+        "theoretical"
+      ],
+      "prerequisites": [
+        "040153201"
+      ],
+      "related_courses": [
+        "040153201"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "health_product_development",
+        "laboratory",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153203",
+      "course_name_th": "วิทยาศาสตร์ของอินเตอร์เฟสและอิมัลชัน",
+      "course_name_en": "Interphase and Emulsion Science",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Mathermatics II OBE 2 Intermolecular and interparticle force; surface and interfacial tension; fundamental equations in colloid and surface science; surfactant and self-Assembly; detergents and cleaning; Wetting and adhesion; adsorption; characterization methods of colloids; rheology; colloid stability; emulsion; foam.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "interphase",
+        "emulsion",
+        "science",
+        "mathermatics",
+        "obe",
+        "intermolecular",
+        "interparticle",
+        "force",
+        "surface",
+        "interfacial"
+      ],
+      "prerequisites": [
+        "040153103",
+        "040203102"
+      ],
+      "related_courses": [
+        "040153103",
+        "040203102"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "major_required",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153204",
+      "course_name_th": "กระบวนการทางอุตสาหกรรมสุขภาพและความงาม",
+      "course_name_en": "Health and Beauty Industrial Process",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Type of reactor and equipment used in cosmetic industry; mixing; vessel and impeller type; multiphase system; emulsification process; dry system; ball mill; powder grind; extraction technology; solvent extraction; steam extraction; microwave assisted extraction; ultrasonic assisted extraction; supercritical fluid extraction.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "health",
+        "beauty",
+        "industrial",
+        "process",
+        "type",
+        "reactor",
+        "equipment",
+        "used",
+        "cosmetic",
+        "industry"
+      ],
+      "prerequisites": [
+        "040153112"
+      ],
+      "related_courses": [
+        "040153112"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153205",
+      "course_name_th": "ระเบียบวิธีวิจัยสําหรับกระบวนการสุขภาพและความงาม",
+      "course_name_en": "Research Methodology for Health and Beauty Process",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Introduction to information and publications; search engine and reference management; artificial intelligence searching; research process; research proposal writing; statistical analysis of experimental data; research procedure; Introduction to experimental design; presentation of technical data; technical report writing; scientific presentation; journal article writing.",
+      "skills": [
+        "Machine Learning",
+        "Laboratory",
+        "Health Product Development",
+        "Communication"
+      ],
+      "keywords": [
+        "research",
+        "methodology",
+        "health",
+        "beauty",
+        "process",
+        "introduction",
+        "information",
+        "publications",
+        "search",
+        "engine"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "health_product_development",
+        "laboratory",
+        "machine_learning",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153206",
+      "course_name_th": "ความปลอดภัยทางเคมีและชีวภาพ",
+      "course_name_en": "Chemical and Biological Safety",
+      "category": "major_required",
+      "credits": 2,
+      "description": "Knowledge of chemical and biological materials; safety and safety data sheet; classification and storage; law related to hazardous materials; accident and prevention emergency response; health hazards; dispersion of hazardous material in air; fire and explosion; un-stability of hazardous materials; personal protective equipment; risk assessment; hazardous waste management.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "chemical",
+        "biological",
+        "safety",
+        "knowledge",
+        "materials",
+        "data",
+        "sheet",
+        "classification",
+        "storage",
+        "law"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "chemistry",
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153207",
+      "course_name_th": "วัสดุในเชิงเครื่องสําอางและการแพทย์",
+      "course_name_en": "Medical and Cosmeceutical Material",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Classification of materials: metals, ceramics, polymers, composites; material structure and bonding; diffusion in solid; solid solution, intermetallic; cooling curve and phase diagram of metal and alloy; ceramic and glass material; polymers and polymer composite; advanced materials and nano materials for cosmetics; smart material and application.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "medical",
+        "cosmeceutical",
+        "material",
+        "classification",
+        "materials",
+        "metals",
+        "ceramics",
+        "polymers",
+        "composites",
+        "structure"
+      ],
+      "prerequisites": [
+        "040153103"
+      ],
+      "related_courses": [
+        "040153103"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153208",
+      "course_name_th": "ผลิตภัณฑ์ธรรมชาติสําหรับวิทยาศาสตร์สุขภาพและความงาม",
+      "course_name_en": "Natural Product for Health and Beauty Science",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Definition of natural products; binomial nomenclature; primary metabolites and secondary metabolites; biosynthetic classification of natural products; prediction of chemical and physical properties of natural products from chemical structures; separation; extraction and identification techniques; biological activity; quality control and standards for natural product raw materials; trends in the application of natural products in health and beauty industry.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development",
+        "Quality Control"
+      ],
+      "keywords": [
+        "natural",
+        "product",
+        "health",
+        "beauty",
+        "science",
+        "definition",
+        "products",
+        "binomial",
+        "nomenclature",
+        "primary"
+      ],
+      "prerequisites": [
+        "040153115"
+      ],
+      "related_courses": [
+        "040153115"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "health_product_development",
+        "major_required",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153209",
+      "course_name_th": "เทคโนโลยีชีวเคมีสําหรับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Biochemical Technology for Health and Beauty Product",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Introduction; biomolecules; enzyme; kinetic of enzyme inhibition; metabolism; biosynthesis of DNA; RNA and protein; regulation of gene expression; biochemical technology in industrial product.",
+      "skills": [
+        "Chemistry",
+        "Biotechnology",
+        "Health Product Development",
+        "Quality Control"
+      ],
+      "keywords": [
+        "biochemical",
+        "technology",
+        "health",
+        "beauty",
+        "product",
+        "introduction",
+        "biomolecules",
+        "enzyme",
+        "kinetic",
+        "inhibition"
+      ],
+      "prerequisites": [
+        "040153110"
+      ],
+      "related_courses": [
+        "040153110",
+        "040153210",
+        "040153214"
+      ],
+      "recommended_next": [
+        "Biochemical Technology for Health and Beauty Product Laboratory",
+        "Basic Pharmacology"
+      ],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "easy",
+      "importance": "high",
+      "tags": [
+        "biotechnology",
+        "chemistry",
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153210",
+      "course_name_th": "ปฏิบัติการเทคโนโลยีชีวเคมีสําหรับผลิตภัณฑ์สุขภาพและความงาม",
+      "course_name_en": "Biochemical Technology for Health and Beauty Product Laboratory",
+      "category": "major_required",
+      "credits": 1,
+      "description": "co-requisite Laboratory practice to understand techniques and contents related to Biochemical technology for health and beauty product.",
+      "skills": [
+        "Laboratory",
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "biochemical",
+        "technology",
+        "health",
+        "beauty",
+        "product",
+        "laboratory",
+        "co-requisite",
+        "practice",
+        "understand",
+        "techniques"
+      ],
+      "prerequisites": [
+        "040153209"
+      ],
+      "related_courses": [
+        "040153209"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "health_product_development",
+        "laboratory",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153211",
+      "course_name_th": "สัมมนาสําหรับวิทยาศาสตร์สุขภาพและความงาม 1",
+      "course_name_en": "Seminar for Health and Beauty Science I",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Study of interesting topics in the field of industrial chemistry; technology and research articles published in the international journal and organizing of presentation of their selected topic systematically.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development",
+        "Communication"
+      ],
+      "keywords": [
+        "seminar",
+        "health",
+        "beauty",
+        "science",
+        "study",
+        "interesting",
+        "topics",
+        "field",
+        "industrial",
+        "chemistry"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040153215"
+      ],
+      "recommended_next": [
+        "Seminar for Health and Beauty Science II"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "chemistry",
+        "communication",
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153212",
+      "course_name_th": "การลงทุนทางอุตสาหกรรม",
+      "course_name_en": "Industrial Investment",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Time value of money; interest; cost estimation; capital cost; purchase cost; feasibility analysis of project; rate of return analysis; profitability analysis; break- even point; depreciation; inflation; business decision making; technical feasibility; technology transfer; case study.",
+      "skills": [
+        "Business"
+      ],
+      "keywords": [
+        "industrial",
+        "investment",
+        "time",
+        "value",
+        "money",
+        "interest",
+        "cost",
+        "estimation",
+        "capital",
+        "purchase"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "business",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153213",
+      "course_name_th": "พัฒนาผลิตภัณฑ์เพื่อสุขภาพและความงาม",
+      "course_name_en": "Health and Beauty Product Development",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Classification and function of ingredient; perfume; the modern production technology for health and beauty product; innovation of health and beauty product; evaluation of product trends; development; evaluation of physical property; chemical property and bioactivity of product; self-life and stability of product; case study.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "health",
+        "beauty",
+        "product",
+        "development",
+        "classification",
+        "function",
+        "ingredient",
+        "perfume",
+        "modern",
+        "production"
+      ],
+      "prerequisites": [
+        "040153201"
+      ],
+      "related_courses": [
+        "040153201"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153214",
+      "course_name_th": "เภสัชวิทยาพื้นฐาน",
+      "course_name_en": "Basic Pharmacology",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Source of drug; drug development; drug nomenclature; drug delivery; pharmaceutical dosage forms; pharmacokinetics; integrated pharmacokinetics; pharmacokinetic variability; pharmacodynamics; the link between pharmacokinetics and pharmacodynamics; drug for health and beauty technology.",
+      "skills": [
+        "Biology",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "basic",
+        "pharmacology",
+        "source",
+        "drug",
+        "development",
+        "nomenclature",
+        "delivery",
+        "pharmaceutical",
+        "dosage",
+        "forms"
+      ],
+      "prerequisites": [
+        "040153209"
+      ],
+      "related_courses": [
+        "040153209"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "hard",
+      "importance": "high",
+      "tags": [
+        "biology",
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153215",
+      "course_name_th": "สัมมนาสําหรับวิทยาศาสตร์สุขภาพและความงาม 2",
+      "course_name_en": "Seminar for Health and Beauty Science II",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Study of interesting topics in the field of industrial chemistry; technology and research articles published in the international journal and organizing of presentation of their selected topic systematically.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development",
+        "Communication"
+      ],
+      "keywords": [
+        "seminar",
+        "health",
+        "beauty",
+        "science",
+        "study",
+        "interesting",
+        "topics",
+        "field",
+        "industrial",
+        "chemistry"
+      ],
+      "prerequisites": [
+        "040153211"
+      ],
+      "related_courses": [
+        "040153211"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "chemistry",
+        "communication",
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153301",
+      "course_name_th": "ผลิตภัณฑ์สุขภาพและความงามสําหรับผิวหนัง ช่องปาก และ เครื่องหอม",
+      "course_name_en": "Health and Beauty Products for Skin, Oral, and Perfume",
+      "category": "elective",
+      "credits": 3,
+      "description": "Structure and function of the skin; formulation of products for the skin; skin cleansing products; exfoliating products; body massage products; body wrap; antiperspirant and body odor products; sunscreen products and after sun products; skincare products; oral cleaning products; perfumes; skin health supplements; current trends in products for skin.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "health",
+        "beauty",
+        "products",
+        "skin",
+        "oral",
+        "perfume",
+        "structure",
+        "function",
+        "formulation",
+        "cleansing"
+      ],
+      "prerequisites": [
+        "040153201"
+      ],
+      "related_courses": [
+        "040153201",
+        "040153302"
+      ],
+      "recommended_next": [
+        "Health and Beauty Products Laboratory for Skin, Oral, and Perfume"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153302",
+      "course_name_th": "ปฏิบัติการผลิตภัณฑ์สุขภาพและความงามสําหรับผิวหนัง ช่องปาก",
+      "course_name_en": "Health and Beauty Products Laboratory for Skin, Oral, and Perfume",
+      "category": "elective",
+      "credits": 1,
+      "description": "and Perfume or co-requisite Formulation laboratories related and supported to the theoretical background in Health and Beauty Products for Skin, Oral, and Perfume.",
+      "skills": [
+        "Laboratory",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "health",
+        "beauty",
+        "products",
+        "laboratory",
+        "skin",
+        "oral",
+        "perfume",
+        "co-requisite",
+        "formulation",
+        "laboratories"
+      ],
+      "prerequisites": [
+        "040153301"
+      ],
+      "related_courses": [
+        "040153301"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "health_product_development",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153303",
+      "course_name_th": "ผลิตภัณฑ์สุขภาพและความงามสําหรับ ผม เล็บ และเครื่องสําอางแต่งสี",
+      "course_name_en": "Health and Beauty Product for Hair Nail and Color Cosmetics",
+      "category": "elective",
+      "credits": 3,
+      "description": "Structure of hair and nails; formulations for different types of hair and scalp products; shampoos; conditioners; hair; and scalp treatments. hair styling products; hair curling products; hair straightening products; hair supplements; current trends in hair and scalp care products; formulation of coloring products according to the requirements for the use of color in cosmetic products; face; eye; and lip coloring products; pressed powder; hair dye products; nail dye products; current trends in coloring products.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "health",
+        "beauty",
+        "product",
+        "hair",
+        "nail",
+        "color",
+        "cosmetics",
+        "structure",
+        "nails",
+        "formulations"
+      ],
+      "prerequisites": [
+        "040153201"
+      ],
+      "related_courses": [
+        "040153201",
+        "040153304"
+      ],
+      "recommended_next": [
+        ""
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153304",
+      "course_name_th": "ปฏิบัติการผลิตภัณฑ์สุขภาพและความงามสําหรับผม",
+      "course_name_en": "",
+      "category": "elective",
+      "credits": 1,
+      "description": "Color Cosmetics or co-requisite Formulation laboratories related and supported to the theoretical background in Health and Beauty Products for Hair Nail and Color Cosmetics.",
+      "skills": [
+        "Laboratory",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "color",
+        "cosmetics",
+        "co-requisite",
+        "formulation",
+        "laboratories",
+        "related",
+        "supported",
+        "theoretical",
+        "background",
+        "health"
+      ],
+      "prerequisites": [
+        "040153303"
+      ],
+      "related_courses": [
+        "040153303"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "health_product_development",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153305",
+      "course_name_th": "เทคโนโลยีสารให้กลิ่นรสและสารหอม",
+      "course_name_en": "Flavor and Fragrance Technology",
+      "category": "elective",
+      "credits": 3,
+      "description": "Introduction; structure; characteristic; property of flavor and fragrance; chemical reaction of flavor and fragrance; application of flavor and fragrance in products; sensory analysis.",
+      "skills": [
+        "Chemistry"
+      ],
+      "keywords": [
+        "flavor",
+        "fragrance",
+        "technology",
+        "introduction",
+        "structure",
+        "characteristic",
+        "property",
+        "chemical",
+        "reaction",
+        "application"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040153306"
+      ],
+      "recommended_next": [
+        "Flavor and Fragrance Technology Laboratory"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "chemistry",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153306",
+      "course_name_th": "ปฏิบัติการเทคโนโลยีสารให้กลิ่นรสและสารหอม",
+      "course_name_en": "Flavor and Fragrance Technology Laboratory",
+      "category": "elective",
+      "credits": 1,
+      "description": "Flavor and Fragrance Technology laboratories related and supported to the theoretical background Flavor and Fragrance Technology.",
+      "skills": [
+        "Laboratory"
+      ],
+      "keywords": [
+        "flavor",
+        "fragrance",
+        "technology",
+        "laboratory",
+        "laboratories",
+        "related",
+        "supported",
+        "theoretical",
+        "background"
+      ],
+      "prerequisites": [
+        "040153305"
+      ],
+      "related_courses": [
+        "040153305"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153307",
+      "course_name_th": "น้ําหอมและน้ํามันหอมระเหย",
+      "course_name_en": "Perfume and Aroma",
+      "category": "elective",
+      "credits": 3,
+      "description": "Introduction; chemical structure; odor characteristic; classification of perfume; analytical of odor profile; blending; aroma therapy oil; product application.",
+      "skills": [
+        "Chemistry"
+      ],
+      "keywords": [
+        "perfume",
+        "aroma",
+        "introduction",
+        "chemical",
+        "structure",
+        "odor",
+        "characteristic",
+        "classification",
+        "analytical",
+        "profile"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040153308"
+      ],
+      "recommended_next": [
+        "Perfume and Aroma Laboratory"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "chemistry",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153308",
+      "course_name_th": "ปฏิบัติการน้ําหอมและน้ํามันหอมระเหย",
+      "course_name_en": "Perfume and Aroma Laboratory",
+      "category": "elective",
+      "credits": 1,
+      "description": "Perfume and Aroma laboratories related and supported to the theoretical background Perfume and Aroma.",
+      "skills": [
+        "Laboratory"
+      ],
+      "keywords": [
+        "perfume",
+        "aroma",
+        "laboratory",
+        "laboratories",
+        "related",
+        "supported",
+        "theoretical",
+        "background"
+      ],
+      "prerequisites": [
+        "040153307"
+      ],
+      "related_courses": [
+        "040153307"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "laboratory"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153309",
+      "course_name_th": "นวัตกรรมเพื่อผลิตภัณฑ์อาหารเสริมสุขภาพ",
+      "course_name_en": "Innovation for Dietary Supplement Product",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of dietary supplement products; classification; production technology; innovation; safety and regulation of dietary supplement product.",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "innovation",
+        "dietary",
+        "supplement",
+        "product",
+        "principles",
+        "products",
+        "classification",
+        "production",
+        "technology",
+        "safety"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153310",
+      "course_name_th": "สารออกฤทธิ์เชิงหน้าที่",
+      "course_name_en": "Functional Ingredients",
+      "category": "elective",
+      "credits": 3,
+      "description": "Principles of functional ingredient; physical property; chemical property; biological property; safety and regulation.",
+      "skills": [
+        "Chemistry",
+        "Quality Control"
+      ],
+      "keywords": [
+        "functional",
+        "ingredients",
+        "principles",
+        "ingredient",
+        "physical",
+        "property",
+        "chemical",
+        "biological",
+        "safety",
+        "regulation"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "chemistry",
+        "elective",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153311",
+      "course_name_th": "ธุรกิจสปา",
+      "course_name_en": "Spa Business",
+      "category": "elective",
+      "credits": 3,
+      "description": "OBE 2 Spa market; spa components; scent emotion and therapy; Thai massage; essential oils; aromatherapy products; herbal spa products; spa business opportunity in Thailand; spa business opportunity in global market.",
+      "skills": [
+        "Business"
+      ],
+      "keywords": [
+        "spa",
+        "business",
+        "obe",
+        "market",
+        "components",
+        "scent",
+        "emotion",
+        "therapy",
+        "thai",
+        "massage"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "business",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153312",
+      "course_name_th": "เคมีของเครื่องสําอางแต่งสี",
+      "course_name_en": "Chemistry of Color Cosmetics",
+      "category": "elective",
+      "credits": 3,
+      "description": "Color and cosmetics; color and emotion; basic makeup; natural pigments; synthetic pigments; functional pigments; pigment selection; stability and safety.",
+      "skills": [
+        "Chemistry"
+      ],
+      "keywords": [
+        "chemistry",
+        "color",
+        "cosmetics",
+        "emotion",
+        "basic",
+        "makeup",
+        "natural",
+        "pigments",
+        "synthetic",
+        "functional"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "chemistry",
+        "elective"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153313",
+      "course_name_th": "การออกแบบบรรจุภัณฑ์",
+      "course_name_en": "Packaging Design",
+      "category": "elective",
+      "credits": 3,
+      "description": "Introduction; characteristic and classification of packaging products; label; packaging design components; packaging design for sustainability; quality control of packaging products; circular economy related regulation for packaging products.",
+      "skills": [
+        "Laboratory",
+        "Quality Control"
+      ],
+      "keywords": [
+        "packaging",
+        "design",
+        "introduction",
+        "characteristic",
+        "classification",
+        "products",
+        "label",
+        "components",
+        "sustainability",
+        "quality"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "laboratory",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153314",
+      "course_name_th": "วัสดุชีวภาพเพื่อใช้ในเทคโนโลยีสุขภาพและความงาม",
+      "course_name_en": "Biomaterials for Health and Beauty Technology",
+      "category": "elective",
+      "credits": 3,
+      "description": "Introduction; dermis; component of extracellular matrix; type; structure and biomaterial synthesis for health and beauty technology; peptides; polysaccharide; application of health and beauty technology.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "biomaterials",
+        "health",
+        "beauty",
+        "technology",
+        "introduction",
+        "dermis",
+        "component",
+        "extracellular",
+        "matrix",
+        "type"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153315",
+      "course_name_th": "เทคโนโลยีอิมัลชัน",
+      "course_name_en": "",
+      "category": "elective",
+      "credits": 3,
+      "description": "Emulsion and classification; property of surfaces and interface; colloidal interaction in emulsion; emulsion destabilization mechanism; emulsifier and application; emulsion and product formulation; emulsion and encapsulation technology; industrial application of emulsion.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "emulsion",
+        "classification",
+        "property",
+        "surfaces",
+        "interface",
+        "colloidal",
+        "interaction",
+        "destabilization",
+        "mechanism",
+        "emulsifier"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "elective",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153316",
+      "course_name_th": "เรื่องคัดเฉพาะทางวิทยาศาสตร์สุขภาพและความงาม",
+      "course_name_en": "Selected Topic in Health and Beauty Science",
+      "category": "elective",
+      "credits": 3,
+      "description": "Interesting topics or novel topics in Industrial Chemistry or related subjects; dependent on the department permission.",
+      "skills": [
+        "Chemistry",
+        "Health Product Development"
+      ],
+      "keywords": [
+        "selected",
+        "topic",
+        "health",
+        "beauty",
+        "science",
+        "interesting",
+        "topics",
+        "novel",
+        "industrial",
+        "chemistry"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "medium",
+      "tags": [
+        "chemistry",
+        "elective",
+        "health_product_development"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153401",
+      "course_name_th": "โครงงานพิเศษ 1",
+      "course_name_en": "Special Project I",
+      "category": "major_required",
+      "credits": 6,
+      "description": "completed at least 78 credits Setting up the special project in the field of chemistry; industrial chemistry or applied science; getting experiences in reviewing literature; writing research proposal; designing experiments; writing progress report and delivering the research presentation to the department.",
+      "skills": [
+        "Chemistry",
+        "Communication"
+      ],
+      "keywords": [
+        "special",
+        "project",
+        "completed",
+        "least",
+        "credits",
+        "setting",
+        "field",
+        "chemistry",
+        "industrial",
+        "applied"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040153402"
+      ],
+      "recommended_next": [
+        "Special Project II"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "chemistry",
+        "communication",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153402",
+      "course_name_th": "โครงงานพิเศษ 2",
+      "course_name_en": "Special Project II",
+      "category": "major_required",
+      "credits": 6,
+      "description": "Continuing work from Special Project I or the work assigned by the department; writing the final report and delivering the research presentation to the department.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "special",
+        "project",
+        "continuing",
+        "work",
+        "assigned",
+        "department",
+        "writing",
+        "final",
+        "report",
+        "delivering"
+      ],
+      "prerequisites": [
+        "040153401"
+      ],
+      "related_courses": [
+        "040153401"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "communication",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153403",
+      "course_name_th": "การฝึกงาน",
+      "course_name_en": "Training",
+      "category": "major_required",
+      "credits": 1,
+      "description": "must be completed at least 54 credits Internship in industries; government; state enterprises or other parties involved either manufacturing and chemical testing in laboratory for at least 200 hours.",
+      "skills": [
+        "Laboratory",
+        "Chemistry"
+      ],
+      "keywords": [
+        "training",
+        "must",
+        "completed",
+        "least",
+        "credits",
+        "internship",
+        "industries",
+        "government",
+        "state",
+        "enterprises"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "chemistry",
+        "laboratory",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153501",
+      "course_name_th": "สหกิจศึกษา 1",
+      "course_name_en": "Co-operative Education I",
+      "category": "major_required",
+      "credits": 6,
+      "description": "must be completed at least 78 credits OBE 2 Performing a research project in industrial factory; government; state enterprises or other parties to solve problem or to develop any products under the supervision of department staffs or factory specialists; writing progress report and delivering the research presentation to the department.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "co-operative",
+        "education",
+        "must",
+        "completed",
+        "least",
+        "credits",
+        "obe",
+        "performing",
+        "research",
+        "project"
+      ],
+      "prerequisites": [
+        "040113503"
+      ],
+      "related_courses": [
+        "040113503"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "communication",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153502",
+      "course_name_th": "สหกิจศึกษา 2",
+      "course_name_en": "Co-operative Education II",
+      "category": "major_required",
+      "credits": 6,
+      "description": "must be completed at least 78 credits Performing a research project in industrial factory; government; state enterprises or other parties to solve problem or to develop any products under the supervision of department staffs or factory specialists; writing progress report and delivering the research presentation to the department.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "co-operative",
+        "education",
+        "must",
+        "completed",
+        "least",
+        "credits",
+        "performing",
+        "research",
+        "project",
+        "industrial"
+      ],
+      "prerequisites": [
+        "040153503"
+      ],
+      "related_courses": [
+        "040153503"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "high",
+      "tags": [
+        "communication",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040153503",
+      "course_name_th": "เตรียมสหกิจศึกษา (S/U)",
+      "course_name_en": "Pre-cooperative Education",
+      "category": "major_required",
+      "credits": 1,
+      "description": "Principles; concepts and processes of cooperative education; related rules and regulations; special talk; preparing activity for co-operative education",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "pre-cooperative",
+        "education",
+        "principles",
+        "concepts",
+        "processes",
+        "cooperative",
+        "related",
+        "rules",
+        "regulations",
+        "special"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040153502"
+      ],
+      "recommended_next": [
+        "Co-operative Education II"
+      ],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040203101",
+      "course_name_th": "คณิตศาสตร์ 1",
+      "course_name_en": "Mathematics I",
+      "category": "core",
+      "credits": 3,
+      "description": "Limit and continuity of functions; slope and tangent line; derivative of function; velocity and rate of change; differentiation rules; higher-order derivative; derivatives of elementary functions; parametric equations; applications of derivative; related rates; maxima and minima; indeterminate forms; definite and indefinite integrals; area between curves; techniques of integration; numerical integration.",
+      "skills": [
+        "Mathematical Modeling"
+      ],
+      "keywords": [
+        "mathematics",
+        "limit",
+        "continuity",
+        "functions",
+        "slope",
+        "tangent",
+        "line",
+        "derivative",
+        "function",
+        "velocity"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "040203102"
+      ],
+      "recommended_next": [
+        "Mathematics II"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "hard",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "mathematical_modeling"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040203102",
+      "course_name_th": "คณิตศาสตร์ 2",
+      "course_name_en": "Mathematics II",
+      "category": "core",
+      "credits": 3,
+      "description": "Improper integrals; applications of definite integrals; arc length; area of surface of revolution; volume of revolution; functions of several variables; limit and continuity; partial derivative and applications; double and triple integrals; applications of multiple integral; sequences and series; tests for convergence; power series; Taylor and Maclaurin series.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "mathematics",
+        "improper",
+        "integrals",
+        "applications",
+        "definite",
+        "arc",
+        "length",
+        "area",
+        "surface",
+        "revolution"
+      ],
+      "prerequisites": [
+        "040203101"
+      ],
+      "related_courses": [
+        "040153112",
+        "040153203",
+        "040203101"
+      ],
+      "recommended_next": [
+        "Mass Balance for Health and Beauty Process",
+        "Interphase and Emulsion Science"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040313009",
+      "course_name_th": "ฟิสิกส์ทั่วไป",
+      "course_name_en": "General Physics",
+      "category": "core",
+      "credits": 3,
+      "description": "OBE 2 Vector; mechanics of motion; Newton’ s law of motion and its application; work; energy; momentum; rotation; vibration; wave; sound; Doppler effect; heat; laws of thermodynamics; fluid mechanics; electric forces; electric fields; electric potential; electric potential energy; electric circuit; magnetic forces; magnetic fields; induction; electromagnetic waves; geometrical optics; modern physics.",
+      "skills": [
+        "Problem Solving"
+      ],
+      "keywords": [
+        "general",
+        "physics",
+        "obe",
+        "vector",
+        "mechanics",
+        "motion",
+        "newton",
+        "law",
+        "its",
+        "application"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "core",
+        "problem_solving"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040413001",
+      "course_name_th": "ชีววิทยาในชีวิตประจําวัน",
+      "course_name_en": "Biology in Daily Life",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Definition of biology; characteristic of life; human body; genetics in daily life; man and microorganisms; importance and application of biology in daily life.",
+      "skills": [
+        "Biology"
+      ],
+      "keywords": [
+        "biology",
+        "daily",
+        "life",
+        "definition",
+        "characteristic",
+        "human",
+        "body",
+        "genetics",
+        "man",
+        "microorganisms"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "biology",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040503001",
+      "course_name_th": "สถิติในชีวิตประจําวัน",
+      "course_name_en": "Statistics in Everyday Life",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Overview statistics in everyday life; counting technique; probability; sampling technique; index number; statistical quality control; decision analysis; simple linear regression analysis and correlation; time series analysis, decomposition method.",
+      "skills": [
+        "Data Analysis",
+        "Quality Control"
+      ],
+      "keywords": [
+        "statistics",
+        "everyday",
+        "life",
+        "overview",
+        "counting",
+        "technique",
+        "probability",
+        "sampling",
+        "index",
+        "number"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "data_analysis",
+        "major_required",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040603002",
+      "course_name_th": "ระบบคอมพิวเตอร์และโปรแกรมประยุกต์",
+      "course_name_en": "Computer System and Applications",
+      "category": "major_required",
+      "credits": 3,
+      "description": "OBE 2 Computer system; computer-based problem solving; computer applications as a problem- solving tool; computer technology in document processing and data processing; accessing to network systems and efficient electronic communications.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "computer",
+        "system",
+        "applications",
+        "obe",
+        "computer-based",
+        "problem",
+        "solving",
+        "problem-",
+        "tool",
+        "technology"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "communication",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040603003",
+      "course_name_th": "จริยธรรมในการใช้งานคอมพิวเตอร์",
+      "course_name_en": "Computer Ethics",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Computer crime overiew; types of computer crime; types of intellectual properties; intellectual property relevant to network and computer security; digital rights management; privacy law and regulation; organizational response; protecting programs and data; rights of employees and employers; ownership of products; computer usage privacy; ethics and moral principle; difference between law and ethics.",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "computer",
+        "ethics",
+        "crime",
+        "overiew",
+        "types",
+        "intellectual",
+        "properties",
+        "property",
+        "relevant",
+        "network"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "major_required",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "040713001",
+      "course_name_th": "มนุษย์กับวิทยาศาสตร์กายภาพชีวภาพ",
+      "course_name_en": "Man Physical Science and Biological Science",
+      "category": "major_required",
+      "credits": 3,
+      "description": "Physical factors important to human : temperature; moisture; wind; light; pressure; relationships between physical and biological science to human; living organisms; evolution; heredity; infection; immunity; drugs for disease treatment; nutrition; environment changes; global and regional climate; pollution and environmental health; impact of science and technology development to human balance.",
+      "skills": [
+        "Health Product Development"
+      ],
+      "keywords": [
+        "man",
+        "physical",
+        "science",
+        "biological",
+        "factors",
+        "important",
+        "human",
+        "temperature",
+        "moisture",
+        "wind"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "very_high",
+      "tags": [
+        "health_product_development",
+        "major_required"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080103001",
+      "course_name_th": "ภาษาอังกฤษ 1",
+      "course_name_en": "English I",
+      "category": "general",
+      "credits": 3,
+      "description": "Listening; speaking; reading and writing skills; communicating in simple and routine tasks; reading short passages; writing sentences.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "listening",
+        "speaking",
+        "reading",
+        "writing",
+        "skills",
+        "communicating",
+        "simple",
+        "routine",
+        "tasks"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080103002",
+      "course_name_th": "ภาษาอังกฤษ 2",
+      "course_name_en": "English II",
+      "category": "general",
+      "credits": 3,
+      "description": "(English II) วิชาบังคับก่อน: 080103001 ภาษาอังกฤษ 1 Prerequisite:",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "prerequisite"
+      ],
+      "prerequisites": [],
+      "related_courses": [
+        "080103018",
+        "080103034"
+      ],
+      "recommended_next": [
+        "English for Work",
+        "English Conversation"
+      ],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080103018",
+      "course_name_th": "ภาษาอังกฤษเพื่อการทํางาน",
+      "course_name_en": "English for Work",
+      "category": "general",
+      "credits": 3,
+      "description": "Language skills for work; job applications; job interviews; welcoming visitors; telephoning; making appointments; describing company products and services; running meetings; negotiations; performance reviews; business travel.",
+      "skills": [
+        "Business",
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "work",
+        "language",
+        "skills",
+        "job",
+        "applications",
+        "interviews",
+        "welcoming",
+        "visitors",
+        "telephoning"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103063"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103063"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "business",
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080103034",
+      "course_name_th": "การสนทนาภาษาอังกฤษ",
+      "course_name_en": "English Conversation",
+      "category": "general",
+      "credits": 3,
+      "description": "English communication skills with an emphasis on speaking; listening; and pronunciation; functional languages in daily conversation.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "english",
+        "conversation",
+        "communication",
+        "skills",
+        "emphasis",
+        "speaking",
+        "listening",
+        "pronunciation",
+        "functional",
+        "languages"
+      ],
+      "prerequisites": [
+        "080103002",
+        "080103063"
+      ],
+      "related_courses": [
+        "080103002",
+        "080103063"
+      ],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080203905",
+      "course_name_th": "เศรษฐศาสตร์ในชีวิตประจําวัน",
+      "course_name_en": "Economics for Everyday Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Economic activities in society; consumption; investment; inflation; deflation; financial institutions; taxation; international trade between ASEAN countries; Principle of Sufficient Economy; government direction in economic problem solving; self-adaptation to various economic situations.",
+      "skills": [
+        "Business"
+      ],
+      "keywords": [
+        "economics",
+        "everyday",
+        "life",
+        "economic",
+        "activities",
+        "society",
+        "consumption",
+        "investment",
+        "inflation",
+        "deflation"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "business",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080203906",
+      "course_name_th": "เศรษฐศาสตร์เพื่อการพัฒนาชีวิต",
+      "course_name_en": "Economics for Life Development",
+      "category": "general",
+      "credits": 3,
+      "description": "Human in economic society; fundamental economics for living; trade-off and alternative analysis; market structure; market mechanism and its affecting factors; time value of money; income-expenditure management; savings; investment; economic evaluation of investment and application of knowledge for life development in accordance with Sufficiency Economy Philosophy.",
+      "skills": [
+        "Business"
+      ],
+      "keywords": [
+        "economics",
+        "life",
+        "development",
+        "human",
+        "economic",
+        "society",
+        "fundamental",
+        "living",
+        "trade-off",
+        "alternative"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "business",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080203907",
+      "course_name_th": "ธุรกิจในชีวิตประจําวัน",
+      "course_name_en": "Business for Everyday Life",
+      "category": "general",
+      "credits": 3,
+      "description": "Importance of business in everyday life; business environment; forms of business; business roles; business information technology management; business ethics and social responsibility.",
+      "skills": [
+        "Business"
+      ],
+      "keywords": [
+        "business",
+        "everyday",
+        "life",
+        "importance",
+        "environment",
+        "forms",
+        "roles",
+        "information",
+        "technology",
+        "management"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "business",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080303201",
+      "course_name_th": "การพูดเพื่อประสิทธิผล",
+      "course_name_en": "Effective Speech",
+      "category": "general",
+      "credits": 3,
+      "description": "Fundamentals of speech communication and speech development; principles of written dialogue; personality and professional appearance; speaking in various forms and situations; sudden speech training; effective presentation; interview skills for entering a career and applied communication arts by focusing on training to be able to put into practice.",
+      "skills": [
+        "Communication"
+      ],
+      "keywords": [
+        "effective",
+        "speech",
+        "fundamentals",
+        "communication",
+        "development",
+        "principles",
+        "written",
+        "dialogue",
+        "personality",
+        "professional"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist",
+        "Health & Beauty Entrepreneur"
+      ],
+      "difficulty": "medium",
+      "importance": "low",
+      "tags": [
+        "communication",
+        "general"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    },
+    {
+      "course_code": "080303501",
+      "course_name_th": "บาสเกตบอล",
+      "course_name_en": "Basketball",
+      "category": "general",
+      "credits": 1,
+      "description": "History of basketball; techniques; rules; regulations; usage of proper equipment; practice in basic skills and applying the skills to play games; good sportsmanship and spectator.",
+      "skills": [
+        "Quality Control"
+      ],
+      "keywords": [
+        "basketball",
+        "history",
+        "techniques",
+        "rules",
+        "regulations",
+        "usage",
+        "proper",
+        "equipment",
+        "practice",
+        "basic"
+      ],
+      "prerequisites": [],
+      "related_courses": [],
+      "recommended_next": [],
+      "career_tracks": [
+        "Regulatory Affairs Specialist",
+        "Cosmetic Scientist",
+        "Health Product Researcher",
+        "Quality Control Scientist",
+        "Product Development Scientist"
+      ],
+      "difficulty": "easy",
+      "importance": "low",
+      "tags": [
+        "general",
+        "quality_control"
+      ],
+      "source": {
+        "university": "KMUTNB",
+        "program": "Health and Beauty Science",
+        "source_file": "สุขภาพและความงาม2567.pdf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  color: #eef2ff;
+  background: #0b1020;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  background: radial-gradient(circle at top left, #1e293b 0%, #0b1020 40%, #050816 100%);
+  overflow: hidden;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.page-shell {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+  width: min(1200px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 32px 0 48px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.page-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(124, 58, 237, 0.28), transparent 28%),
+    radial-gradient(circle at 80% 20%, rgba(59, 130, 246, 0.2), transparent 26%),
+    radial-gradient(circle at 50% 80%, rgba(16, 185, 129, 0.14), transparent 22%);
+  pointer-events: none;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+  width: min(1200px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 32px 0 48px;
+}
+
+.hero-card,
+.panel,
+.answer-card,
+.course-card {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(13, 18, 35, 0.72);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.28);
+}
+
+.hero-card {
+  border-radius: 28px;
+  padding: 28px;
+  margin-bottom: 24px;
+}
+
+.hero-badge {
+  display: inline-flex;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(99, 102, 241, 0.18);
+  border: 1px solid rgba(129, 140, 248, 0.35);
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.hero-card h1 {
+  margin: 0 0 12px;
+  font-size: clamp(28px, 4vw, 44px);
+}
+
+.hero-card p {
+  margin: 0;
+  color: #cbd5e1;
+  max-width: 850px;
+}
+
+.grid-layout {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 24px;
+  flex: 1;
+  min-height: 0;
+}
+
+.panel {
+  border-radius: 24px;
+  padding: 24px;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.result-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  min-height: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.result-panel-body {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding-right: 10px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(120, 130, 255, 0.8) transparent;
+}
+
+.result-panel-body::-webkit-scrollbar {
+  width: 8px;
+}
+
+.result-panel-body::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 999px;
+}
+
+.result-panel-body::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, rgba(100, 116, 255, 0.9), rgba(124, 77, 255, 0.9));
+  border-radius: 999px;
+  border: 2px solid rgba(14, 21, 48, 0.8);
+}
+
+.panel-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.panel-header h2 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.panel-header span {
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.form-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.field span {
+  color: #dbeafe;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.field input,
+.field select,
+.field textarea {
+  width: 100%;
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  background: rgba(15, 23, 42, 0.85);
+  color: #f8fafc;
+  border-radius: 16px;
+  padding: 14px 16px;
+  outline: none;
+  transition: 0.2s ease;
+}
+
+.field input:focus,
+.field select:focus,
+.field textarea:focus {
+  border-color: rgba(99, 102, 241, 0.8);
+  box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.15);
+}
+
+.toggle-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.chip {
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  background: rgba(15, 23, 42, 0.8);
+  color: #e2e8f0;
+  border-radius: 999px;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.chip.active {
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  border-color: transparent;
+  color: white;
+}
+
+.submit-btn {
+  border: none;
+  border-radius: 18px;
+  padding: 14px 18px;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  transition: transform 0.18s ease, opacity 0.18s ease;
+}
+
+.submit-btn:hover {
+  transform: translateY(-1px);
+}
+
+.submit-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.error-box {
+  margin-top: 16px;
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: rgba(127, 29, 29, 0.35);
+  border: 1px solid rgba(248, 113, 113, 0.35);
+  color: #fecaca;
+}
+
+.empty-state {
+  min-height: 280px;
+  border-radius: 20px;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  color: #cbd5e1;
+  background: rgba(15, 23, 42, 0.55);
+  border: 1px dashed rgba(148, 163, 184, 0.28);
+  padding: 24px;
+}
+
+.answer-card {
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.answer-title,
+.recommend-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #93c5fd;
+  margin-bottom: 10px;
+}
+
+.answer-text {
+  margin: 0;
+  color: #e5e7eb;
+  white-space: pre-wrap;
+}
+
+.recommend-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.course-card {
+  border-radius: 20px;
+  padding: 18px;
+}
+
+.course-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: flex-start;
+}
+
+.course-top h3 {
+  margin: 0 0 4px;
+  font-size: 18px;
+}
+
+.course-code {
+  margin: 0;
+  color: #94a3b8;
+  font-size: 14px;
+}
+
+.category-pill {
+  white-space: nowrap;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  background: rgba(59, 130, 246, 0.16);
+  border: 1px solid rgba(96, 165, 250, 0.24);
+  color: #bfdbfe;
+}
+
+.course-reason {
+  margin: 14px 0 0;
+  color: #cbd5e1;
+}
+
+@media (max-width: 960px) {
+  .grid-layout {
+    grid-template-columns: 1fr;
+  }
+}
